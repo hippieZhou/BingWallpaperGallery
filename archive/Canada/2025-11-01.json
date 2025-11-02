@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 1, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Herds of heritage",
+  "bsTitle": "Herds of heritage",
+  "caption": "Yellowstone National Park, Wyoming, United States",
+  "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)",
+  "copyrightOnly": "© Cheryl Ramalho/Getty Images",
+  "copyrightLink": "/search?q=Yellowstone+National+Park&form=hpcapt&filters=HpDate%3a%2220251101_0400%22",
+  "description": "The bison embodies a paradox: immense strength paired with quiet calm. Weighing up to 900 kilograms and standing almost 2 metres tall, these giants roam North America's grasslands and river valleys in mobile herds. Photographed here in Yellowstone National Park in Wyoming, United States, they once numbered in the tens of millions but were nearly eradicated in the 19th century—a loss that reshaped ecosystems and disrupted lifeways.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+  "hash": "cab229c72c8758e61bf5621b476459c0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-CA2849126992_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511010400",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.BisonSprings_EN-CA2849126992"
+}

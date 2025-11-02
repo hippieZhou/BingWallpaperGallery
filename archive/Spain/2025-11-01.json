@@ -1,0 +1,43 @@
+{
+  "date": "2 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rebaños de herencia",
+  "bsTitle": "Rebaños de herencia",
+  "caption": "Bisontes pastando, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+  "copyright": "Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU. (© Cheryl Ramalho/Getty Images)",
+  "copyrightOnly": "© Cheryl Ramalho/Getty Images",
+  "copyrightLink": "/search?q=bis%c3%b3n+animal&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+  "description": "El bisonte encarna una paradoja fascinante: una fuerza inmensa unida a una calma serena. Con hasta 900 kilos de peso y casi dos metros de altura, estos gigantes recorren en grupo las praderas y los valles fluviales de América del Norte. En el Parque Nacional de Yellowstone, en Estados Unidos, aún pueden verse manadas descendientes de los millones que antaño poblaron el continente. Su casi extinción en el siglo XIX transformó los ecosistemas y las formas de vida tradicionales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+  "hash": "ea35ddf168fad7bfc7642cbb7bfcb305",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511012300",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.BisonSprings_ES-ES3027945894"
+}

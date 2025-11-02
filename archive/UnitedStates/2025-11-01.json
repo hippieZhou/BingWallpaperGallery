@@ -1,0 +1,43 @@
+{
+  "date": "Nov 1, 2025",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Herds of heritage",
+  "bsTitle": "Herds of heritage",
+  "caption": "National Bison Day",
+  "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)",
+  "copyrightOnly": "© Cheryl Ramalho/Getty Images",
+  "copyrightLink": "/search?q=National+Bison+Day&form=hpcapt&filters=HpDate%3a%2220251101_0700%22",
+  "description": "The bison embodies a paradox: immense strength paired with quiet calm. Weighing up to 2,000 pounds and standing 6 feet tall, these giants roam North America's grasslands and river valleys in mobile herds. Photographed here in Yellowstone National Park, Wyoming, they once numbered in the tens of millions but were nearly eradicated in the 19th century—a loss that reshaped ecosystems and disrupted lifeways.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+  "hash": "3aca14ec983c6a090b5df5f7b02303ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511010700",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.BisonSprings_EN-US6080228013"
+}

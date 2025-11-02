@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Os herdeiros das planícies",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Bisões-americanos pastando em fontes termais, Parque Nacional  de Yellowstone, Wyoming, EUA (© Cheryl Ramalho/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Bis%c3%a3o&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_BisonSprings%22&FORM=HPQUIZ",
+  "hash": "25164047550e865f46f629d67479ec4d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511010300",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.BisonSprings_PT-BR7966374292"
+}

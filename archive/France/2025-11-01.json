@@ -1,0 +1,43 @@
+{
+  "date": "2 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la nature peint Kyoto de rouge et de vert",
+  "bsTitle": "Quand la nature peint Kyoto de rouge et de vert",
+  "caption": "Érable et forêt de bambous, Arashiyama, Kyoto, Japon",
+  "copyright": "Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon (© DoctorEgg/Getty Images)",
+  "copyrightOnly": "© DoctorEgg/Getty Images",
+  "copyrightLink": "/search?q=Kyoto+Japon&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+  "description": "Dans la ville japonaise d’Arashiyama, près de Kyoto, l’automne se déploie comme une peinture vivante. Les érables s’embrasent de rouge, d’or et de cuivre, tandis que les forêts de bambou s’élancent vers le ciel dans un bruissement apaisant. Ces érables japonais aux feuilles finement découpées rappellent que la beauté est fragile, comme une flamme vouée à s'éteindre avec la saison.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+  "hash": "8715c06f08e3ee39b7b934675a9f1484",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511012300",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.KyotoMaple_FR-FR3189675625"
+}

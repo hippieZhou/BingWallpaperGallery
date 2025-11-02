@@ -1,0 +1,43 @@
+{
+  "date": "Nov 2, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Where bamboo breathes and maples blaze",
+  "bsTitle": "Where bamboo breathes and maples blaze",
+  "caption": "Maple and bamboo forests in Arashiyama, Kyoto, Japan",
+  "copyright": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+  "copyrightOnly": "© DoctorEgg/Getty Images",
+  "copyrightLink": "/search?q=Arashiyama+Kyoto&form=hpcapt&filters=HpDate%3a%2220251101_1830%22",
+  "description": "Kyoto's Arashiyama district is renowned for its captivating seasonal landscapes. Here, vibrant Japanese maple trees and serene bamboo forests create a harmonious blend of colour and tranquillity. These maples, known for their delicate, deeply lobed leaves, turn fiery shades of red, orange and gold during autumn, attracting visitors from around the world. They are celebrated not only for their beauty but also for their cultural symbolism—representing elegance, peace and the fleeting nature of life.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+  "hash": "c887b138ae0c67662c359f1968288a68",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-IN1389354305_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511011830",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.KyotoMaple_EN-IN1389354305"
+}

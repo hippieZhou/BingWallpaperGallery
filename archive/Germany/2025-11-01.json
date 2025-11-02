@@ -1,0 +1,43 @@
+{
+  "date": "2. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo Bambus atmet und Ahornbäume leuchten",
+  "bsTitle": "Wo Bambus atmet und Ahornbäume leuchten",
+  "caption": "Ahorn- und Bambuswälder in Arashiyama, Kyoto, Japan",
+  "copyright": "Bunte Ahornblätter und Bambuswald in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)",
+  "copyrightOnly": "© DoctorEgg/Getty Images",
+  "copyrightLink": "/search?q=Japan+Arashiyama&form=hpcapt&filters=HpDate%3a%2220251101_2300%22",
+  "description": "Arashiyama in Kyoto gehört zu den beliebtesten Reisezielen für alle, die die natürliche Essenz Japans erleben möchten. Heute genießen wir die Schönheit der Ahornblätter und des Bambuswaldes, die diesen Ort besonders im Herbst zu einem visuellen Spektakel machen. Zu den Highlights zählen die Togetsukyo-Brücke, der Katsura-Fluss und Tempel wie Tenryu-ji, ein UNESCO-Weltkulturerbe. Außerdem eignet sich die Region perfekt für Bootsfahrten und Panoramarouten, die den kulturellen und landschaftlichen Reichtum der Gegend zeigen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+  "hash": "084891a0d2e367612807d0ca8343585c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_DE-DE4984114115_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511012300",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.KyotoMaple_DE-DE4984114115"
+}

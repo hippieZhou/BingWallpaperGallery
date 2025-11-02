@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 11月 月 2 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "竹と紅葉が奏でる秋の風景",
+  "bsTitle": "竹と紅葉が奏でる秋の風景",
+  "caption": "竹と紅葉が奏でる秋の風景",
+  "copyright": "嵐山の竹林, 京都府 京都市 (© DoctorEgg/Getty Images)",
+  "copyrightOnly": "© DoctorEgg/Getty Images",
+  "copyrightLink": "/search?q=%e5%b5%90%e5%b1%b1%e3%81%ae%e7%ab%b9%e6%9e%97&form=hpcapt&filters=HpDate%3a%2220251101_1500%22",
+  "description": "今日の画像は京都市西部にある嵐山。山麓には多数の寺社が存在し、桜や紅葉の名所としても知られる観光名所です。例年 11 月中旬から 12 月上旬ごろに紅葉が見ごろを迎えます。また、映画やドラマにもたびたび登場する竹が生い茂った「竹林の小径」も有名です…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251101_KyotoMaple%22&FORM=HPQUIZ",
+  "hash": "35b22622a1cba49f48d9b4a307622cdb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251101",
+    "fullStartDateTime": "202511011500",
+    "endDate": "20251102"
+  },
+  "createdAt": "202511020242",
+  "originalUrlBase": "/th?id=OHR.KyotoMaple_JA-JP9092721776"
+}
