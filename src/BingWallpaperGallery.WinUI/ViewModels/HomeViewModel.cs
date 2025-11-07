@@ -15,13 +15,13 @@ using Microsoft.Extensions.Logging;
 
 namespace BingWallpaperGallery.WinUI.ViewModels;
 
-public partial class GalleryViewModel : ObservableRecipient, INavigationAware
+public partial class HomeViewModel : ObservableRecipient, INavigationAware
 {
     private readonly IMarketSelectorService _marketSelectorService;
     private readonly IManagementService _managementService;
     private readonly IInAppNotificationService _inAppNotificationService;
     private readonly IMemoryCache _memoryCache;
-    private readonly ILogger<GalleryViewModel> _logger;
+    private readonly ILogger<HomeViewModel> _logger;
 
     [ObservableProperty]
     public partial IncrementalLoadingCollection<WallpaperInfoSource, WallpaperInfoDto> Wallpapers { get; set; }
@@ -40,12 +40,12 @@ public partial class GalleryViewModel : ObservableRecipient, INavigationAware
     [ObservableProperty]
     public partial WallpaperInfoDto SelectedWallpaper { get; set; }
 
-    public GalleryViewModel(
+    public HomeViewModel(
         IMarketSelectorService marketSelectorService,
         IManagementService managementService,
         IInAppNotificationService inAppNotificationService,
         IMemoryCache memoryCache,
-        ILogger<GalleryViewModel> logger)
+        ILogger<HomeViewModel> logger)
     {
         _marketSelectorService = marketSelectorService;
         _managementService = managementService;
@@ -116,6 +116,6 @@ public partial class GalleryViewModel : ObservableRecipient, INavigationAware
 
         // 导航到详情页
         var navigationService = App.GetService<INavigationService>();
-        navigationService.NavigateTo<WallpaperDetailViewModel>(wallpaper);
+        navigationService.NavigateTo<DetailViewModel>(wallpaper);
     }
 }

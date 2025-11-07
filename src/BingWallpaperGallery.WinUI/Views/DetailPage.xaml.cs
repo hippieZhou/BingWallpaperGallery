@@ -6,16 +6,16 @@ using Microsoft.UI.Xaml.Controls;
 
 namespace BingWallpaperGallery.WinUI.Views;
 
-public sealed partial class WallpaperDetailPage : Page
+public sealed partial class DetailPage : Page
 {
     public CultureInfo Culture { get; } 
-    public WallpaperDetailViewModel ViewModel { get; }
+    public DetailViewModel ViewModel { get; }
 
-    public WallpaperDetailPage()
+    public DetailPage()
     {
         InitializeComponent();
         Culture = CultureInfo.CurrentCulture;
-        ViewModel = App.GetService<WallpaperDetailViewModel>();
+        ViewModel = App.GetService<DetailViewModel>();
     }
 
     private void ToggleEditState()

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AppDisplayName" xml:space="preserve">
-    <value>BingWallpaperGallery</value>
+    <value>Bing Wallpaper Gallery (Unoffical)</value>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>BingWallpaperGallery</value>
+    <value>Bing Wallpaper Gallery (Unoffical)</value>
   </data>
   <data name="AppNotificationSamplePayload" xml:space="preserve">
     <value>&lt;toast launch="action=ToastClick"&gt;
@@ -136,5 +136,11 @@
     &lt;action content="Settings" arguments="action=Settings"/&gt;
   &lt;/actions&gt;
 &lt;/toast&gt;</value>
+  </data>
+  <data name="Shell_Gallery.Content" xml:space="preserve">
+    <value>Gallery</value>
+  </data>
+  <data name="Shell_Download.Content" xml:space="preserve">
+    <value>Download</value>
   </data>
 </root>

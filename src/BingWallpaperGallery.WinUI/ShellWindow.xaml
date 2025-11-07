@@ -9,6 +9,7 @@
     xmlns:i="using:Microsoft.Xaml.Interactivity"
     xmlns:local="using:BingWallpaperGallery.WinUI"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:model="using:BingWallpaperGallery.WinUI.Models"
     xmlns:triggers="using:CommunityToolkit.WinUI"
     xmlns:uc="using:BingWallpaperGallery.WinUI.UserControls"
     xmlns:ui="using:CommunityToolkit.WinUI"
@@ -43,15 +44,17 @@
             Style="{StaticResource StoreNavigationViewStyle}">
             <NavigationView.MenuItems>
                 <NavigationViewItem
-                    helpers:NavigationHelper.NavigateTo="BingWallpaperGallery.WinUI.ViewModels.GalleryViewModel"
-                    Content="画廊"
+                    x:Uid="Shell_Gallery"
+                    d:Content="画廊"
+                    helpers:NavigationHelper.NavigateTo="BingWallpaperGallery.WinUI.ViewModels.HomeViewModel"
                     Icon="{ui:FontIcon Glyph=&#xE80F;}"
                     Tag="Gallery" />
             </NavigationView.MenuItems>
             <NavigationView.FooterMenuItems>
                 <NavigationViewItem
+                    x:Uid="Shell_Download"
+                    d:Content="下载"
                     helpers:NavigationHelper.NavigateTo="BingWallpaperGallery.WinUI.ViewModels.DownloadViewModel"
-                    Content="下载"
                     Icon="{ui:FontIcon Glyph=&#xEBD3;}"
                     Tag="Download" />
             </NavigationView.FooterMenuItems>
@@ -69,7 +72,7 @@
 
         <TitleBar
             x:Name="AppTitleBar"
-            Title="必应壁纸"
+            Title="{x:Bind model:AppSettings.AppTitle, Mode=OneTime}"
             Grid.Row="0"
             Height="48"
             IconSource="{ui:BitmapIconSource ShowAsMonochrome=False,

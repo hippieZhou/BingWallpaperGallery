@@ -8,14 +8,14 @@ using Microsoft.UI.Xaml.Controls;
 
 namespace BingWallpaperGallery.WinUI.Views;
 
-public sealed partial class GalleryPage : Page
+public sealed partial class HomePage : Page
 {
-    public GalleryViewModel ViewModel { get; }
+    public HomeViewModel ViewModel { get; }
 
-    public GalleryPage()
+    public HomePage()
     {
         InitializeComponent();
-        ViewModel = App.GetService<GalleryViewModel>();
+        ViewModel = App.GetService<HomeViewModel>();
     }
 
     public static bool IsEmpty(IncrementalLoadingCollection<WallpaperInfoSource, WallpaperInfoDto>? items)

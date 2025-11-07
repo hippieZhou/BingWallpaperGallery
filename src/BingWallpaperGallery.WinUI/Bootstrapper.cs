@@ -83,10 +83,10 @@ internal class Bootstrapper
                  services.AddTransient<SettingsPage>();
                  services.AddTransient<DownloadViewModel>();
                  services.AddTransient<DownloadPage>();
-                 services.AddTransient<GalleryViewModel>();
-                 services.AddTransient<GalleryPage>();
-                 services.AddTransient<WallpaperDetailViewModel>();
-                 services.AddTransient<WallpaperDetailPage>();
+                 services.AddTransient<HomeViewModel>();
+                 services.AddTransient<HomePage>();
+                 services.AddTransient<DetailViewModel>();
+                 services.AddTransient<DetailPage>();
                  services.AddTransient<ShellViewModel>();
                  #endregion
 

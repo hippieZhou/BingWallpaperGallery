@@ -14,9 +14,9 @@ public class PageService : IPageService
 
     public PageService()
     {
-        Configure<GalleryViewModel, GalleryPage>();
+        Configure<HomeViewModel, HomePage>();
         Configure<DownloadViewModel, DownloadPage>();
-        Configure<WallpaperDetailViewModel, WallpaperDetailPage>();
+        Configure<DetailViewModel, DetailPage>();
         Configure<SettingsViewModel, SettingsPage>();
     }
 

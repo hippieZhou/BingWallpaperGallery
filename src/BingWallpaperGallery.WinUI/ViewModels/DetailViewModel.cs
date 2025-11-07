@@ -14,12 +14,12 @@ using Microsoft.Graphics.Canvas.UI.Xaml;
 
 namespace BingWallpaperGallery.WinUI.ViewModels;
 
-public partial class WallpaperDetailViewModel(
+public partial class DetailViewModel(
     IImageExportService exportService,
     IDownloadService downloadService,
     IInAppNotificationService inAppNotificationService,
     IManagementService managementService,
-    ILogger<WallpaperDetailViewModel> logger) : ObservableRecipient, INavigationAware
+    ILogger<DetailViewModel> logger) : ObservableRecipient, INavigationAware
 {
     [ObservableProperty]
     public partial ObservableCollection<ResolutionInfoDto> SupportedResolutions { get; set; }
@@ -221,7 +221,7 @@ public partial class WallpaperDetailViewModel(
     }
 
     #region Private Methods
-    private static async Task<CanvasBitmap> LoadImageAsync(string uri, CanvasControl canvasControl, ILogger<WallpaperDetailViewModel> logger)
+    private static async Task<CanvasBitmap> LoadImageAsync(string uri, CanvasControl canvasControl, ILogger<DetailViewModel> logger)
     {
         try
         {
