@@ -1,0 +1,43 @@
+{
+  "date": "7 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El blanco no pasa de moda",
+  "bsTitle": "El blanco no pasa de moda",
+  "caption": "Oso polar en Churchill, Manitoba, Canadá",
+  "copyright": "Oso polar en Churchill, Manitoba, Canadá (© karen crewe/Getty Images)",
+  "copyrightOnly": "© karen crewe/Getty Images",
+  "copyrightLink": "/search?q=Oso+Polar&form=hpcapt&filters=HpDate%3a%2220251106_2300%22",
+  "description": "¿Qué está atrayendo a científicos, viajeros y cámaras a Manitoba, Canadá? La respuesta está en los majestuosos osos polares, los verdaderos reyes del Ártico. Cada otoño, la ciudad de Churchill se convierte en escenario de un espectáculo natural único: cientos de osos polares se reúnen en la Bahía de Hudson, esperando a que el hielo se forme para salir a cazar focas, su principal fuente de alimento.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+  "hash": "c645644ef2edca55b024a9dd19c2de37",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251106",
+    "fullStartDateTime": "202511062300",
+    "endDate": "20251107"
+  },
+  "createdAt": "202511070227",
+  "originalUrlBase": "/th?id=OHR.WillowBear_ES-ES1378157368"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov 6, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Wat Phra That Hariphunchai, Lamphun, Thailand",
+  "copyright": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)",
+  "copyrightOnly": "© MR. ANUJAK JAIMOOK/Getty Images",
+  "copyrightLink": "/search?q=Wat+Phra+That+Hariphunchai&form=hpcapt&filters=HpDate%3a%2220251106_0800%22",
+  "description": "Blending over a thousand years of history, art and devotion, Wat Phra That Hariphunchai, featured in today's image, offers a glimpse into the spiritual heart of northern Thailand. Its origins date back to 897, when the Hariphunchai king built a stupa to enshrine a strand of the Buddha's hair.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_LanternsThailand%22&FORM=HPQUIZ",
+  "hash": "cbf81c2b6881fc28b0bd9ac6a4a5659c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ROW2932853802_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ROW2932853802_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ROW2932853802_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LanternsThailand_ROW2932853802_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251106",
+    "fullStartDateTime": "202511060800",
+    "endDate": "20251107"
+  },
+  "createdAt": "202511070227",
+  "originalUrlBase": "/th?id=OHR.LanternsThailand_ROW2932853802"
+}

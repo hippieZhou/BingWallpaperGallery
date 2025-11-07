@@ -1,0 +1,43 @@
+{
+  "date": "Nov 7, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The patience of a polar bear",
+  "bsTitle": "The patience of a polar bear",
+  "caption": "Polar bear in Churchill, Manitoba, Canada",
+  "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+  "copyrightOnly": "© karen crewe/Getty Images",
+  "copyrightLink": "/search?q=polar+bears&form=hpcapt&filters=HpDate%3a%2220251106_1830%22",
+  "description": "They wait, motionless, on the edge of a frozen world. Photographed in Churchill, Canada, this polar bear rests along the shores of Hudson Bay, where bears gather each year for the return of the sea ice that allows them hunt seals again—their main source of food. For over a decade, Polar Bears International, a non-profit organisation, has streamed live footage of their movements, offering a rare gimpse into life balanced on the edge of a warming world.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+  "hash": "edd677f5cf2cc7208713da234a4cba41",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251106",
+    "fullStartDateTime": "202511061830",
+    "endDate": "20251107"
+  },
+  "createdAt": "202511070227",
+  "originalUrlBase": "/th?id=OHR.WillowBear_EN-IN2726159563"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "7. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der König des Nordens",
+  "bsTitle": "Der König des Nordens",
+  "caption": "Eisbär in Churchill, Manitoba, Kanada",
+  "copyright": "Eisbär in Churchill, Manitoba, Kanada (© karen crewe/Getty Images)",
+  "copyrightOnly": "© karen crewe/Getty Images",
+  "copyrightLink": "/search?q=Eisb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220251106_2300%22",
+  "description": "Heute bewundern wir die beeindruckende Größe eines Eisbären in Churchill, Manitoba, Kanada – eine der majestätischsten Kreaturen unseres Planeten. Dieser weiße Riese kann bis zu drei Meter lang werden und mehr als 500 Kilogramm wiegen, bewegt sich jedoch mit erstaunlicher Leichtigkeit. Sein Fell, das weiß erscheint, ist in Wirklichkeit transparent und reflektiert das Licht, während seine schwarze Haut die Wärme der Sonne aufnimmt. Der Eisbär kann über 60 Kilometer ohne Pause schwimmen – ein wahrer Meister des Überlebens, für den Geduld und Stärke die Schlüssel zum Überleben sind.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251106_WillowBear%22&FORM=HPQUIZ",
+  "hash": "03ffbe4a956ad3f4a30411bda0e4faf8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251106",
+    "fullStartDateTime": "202511062300",
+    "endDate": "20251107"
+  },
+  "createdAt": "202511070227",
+  "originalUrlBase": "/th?id=OHR.WillowBear_DE-DE7018032776"
+}
