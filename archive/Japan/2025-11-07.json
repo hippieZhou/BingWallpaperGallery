@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 11月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "波や風に削られた岩",
+  "bsTitle": "波や風に削られた岩",
+  "caption": "波や風に削られた岩",
+  "copyright": "バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Grant Ordelheide/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=%e3%83%90%e3%83%b3%e3%83%89%e3%83%b3%e3%83%93%e3%83%bc%e3%83%81%e3%81%ae%e6%b5%b7%e8%9d%95%e5%b2%a9&form=hpcapt&filters=HpDate%3a%2220251107_1500%22",
+  "description": "オレゴン州は、北米西海岸に位置する米国 33 番目の州です。ヘーゼルナッツ生産の世界的な代表地の一つであり、国内生産量の 95% を占めています。また、クランベリー栽培も盛んであり、海岸都市バンドンを中心に約 108km² が栽培地となっており、バンドンでは毎年 9 月にクランベリー・フェスティバルを開催しています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_BandonBeach%22&FORM=HPQUIZ",
+  "hash": "994f13afa460114be3de91d97a50dfa8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511071500",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.BandonBeach_JA-JP1159899135"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 7, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Week of the white bear",
+  "bsTitle": "Week of the white bear",
+  "caption": "Polar Bear Week",
+  "copyright": "Polar bear in Churchill, Manitoba (© karen crewe/Getty Images)",
+  "copyrightOnly": "© karen crewe/Getty Images",
+  "copyrightLink": "/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220251107_0500%22",
+  "description": "What's drawing scientists, travellers and cameras to Manitoba, this week? Polar Bear Week is here, and it's more than a date on the calendar. For over a decade, Polar Bears International—a non-profit organisation—has invited people to stream live cams and follow daily updates as the bears head to Hudson Bay. It's a week of learning and a call to protect a fragile ecosystem.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+  "hash": "280c12d18dd3aeb6de78bf9cb78dfadf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_EN-CA6004529006_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511070500",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.WillowBear_EN-CA6004529006"
+}

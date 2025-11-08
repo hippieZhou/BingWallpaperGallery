@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Polar+Bear&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+  "hash": "d01029c67282320f6f8f348f4e7be3c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511070800",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.WillowBear_ROW2961602107"
+}

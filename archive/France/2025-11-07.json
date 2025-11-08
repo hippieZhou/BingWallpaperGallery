@@ -1,0 +1,43 @@
+{
+  "date": "8 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’Oregon sauvage",
+  "bsTitle": "L’Oregon sauvage",
+  "caption": "Pitons rocheux de la plage de Bandon, Oregon, États-Unis",
+  "copyright": "Pitons rocheux de la plage de Bandon, Oregon, États-Unis (© Grant Ordelheide/TANDEM Stills + Motion)",
+  "copyrightOnly": "© Grant Ordelheide/TANDEM Stills + Motion",
+  "copyrightLink": "/search?q=Bandon+Oregon+%c3%89tats-Unis&form=hpcapt&filters=HpDate%3a%2220251107_2300%22",
+  "description": "Sur la côte sud de l’Oregon, aux États-Unis, la plage de Bandon offre un paysage à la fois brut et magnifique. Là où la rivière Coquille se jette dans le Pacifique, d'immenses pitons rocheux émergent du sable, à proximité du phare de Bullards Beach. Ces géants de pierre, sculptés par les vagues et le vent depuis des millénaires, portent des noms qui nourrissent l’imagination : Face Rock, le Chapeau du magicien, Elephant Rock…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_BandonBeach%22&FORM=HPQUIZ",
+  "hash": "069c5da0b87b87b858e8a3721e59c776",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511072300",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.BandonBeach_FR-FR5359077798"
+}

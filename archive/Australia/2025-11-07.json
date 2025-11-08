@@ -1,0 +1,43 @@
+{
+  "date": "Nov 7, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Polar bear in Canada",
+  "copyright": "Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)",
+  "copyrightOnly": "© karen crewe/Getty Images",
+  "copyrightLink": "/search?q=Polar+Bear&form=hpcapt&filters=HpDate%3a%2220251107_0800%22",
+  "description": "Featured in today's image—the polar bear—is the largest living species of bear, often weighing over 180 kilograms. Closely related to brown bears, polar bears have evolved to survive in the planet's harshest, coldest environments, perfectly adapted to life on snow and ice.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_WillowBear%22&FORM=HPQUIZ",
+  "hash": "d01029c67282320f6f8f348f4e7be3c2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511070800",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.WillowBear_ROW2961602107"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "8 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rocas que cuentan leyendas",
+  "bsTitle": "Rocas que cuentan leyendas",
+  "caption": "Externsteine en el Bosque de Teutoburgo, Alemania",
+  "copyright": "Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania (© Michael Sroka/Getty Images)",
+  "copyrightOnly": "© Michael Sroka/Getty Images",
+  "copyrightLink": "/search?q=Externsteine&form=hpcapt&filters=HpDate%3a%2220251107_2300%22",
+  "description": "En el corazón del bosque alemán de Teutoburgo, cerca de la ciudad de Horn-Bad Meinberg, en Renania del Norte-Westfalia, se alzan las impresionantes formaciones rocosas de Externsteine, uno de los monumentos naturales y culturales más singulares de Alemania. Estos pilares de arenisca, formados hace unos 70 millones de años, alcanzan los 40 metros de altura y cautivan a miles de visitantes cada año por su belleza y misterio.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251107_ExternsteineSunset%22&FORM=HPQUIZ",
+  "hash": "b9cbd0a50af2d51c4d2d385846be9c61",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251107",
+    "fullStartDateTime": "202511072300",
+    "endDate": "20251108"
+  },
+  "createdAt": "202511080220",
+  "originalUrlBase": "/th?id=OHR.ExternsteineSunset_ES-ES1694019342"
+}
