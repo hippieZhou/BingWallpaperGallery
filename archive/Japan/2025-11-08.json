@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 11月 月 9 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はカール・セーガン・デー",
+  "bsTitle": "今日はカール・セーガン・デー",
+  "caption": "今日はカール・セーガン・デー",
+  "copyright": "ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)",
+  "copyrightOnly": "© ESA/NASA",
+  "copyrightLink": "/search?q=%e6%98%9f%e9%96%93%e9%9b%b2&form=hpcapt&filters=HpDate%3a%2220251108_1500%22",
+  "description": "今日の画像は、約 4350 光年先にある干潟星雲（ Lagoon Nebula ）。内部に位置する散開星団 NGC6530 では生まれたばかりの星々が輝いています。1654 年ごろから 観測されていたとされており、星雲内の NGC6530 は 1680 年ごろに発見されました…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "9a57de8af67f862e2e46d80d12b2ba84",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511081500",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_JA-JP1393658321"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "9. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Symbol der Einheit",
+  "bsTitle": "Symbol der Einheit",
+  "caption": "Oberbaumbrücke in Berlin",
+  "copyright": "Herzen auf den Türmen der Oberbaumbrücke, Berlin (© fhm/Getty Images)",
+  "copyrightOnly": "© fhm/Getty Images",
+  "copyrightLink": "/search?q=Oberbaumbr%c3%bccke+Berlin&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+  "description": "Der 9. November gilt als Schicksalstag für Deutschland, denn er ist mit bedeutenden historischen Ereignissen verbunden – wie dem Fall der Berliner Mauer im Jahr 1989. Auch wenn dieser Tag kein offizieller Feiertag ist, so steht er doch als Tag des Gedenkens und der Erinnerung an einen Moment, der Deutschland für immer veränderte. Dieser Tag symbolisiert Freiheit, Einheit und das Ende der Teilung. In Berlin erinnern viele Orte an diese Zeit, doch kaum ein Bauwerk steht so sinnbildlich für das Zusammenwachsen der Stadt wie die Oberbaumbrücke, die auf unserem heutigen Bild zu sehen ist. Die markante Doppeldeckerbrücke über die Spree verbindet die Stadtteile Friedrichshain und Kreuzberg, die einst durch die Mauer getrennt waren. Bis zur Wiedervereinigung verlief die Grenze direkt über die Brücke. Einst ein streng bewachter Grenzübergang, ist sie heute ein lebendiges Wahrzeichen des vereinten Berlins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_BerlinOberbaumbruecke%22&FORM=HPQUIZ",
+  "hash": "47e6135e41cb7b0a787cc1e814eddf21",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511082300",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118"
+}

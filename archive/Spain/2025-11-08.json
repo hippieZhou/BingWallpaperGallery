@@ -1,0 +1,43 @@
+{
+  "date": "9 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Érase una estrella",
+  "bsTitle": "Érase una estrella",
+  "caption": "Día de Carl Sagan",
+  "copyright": "Nubes interestelares en la Nebulosa de la Laguna, capturadas por el Telescopio Espacial Hubble (© ESA/NASA)",
+  "copyrightOnly": "© ESA/NASA",
+  "copyrightLink": "/search?q=Nebulosa+de+la+Laguna&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+  "description": "El universo vibra con la creación. En la Nebulosa de la Laguna, un cúmulo llamado NGC 6530 está dando luz a estrellas recién nacidas, recordándonos que los comienzos están tejidos en el cosmos. Situado a unos 4.350 años luz y con apenas unos millones de años, este vivero estelar aún se encuentra en su primer capítulo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "a9149c7e67c876dd933c9872e3f50118",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_ES-ES1874240487_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511082300",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_ES-ES1874240487"
+}

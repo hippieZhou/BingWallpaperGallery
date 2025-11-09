@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Figli delle Stelle",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble (© ESA/NASA)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Carl+Sagan&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "5e9bc2dba07bfb732ec58ae721a2a399",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511082300",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_IT-IT3250116323"
+}

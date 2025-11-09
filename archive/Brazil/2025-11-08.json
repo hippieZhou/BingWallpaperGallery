@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Ícones de pedra de Bandon",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Formações rochosas costeiras da Praia de Bandon, Oregon, EUA  (© Grant Ordelheide/TANDEM Stills + Motion)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=cidade+Bandon+no+estado+de+Oregon&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_BandonBeach%22&FORM=HPQUIZ",
+  "hash": "ff0c3e5eb4684a2afb6d040814923f45",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511080300",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.BandonBeach_PT-BR3802198914"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "9 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un peu plus près des étoiles",
+  "bsTitle": "Un peu plus près des étoiles",
+  "caption": "Journée Carl Sagan",
+  "copyright": "Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble (© ESA/NASA)",
+  "copyrightOnly": "© ESA/NASA",
+  "copyrightLink": "/search?q=Journ%c3%a9e+Carl+Sagan&form=hpcapt&filters=HpDate%3a%2220251108_2300%22",
+  "description": "Au cœur de la nébuleuse de la Lagune, à plus de 4 000 années-lumière d'ici, des nuages de gaz et de poussière s'embrasent. La lumière des étoiles naissantes y sculpte des formes mouvantes, semblables aux brumes dorées qui se lèvent le matin sur le mont Ventoux. Ce berceau stellaire, nommé NGC 6530, abrite des géantes bleues dont le destin est fulgurant : elles vivent vite, meurent jeunes et sèment la matière qui nourrira d’autres étoiles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251108_LagoonNebula%22&FORM=HPQUIZ",
+  "hash": "eb15227e15551590824d5fe88642f31e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251108",
+    "fullStartDateTime": "202511082300",
+    "endDate": "20251109"
+  },
+  "createdAt": "202511090230",
+  "originalUrlBase": "/th?id=OHR.LagoonNebula_FR-FR5468322424"
+}
