@@ -6,13 +6,12 @@
 
 ## 📋 工作流概览
 
-本项目包含三个主要的 GitHub Actions 工作流：
+本项目包含两个主要的 GitHub Actions 工作流：
 
 | 工作流                | 文件名                   | 用途                         | 运行环境       |
 | --------------------- | ------------------------ | ---------------------------- | -------------- |
 | 🌅 Collect Wallpapers | `collect-wallpapers.yml` | 自动收集必应壁纸元数据       | Ubuntu Latest  |
 | 🔨 Build and Test     | `build-and-test.yml`     | 构建项目并运行单元测试       | Windows Latest |
-| 🌐 Deploy Pages       | `deploy-pages.yml`       | 部署隐私策略到 GitHub Pages  | Ubuntu Latest  |
 
 ---
 
@@ -460,169 +459,12 @@ dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.
 
 ---
 
-## 🌐 Workflow 3: Deploy to GitHub Pages
-
-### 功能说明
-
-自动将 `pages/` 目录中的隐私策略页面部署到 GitHub Pages，为 Microsoft Store 提交提供可访问的隐私策略 URL。
-
-### 触发方式
-
-#### 1. 自动触发（推送事件）
-
-当以下条件满足时自动运行：
-
--   ✅ 推送到 `main` 分支
--   ✅ `pages/` 目录中的文件有变更
--   ✅ 工作流文件本身有变更
-
-```yaml
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'pages/**'
-      - '.github/workflows/deploy-pages.yml'
-```
-
-#### 2. 手动触发
-
-1. 访问 GitHub 仓库的 [**Actions**](https://github.com/hippiezhou/BingWallpaperGallery/actions) 页面
-2. 选择 **"Deploy to GitHub Pages"** workflow
-3. 点击 **"Run workflow"** 按钮
-4. 选择分支（通常是 `main`）
-5. 点击 **"Run workflow"** 执行
-
-### 执行流程
-
-```mermaid
-graph TD
-    A[触发 Workflow] --> B[检出代码]
-    B --> C[配置 GitHub Pages]
-    C --> D[上传 pages/ 目录]
-    D --> E[部署到 GitHub Pages]
-    E --> F[生成访问 URL]
-```
-
-### 关键步骤详解
-
-#### 步骤 1: 配置 GitHub Pages
-
-使用官方 Actions 配置 GitHub Pages：
-
-```yaml
-- name: Setup Pages
-  uses: actions/configure-pages@v4
-```
-
-#### 步骤 2: 上传 Artifact
-
-将 `pages/` 目录打包为 GitHub Pages artifact：
-
-```yaml
-- name: Upload artifact
-  uses: actions/upload-pages-artifact@v3
-  with:
-    path: './pages'
-```
-
-#### 步骤 3: 部署到 GitHub Pages
-
-将 artifact 部署到 GitHub Pages：
-
-```yaml
-- name: Deploy to GitHub Pages
-  id: deployment
-  uses: actions/deploy-pages@v4
-```
-
-### 部署内容
-
-`pages/` 目录包含以下文件：
-
-| 文件                    | 用途                                         |
-| ----------------------- | -------------------------------------------- |
-| `index.html`            | 首页，自动重定向到隐私策略页面               |
-| `privacy-policy.html`   | 隐私策略页面（中英文双语）                   |
-| `.nojekyll`             | 禁用 Jekyll 处理，确保文件名正确解析         |
-
-### 访问地址
-
-部署成功后，可通过以下 URL 访问：
-
-```
-https://hippiezhou.github.io/BingWallpaperGallery/
-https://hippiezhou.github.io/BingWallpaperGallery/privacy-policy.html
-```
-
-### 权限要求
-
-```yaml
-permissions:
-  contents: read      # 读取仓库内容
-  pages: write        # 部署到 GitHub Pages
-  id-token: write     # 生成部署令牌
-```
-
-### 并发控制
-
-确保同一时间只有一个部署任务运行，避免冲突：
-
-```yaml
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-```
-
-### 环境配置
-
-部署到 `github-pages` 环境：
-
-```yaml
-environment:
-  name: github-pages
-  url: ${{ steps.deployment.outputs.page_url }}
-```
-
-### 输出信息
-
-工作流完成后会输出部署 URL，可在 Actions 日志中查看。
-
----
-
-## 🔧 GitHub Pages 初次设置
-
-在第一次使用 Deploy Pages 工作流之前，需要在 GitHub 仓库中进行以下设置：
-
-### 方法 1: 使用 GitHub Actions 部署（推荐）
-
-1. 进入仓库 **Settings** → **Pages**
-2. 在 **Source** 下选择：
-   - **GitHub Actions**
-3. 保存设置
-4. 运行 Deploy Pages 工作流
-
-### 方法 2: 使用分支部署（传统方式）
-
-1. 进入仓库 **Settings** → **Pages**
-2. 在 **Source** 下选择：
-   - Branch: `main`
-   - Folder: `/pages`
-3. 点击 **Save**
-4. 等待自动部署
-
-**推荐使用方法 1**，因为它提供更好的控制和日志记录。
-
----
-
 ## 📚 相关文档
 
 -   [BingWallpaperGallery.Collector 功能说明](../src/BingWallpaperGallery.Collector/README.md)
 -   [快速开始指南](../docs/QuickStart.md)
 -   [隐私策略](../PRIVACY_POLICY.md)
 -   [GitHub Actions 官方文档](https://docs.github.com/en/actions)
--   [GitHub Pages 文档](https://docs.github.com/en/pages)
 -   [Cron 表达式参考](https://crontab.guru/)
 -   [Codecov 文档](https://docs.codecov.com/)
 -   [ReportGenerator 文档](https://github.com/danielpalme/ReportGenerator)
@@ -635,7 +477,6 @@ environment:
 
 -   🌅 **壁纸收集**：[![Collect Wallpapers](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/collect-wallpapers.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/collect-wallpapers.yml)
 -   🔨 **构建测试**：[![Build and Test](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml)
--   🌐 **部署页面**：[![Deploy Pages](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/deploy-pages.yml)
 
 ---
 
