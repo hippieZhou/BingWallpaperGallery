@@ -8,17 +8,21 @@
     xmlns:local="using:BingWallpaperGallery.WinUI.UserControls"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="数据同步"
-    CloseButtonCommand="{x:Bind ViewModel.CloseButtonCommand}"
+    CloseButtonCommand="{x:Bind ViewModel.CloseCommand}"
     CloseButtonText="取消"
     Closing="OnClosing"
     FullSizeDesired="False"
+    IsPrimaryButtonEnabled="{x:Bind ViewModel.IsLoading, Mode=OneWay, Converter={StaticResource InverseBoolToBooleanConverter}}"
+    Opened="OnOpened"
+    PrimaryButtonCommand="{x:Bind ViewModel.SyncCommand}"
+    PrimaryButtonText="开始"
     Style="{StaticResource DefaultContentDialogStyle}"
     mc:Ignorable="d">
-    <i:Interaction.Behaviors>
+    <!--<i:Interaction.Behaviors>
         <i:EventTriggerBehavior EventName="Loaded">
             <i:InvokeCommandAction Command="{x:Bind ViewModel.LoadedCommand}" />
         </i:EventTriggerBehavior>
-    </i:Interaction.Behaviors>
+    </i:Interaction.Behaviors>-->
 
     <Grid Width="400" RowSpacing="12">
         <Grid.RowDefinitions>

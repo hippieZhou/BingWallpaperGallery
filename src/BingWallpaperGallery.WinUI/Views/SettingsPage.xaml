@@ -35,23 +35,27 @@
                     <EntranceThemeTransition FromVerticalOffset="50" />
                     <RepositionThemeTransition IsStaggeringEnabled="False" />
                 </StackPanel.ChildrenTransitions>
-                <TextBlock Style="{StaticResource SubtitleTextBlockStyle}" Text="个性化设置" />
+                <TextBlock
+                    x:Uid="SettingsPage_PageTitle"
+                    d:Text="个性化设置"
+                    Style="{StaticResource SubtitleTextBlockStyle}" />
 
                 <TextBlock
-                    d:Text="Appearance"
-                    Style="{StaticResource SettingsSectionHeaderTextBlockStyle}"
-                    Text="外观" />
+                    x:Uid="SettingsPage_AppearanceSection"
+                    d:Text="外观"
+                    Style="{StaticResource SettingsSectionHeaderTextBlockStyle}" />
                 <controls:SettingsExpander
-                    Description="选择符合你心情和偏好的主题。你可以从深色、浅色或系统主题中进行选择。"
-                    Header="应用主题"
+                    x:Uid="SettingsPage_ThemeExpander"
+                    d:Description="选择符合你心情和偏好的主题。你可以从深色、浅色或系统主题中进行选择。"
+                    d:Header="应用主题"
                     HeaderIcon="{ui:FontIcon Glyph=&#xE790;}">
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard ContentAlignment="Left">
                             <StackPanel>
                                 <RadioButton
-                                    d:Content="Light"
+                                    x:Uid="SettingsPage_ThemeLight"
+                                    d:Content="浅色"
                                     Command="{x:Bind ViewModel.SwitchThemeCommand}"
-                                    Content="浅色"
                                     FontSize="15"
                                     GroupName="AppTheme"
                                     IsChecked="{x:Bind ViewModel.CurrentTheme, Converter={StaticResource EnumToBooleanConverter}, ConverterParameter=Light, Mode=OneWay}">
@@ -60,9 +64,9 @@
                                     </RadioButton.CommandParameter>
                                 </RadioButton>
                                 <RadioButton
-                                    d:Content="Dark"
+                                    x:Uid="SettingsPage_ThemeDark"
+                                    d:Content="深色"
                                     Command="{x:Bind ViewModel.SwitchThemeCommand}"
-                                    Content="深色"
                                     FontSize="15"
                                     GroupName="AppTheme"
                                     IsChecked="{x:Bind ViewModel.CurrentTheme, Converter={StaticResource EnumToBooleanConverter}, ConverterParameter=Dark, Mode=OneWay}">
@@ -71,9 +75,9 @@
                                     </RadioButton.CommandParameter>
                                 </RadioButton>
                                 <RadioButton
-                                    d:Content="Default"
+                                    x:Uid="SettingsPage_ThemeDefault"
+                                    d:Content="使用 Windows 默认"
                                     Command="{x:Bind ViewModel.SwitchThemeCommand}"
-                                    Content="使用 Windows 默认"
                                     FontSize="15"
                                     GroupName="AppTheme"
                                     IsChecked="{x:Bind ViewModel.CurrentTheme, Converter={StaticResource EnumToBooleanConverter}, ConverterParameter=Default, Mode=OneWay}">
@@ -87,53 +91,61 @@
                 </controls:SettingsExpander>
 
                 <controls:SettingsExpander
-                    Description="选择应用显示的语言。更改后需要重启应用才能生效。"
-                    Header="应用语言"
+                    x:Uid="SettingsPage_LanguageExpander"
+                    d:Description="选择应用显示的语言。更改后需要重启应用才能生效。"
+                    d:Header="应用语言"
                     HeaderIcon="{ui:FontIcon Glyph=&#xF2B7;}">
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard ContentAlignment="Left">
                             <StackPanel>
                                 <RadioButton
+                                    x:Uid="SettingsPage_LanguageZhCN"
+                                    d:Content="简体中文"
                                     Command="{x:Bind ViewModel.SwitchLanguageCommand}"
                                     CommandParameter="zh-cn"
-                                    Content="简体中文"
                                     FontSize="15"
                                     GroupName="AppLanguage"
-                                    IsChecked="{x:Bind ViewModel.CurrentLanguage, Converter={StaticResource StringToBooleanConverter}, ConverterParameter='zh-cn', Mode=OneWay}"
-                                    IsEnabled="False" />
+                                    IsChecked="{x:Bind ViewModel.CurrentLanguage, Converter={StaticResource StringToBooleanConverter}, ConverterParameter='zh-cn', Mode=OneWay}" />
                                 <RadioButton
+                                    x:Uid="SettingsPage_LanguageEnUS"
+                                    d:Content="English (United States)"
                                     Command="{x:Bind ViewModel.SwitchLanguageCommand}"
                                     CommandParameter="en-us"
-                                    Content="English (United States)"
                                     FontSize="15"
                                     GroupName="AppLanguage"
-                                    IsChecked="{x:Bind ViewModel.CurrentLanguage, Converter={StaticResource StringToBooleanConverter}, ConverterParameter='en-us', Mode=OneWay}"
-                                    IsEnabled="False" />
+                                    IsChecked="{x:Bind ViewModel.CurrentLanguage, Converter={StaticResource StringToBooleanConverter}, ConverterParameter='en-us', Mode=OneWay}" />
                             </StackPanel>
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
 
-                <TextBlock Style="{StaticResource SettingsSectionHeaderTextBlockStyle}" Text="高级设置" />
+                <TextBlock
+                    x:Uid="SettingsPage_AdvancedSection"
+                    d:Text="高级设置"
+                    Style="{StaticResource SettingsSectionHeaderTextBlockStyle}" />
                 <controls:SettingsCard
-                    Description="可获取作者自建的归档数据集合"
-                    Header="同步数据"
+                    x:Uid="SettingsPage_SyncCard"
+                    d:Description="可获取作者自建的归档数据集合"
+                    d:Header="同步数据"
                     HeaderIcon="{ui:FontIcon Glyph=&#xEDAB;}">
                     <Button
+                        x:Uid="SettingsPage_SyncButton"
                         Width="120"
                         Margin="0,0,28,0"
-                        Command="{x:Bind ViewModel.FetchFromGithubCommand}"
-                        Content="同步" />
+                        d:Content="同步"
+                        Command="{x:Bind ViewModel.FetchFromGithubCommand}" />
                 </controls:SettingsCard>
                 <controls:SettingsExpander
-                    Description="下载并保存图片到本地设备，方便随时查看"
-                    Header="图片下载"
+                    x:Uid="SettingsPage_DownloadExpander"
+                    d:Description="下载并保存图片到本地设备，方便随时查看"
+                    d:Header="图片下载"
                     HeaderIcon="{ui:FontIcon Glyph=&#xEBD3;}">
                     <Button
+                        x:Uid="SettingsPage_DownloadChangeButton"
                         Width="120"
+                        d:Content="修改"
                         Command="{x:Bind ViewModel.ChangeDownloadFolderCommand}"
-                        CommandParameter="{x:Bind ViewModel.PicturesPath, Mode=OneWay}"
-                        Content="修改" />
+                        CommandParameter="{x:Bind ViewModel.PicturesPath, Mode=OneWay}" />
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard>
                             <controls:SettingsCard.Header>
@@ -143,21 +155,24 @@
                                     Content="{x:Bind ViewModel.PicturesPath, Mode=OneWay}" />
                             </controls:SettingsCard.Header>
                             <Button
+                                x:Uid="SettingsPage_DownloadResetButton"
                                 Width="120"
+                                d:Content="重置"
                                 Command="{x:Bind ViewModel.ResetDownloadFolderCommand}"
-                                CommandParameter="{x:Bind model:AppSettings.Current.DefaultPicturesPath, Mode=OneTime}"
-                                Content="重置" />
+                                CommandParameter="{x:Bind model:AppSettings.Current.DefaultPicturesPath, Mode=OneTime}" />
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
                 <controls:SettingsExpander
-                    Description="记录应用的功能更新、问题修复和优化情况"
-                    Header="应用日志"
+                    x:Uid="SettingsPage_LogExpander"
+                    d:Description="记录应用的功能更新、问题修复和优化情况"
+                    d:Header="应用日志"
                     HeaderIcon="{ui:FontIcon Glyph=&#xE9D9;}">
                     <Button
+                        x:Uid="SettingsPage_LogClearButton"
                         Width="120"
-                        Command="{x:Bind ViewModel.LogCleanUpCommand}"
-                        Content="清空" />
+                        d:Content="清空"
+                        Command="{x:Bind ViewModel.LogCleanUpCommand}" />
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard>
                             <controls:SettingsCard.Header>
@@ -174,9 +189,13 @@
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
 
-                <TextBlock Style="{ThemeResource SettingsSectionHeaderTextBlockStyle}" Text="关于" />
+                <TextBlock
+                    x:Uid="SettingsPage_AboutSection"
+                    d:Text="关于"
+                    Style="{ThemeResource SettingsSectionHeaderTextBlockStyle}" />
                 <controls:SettingsExpander
-                    Description="© 2025. All rights reserved."
+                    x:Uid="SettingsPage_AboutExpander"
+                    d:Description="© 2025. All rights reserved."
                     Header="{x:Bind model:AppSettings.AppTitle, Mode=OneTime}"
                     HeaderIcon="{ui:BitmapIcon ShowAsMonochrome=False,
                                                Source=ms-appx:///Assets/StoreLogo.png}">
@@ -186,10 +205,11 @@
                         Text="{x:Bind model:AppSettings.AppVersion, Mode=OneTime}" />
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard
+                            x:Uid="SettingsPage_CloneRepoCard"
+                            d:Header="克隆本仓库"
                             ActionIcon="{ui:FontIcon Glyph=&#xE8C8;}"
                             Command="{x:Bind ViewModel.CloneRepoCommand}"
                             CommandParameter="git clone https://github.com/hippieZhou/BingWallpaperGallery"
-                            Header="克隆本仓库"
                             IsClickEnabled="True">
                             <TextBlock
                                 FontFamily="Consolas"
@@ -198,14 +218,16 @@
                                 Text="git clone https://github.com/hippieZhou/BingWallpaperGallery" />
                         </controls:SettingsCard>
                         <controls:SettingsCard
+                            x:Uid="SettingsPage_FeedbackCard"
+                            d:Header="问题反馈"
                             ActionIcon="{ui:FontIcon Glyph=&#xE8A7;}"
                             Command="{x:Bind ViewModel.BugRequestCommand}"
-                            Header="问题反馈"
                             IsClickEnabled="True" />
                         <controls:SettingsCard
+                            x:Uid="SettingsPage_DependenciesCard"
                             HorizontalContentAlignment="Left"
-                            ContentAlignment="Vertical"
-                            Header="依赖 &amp; 引用">
+                            d:Header="依赖 &amp; 引用"
+                            ContentAlignment="Vertical">
                             <StackPanel Margin="-12,0,0,0" Orientation="Vertical">
                                 <HyperlinkButton Content="{x:Bind model:AppSettings.WinAppSdkRuntimeDetails, Mode=OneTime}" NavigateUri="https://aka.ms/windowsappsdk" />
                                 <HyperlinkButton Content="WinUI 3" NavigateUri="https://aka.ms/winui" />
@@ -220,12 +242,19 @@
                             </StackPanel>
                         </controls:SettingsCard>
                         <controls:SettingsCard
+                            x:Uid="SettingsPage_DisclaimerCard"
                             HorizontalContentAlignment="Left"
-                            ContentAlignment="Vertical"
-                            Header="THIS CODE AND INFORMATION IS PROVIDED ‘AS IS’ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.">
+                            d:Header="THIS CODE AND INFORMATION IS PROVIDED 'AS IS' WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE."
+                            ContentAlignment="Vertical">
                             <StackPanel Margin="-12,0,0,0" Orientation="Vertical">
-                                <HyperlinkButton Content="Application Services Agreement" NavigateUri="https://go.microsoft.com/fwlink/?LinkId=822631" />
-                                <HyperlinkButton Content="Application Privacy Statement" NavigateUri="https://go.microsoft.com/fwlink/?LinkId=521839" />
+                                <HyperlinkButton
+                                    x:Uid="SettingsPage_ServicesAgreementLink"
+                                    d:Content="Application Services Agreement"
+                                    NavigateUri="https://go.microsoft.com/fwlink/?LinkId=822631" />
+                                <HyperlinkButton
+                                    x:Uid="SettingsPage_PrivacyStatementLink"
+                                    d:Content="Application Privacy Statement"
+                                    NavigateUri="https://go.microsoft.com/fwlink/?LinkId=821839" />
                             </StackPanel>
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
