@@ -1,0 +1,43 @@
+{
+  "date": "14 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une vache marine au cœur d’éléphant",
+  "bsTitle": "Une vache marine au cœur d’éléphant",
+  "caption": "Le lamantin de Floride",
+  "copyright": "Lamantin femelle et son petit, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=Lamantin&form=hpcapt&filters=HpDate%3a%2220251113_2300%22",
+  "description": "Dans les eaux limpides de Crystal River, au nord de la péninsule de Floride, aux États-Unis, une femelle lamantin glisse lentement, son petit blotti contre elle. Leur peau grise se confond avec les reflets émeraude des herbiers aquatiques. Dans cette source d'eau douce à température constante, le temps semble suspendu, comme dans un rêve hivernal.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_ManateeBaby%22&FORM=HPQUIZ",
+  "hash": "82c941f62b75b0ef7dc8b6b8a973df3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_FR-FR9856124004_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251113",
+    "fullStartDateTime": "202511132300",
+    "endDate": "20251114"
+  },
+  "createdAt": "202511140228",
+  "originalUrlBase": "/th?id=OHR.ManateeBaby_FR-FR9856124004"
+}

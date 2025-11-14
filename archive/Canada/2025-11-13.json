@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 13, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Shop till you drop",
+  "bsTitle": "Shop till you drop",
+  "caption": "Distillery Winter Village",
+  "copyright": "The 2020 Distillery Winter Village, Toronto (© Steve Russell/Toronto Star via Getty Images)",
+  "copyrightOnly": "© Steve Russell/Toronto Star via Getty Images",
+  "copyrightLink": "/search?q=Distillery+District&form=hpcapt&filters=HpDate%3a%2220251113_0500%22",
+  "description": "Long before LED lights and Instagram shots, Christmas markets were places for neighbours to gather—steaming mugs in hand, carols in the air and crafts laid out on wooden stalls. Originating in Germany in 1434, these open-air fairs brought warmth to cold winters. Canada soon embraced that same spirit, turning snowy evenings into celebrations that felt both old-world and wonderfully local. Today, cities from Montreal to Vancouver—with stops in Quebec City, Edmonton, Banff and Toronto—keep the tradition glowing with their own festive markets.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_TntChrisMkt%22&FORM=HPQUIZ",
+  "hash": "ee1c428fcda5be085171bb57cb80047e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251113",
+    "fullStartDateTime": "202511130500",
+    "endDate": "20251114"
+  },
+  "createdAt": "202511140228",
+  "originalUrlBase": "/th?id=OHR.TntChrisMkt_EN-CA8094529209"
+}

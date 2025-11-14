@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Vibrando sob o brilho das estrelas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Aloé-aljava à noite contra a Via Láctea, Keetmanshoop, Namíbia (© Wim van den Heever/naturepl.com)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Alo%c3%a9-aljava&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_AloeDichotoma%22&FORM=HPQUIZ",
+  "hash": "ad49166c87d8a3f12f78b92f1fe8c936",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AloeDichotoma_PT-BR2329488017_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251113",
+    "fullStartDateTime": "202511130300",
+    "endDate": "20251114"
+  },
+  "createdAt": "202511140228",
+  "originalUrlBase": "/th?id=OHR.AloeDichotoma_PT-BR2329488017"
+}

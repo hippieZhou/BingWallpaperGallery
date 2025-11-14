@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La Via del Cacao?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Percorso dell'acquedotto medievale, Perugia, Umbria (© Sean Pavone/iStock/Getty Images Plus)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Perugia&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_PerugiaStreet%22&FORM=HPQUIZ",
+  "hash": "26fb270d0964814058159a750e25fbd4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251113",
+    "fullStartDateTime": "202511132300",
+    "endDate": "20251114"
+  },
+  "createdAt": "202511140228",
+  "originalUrlBase": "/th?id=OHR.PerugiaStreet_IT-IT9685190845"
+}

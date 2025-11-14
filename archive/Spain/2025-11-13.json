@@ -1,0 +1,43 @@
+{
+  "date": "14 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un baño relajante",
+  "bsTitle": "Un baño relajante",
+  "caption": "Mes de Concientización sobre el Manatí",
+  "copyright": "Madre manatí y cría, Crystal River, Florida, EE. UU. (© Gregory Sweeney/Getty Images)",
+  "copyrightOnly": "© Gregory Sweeney/Getty Images",
+  "copyrightLink": "/search?q=manat%c3%ad&form=hpcapt&filters=HpDate%3a%2220251113_2300%22",
+  "description": "Noviembre no es solo tiempo de castañas, setas y platos calientes; también es el Mes de Concienciación sobre el Manatí, una ocasión ideal para descubrir a estos tranquilos gigantes del mar. Lejos del protagonismo de los delfines o los tiburones, los manatíes conquistan corazones con su calma y simpatía.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251113_ManateeBaby%22&FORM=HPQUIZ",
+  "hash": "1c56d9d991b279a7451a689694f03119",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ManateeBaby_ES-ES4491348488_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251113",
+    "fullStartDateTime": "202511132300",
+    "endDate": "20251114"
+  },
+  "createdAt": "202511140228",
+  "originalUrlBase": "/th?id=OHR.ManateeBaby_ES-ES4491348488"
+}
