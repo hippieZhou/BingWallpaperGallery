@@ -37,9 +37,9 @@ public static class MarketCodeExtensions
     /// </summary>
     /// <param name="marketCode">市场代码</param>
     /// <returns>市场名称</returns>
-    public static string GetMarketName(this MarketCode marketCode)
+    public static string GetMarketCNName(this MarketCode marketCode)
     {
-        return marketCode.GetMarketInfo()?.Name ?? marketCode.ToString();
+        return marketCode.GetMarketInfo()?.CN ?? marketCode.ToString();
     }
 
     /// <summary>
@@ -47,9 +47,9 @@ public static class MarketCodeExtensions
     /// </summary>
     /// <param name="marketCode">市场代码</param>
     /// <returns>市场描述</returns>
-    public static string GetMarketDescription(this MarketCode marketCode)
+    public static string GetMarketENName(this MarketCode marketCode)
     {
-        return marketCode.GetMarketInfo()?.Description ?? marketCode.ToString();
+        return marketCode.GetMarketInfo()?.EN ?? marketCode.ToString();
     }
 
     /// <summary>
@@ -63,40 +63,13 @@ public static class MarketCodeExtensions
     }
 
     /// <summary>
-    /// 获取市场备注
-    /// </summary>
-    /// <param name="marketCode">市场代码</param>
-    /// <returns>备注信息</returns>
-    public static string GetMarketNote(this MarketCode marketCode)
-    {
-        return marketCode.GetMarketInfo()?.Note ?? "必应每日壁纸";
-    }
-
-    /// <summary>
     /// 从市场代码获取语言代码
     /// </summary>
     /// <param name="marketCode">市场代码</param>
     /// <returns>语言代码</returns>
     public static string GetLanguageCodeFromMarket(this MarketCode marketCode)
     {
-        return marketCode switch
-        {
-            MarketCode.China => "zh-CN",
-            MarketCode.UnitedStates => "en-US",
-            MarketCode.UnitedKingdom => "en-GB",
-            MarketCode.Japan => "ja-JP",
-            MarketCode.Germany => "de-DE",
-            MarketCode.France => "fr-FR",
-            MarketCode.Spain => "es-ES",
-            MarketCode.Italy => "it-IT",
-            MarketCode.Russia => "ru-RU",
-            MarketCode.SouthKorea => "ko-KR",
-            MarketCode.Brazil => "pt-BR",
-            MarketCode.Australia => "en-AU",
-            MarketCode.Canada => "en-CA",
-            MarketCode.India => "en-IN",
-            _ => "en-US" // 默认使用英语
-        };
+        return marketCode.GetMarketCode();
     }
 
     public static MarketCode GetMarketFromLanguageCode(this string languageCode)

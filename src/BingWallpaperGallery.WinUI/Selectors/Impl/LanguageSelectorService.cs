@@ -8,7 +8,7 @@ namespace BingWallpaperGallery.WinUI.Selectors.Impl;
 public class LanguageSelectorService(ILocalSettingsService localSettingsService) :
     SelectorService(localSettingsService), ILanguageSelectorService
 {
-    private const string DefaultLanguage = "zh-cn";
+    public const string DefaultLanguage = "zh-cn";
 
     public string Language { get; private set; } = DefaultLanguage;
 

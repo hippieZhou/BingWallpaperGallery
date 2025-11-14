@@ -31,7 +31,7 @@ public class MarketCodeExtensionsTests
     public void GetMarketName_WithValidMarketCode_ShouldReturnNonEmptyString(MarketCode marketCode)
     {
         // Act
-        var result = marketCode.GetMarketName();
+        var result = marketCode.GetMarketCNName();
 
         // Assert
         result.Should().NotBeNullOrEmpty();
@@ -44,7 +44,7 @@ public class MarketCodeExtensionsTests
     public void GetMarketDescription_WithValidMarketCode_ShouldReturnNonEmptyString(MarketCode marketCode)
     {
         // Act
-        var result = marketCode.GetMarketDescription();
+        var result = marketCode.GetMarketENName();
 
         // Assert
         result.Should().NotBeNullOrEmpty();

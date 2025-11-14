@@ -51,6 +51,7 @@
                 x:Key="BoolToVisibilityConverter"
                 FalseValue="Collapsed"
                 TrueValue="Visible" />
+            <helpers:MarketInfoDisplayConverter x:Key="MarketInfoDisplayConverter" />
             <helpers:StringToBooleanConverter x:Key="StringToBooleanConverter" />
             <helpers:FormattedDownloadProgressConverter x:Key="FormattedDownloadProgressConverter" />
             <helpers:FormattedDownloadSpeedConverter x:Key="FormattedDownloadSpeedConverter" />

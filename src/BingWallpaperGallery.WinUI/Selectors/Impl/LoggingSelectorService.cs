@@ -48,7 +48,7 @@ public class LoggingSelectorService : ILoggingSelectorService
     /// </summary>
     /// <param name="logBaseDir">日志基础目录</param>
     /// <param name="daysToKeep">保留天数</param>
-    public void CleanUpOldLogs(string logBaseDir, int daysToKeep = 30)
+    private void CleanUpOldLogs(string logBaseDir, int daysToKeep = 30)
     {
         if (!Directory.Exists(logBaseDir))
         {

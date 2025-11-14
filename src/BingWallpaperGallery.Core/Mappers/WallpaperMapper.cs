@@ -97,13 +97,7 @@ public static class WallpaperMapper
 
     public static MarketInfoDto MapToMarketDto(MarketCode marketCode)
     {
-        return new MarketInfoDto(
-            Code: marketCode,
-            Name: marketCode.GetMarketName(),
-            Description: marketCode.GetMarketDescription(),
-            Flag: marketCode.GetMarketFlag(),
-            Note: marketCode.GetMarketNote()
-        );
+        return new MarketInfoDto(marketCode);
     }
 
     /// <summary>

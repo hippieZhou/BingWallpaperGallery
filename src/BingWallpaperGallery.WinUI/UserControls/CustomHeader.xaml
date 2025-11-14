@@ -63,13 +63,13 @@
                             Style="{ThemeResource BaseTextBlockStyle}"
                             Text="{x:Bind Desc}"
                             Visibility="{x:Bind Desc, Mode=OneWay, Converter={StaticResource EmptyObjectToVisibilityConverter}}" />
-                        <Button Margin="0,36,0,0" Visibility="{x:Bind More, Mode=OneWay, Converter={StaticResource EmptyObjectToVisibilityConverter}}">
+                        <Button Margin="0,36,0,0" Visibility="{x:Bind SelectedItem, Mode=OneWay, Converter={StaticResource EmptyObjectToVisibilityConverter}}">
                             <StackPanel Padding="10,0" Orientation="Horizontal">
                                 <FontIcon
                                     Margin="0,1,8,0"
                                     FontSize="14"
                                     Glyph="&#xE81D;" />
-                                <TextBlock Text="{x:Bind More, Mode=OneWay}" />
+                                <TextBlock Text="{x:Bind SelectedItem, Mode=OneWay, Converter={StaticResource MarketInfoDisplayConverter}}" />
                             </StackPanel>
                         </Button>
                     </StackPanel>
@@ -97,8 +97,7 @@
                                 <TextBlock
                                     Margin="16,0,16,0"
                                     Style="{StaticResource CaptionTextBlockStyle}"
-                                    Text="{x:Bind Name}"
-                                    ToolTipService.ToolTip="{x:Bind Note}" />
+                                    Text="{Binding Converter={StaticResource MarketInfoDisplayConverter}}" />
                             </Grid>
                         </DataTemplate>
                     </labs:TokenView.ItemTemplate>

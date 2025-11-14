@@ -44,8 +44,8 @@
             Style="{StaticResource StoreNavigationViewStyle}">
             <NavigationView.MenuItems>
                 <NavigationViewItem
-                    x:Uid="Shell_Gallery"
-                    d:Content="画廊"
+                    x:Uid="Shell_Home"
+                    d:Content="首页"
                     helpers:NavigationHelper.NavigateTo="BingWallpaperGallery.WinUI.ViewModels.HomeViewModel"
                     Icon="{ui:FontIcon Glyph=&#xE80F;}"
                     Tag="Gallery" />

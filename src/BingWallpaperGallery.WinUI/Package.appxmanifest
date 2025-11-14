@@ -11,14 +11,14 @@
   IgnorableNamespaces="uap rescap genTemplate">
 
   <Identity
-    Name="49037hippieZhou.BingWallpaperGalleryUnoffical"
+    Name="49037hippieZhou.BinggoWallpapers"
     Publisher="CN=FB39366C-1F01-4867-BE1F-B5C0C7888AAA"
-    Version="1.0.2.0" />
+    Version="1.0.6.0" />
     
-  <mp:PhoneIdentity PhoneProductId="8629c351-a27f-4275-9984-e04d556189eb" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="f0da0d92-d14a-4e6b-bb36-c5bbfa5f562f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
     
   <Properties>
-    <DisplayName>Bing Wallpaper Gallery (Unoffical)</DisplayName>
+    <DisplayName>Binggo Wallpapers</DisplayName>
     <PublisherDisplayName>hippieZhou</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>

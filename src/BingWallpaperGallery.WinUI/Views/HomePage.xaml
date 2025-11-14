@@ -65,7 +65,6 @@
                     Margin="0,0,0,12"
                     Desc="{x:Bind ViewModel.Today.Caption, Mode=OneWay}"
                     ItemsSource="{x:Bind ViewModel.Markets, Mode=OneWay}"
-                    More="{x:Bind ViewModel.Today.Market.Name, Mode=OneWay}"
                     SelectedItem="{x:Bind ViewModel.SelectedMarket, Mode=TwoWay}"
                     Source="{x:Bind ViewModel.Today.Url, Mode=OneWay}"
                     Subtitle="{x:Bind ViewModel.Today.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:yyyy-MM-dd}}">

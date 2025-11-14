@@ -28,9 +28,6 @@ public sealed partial class CustomHeader : UserControl
     public partial string? Desc { get; set; }
 
     [GeneratedDependencyProperty]
-    public partial string? More { get; set; }
-
-    [GeneratedDependencyProperty]
     public partial object? ItemsSource { get; set; }
 
     [GeneratedDependencyProperty]

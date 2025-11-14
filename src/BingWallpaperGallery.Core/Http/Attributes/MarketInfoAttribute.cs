@@ -9,12 +9,11 @@ namespace BingWallpaperGallery.Core.Http.Attributes;
 /// 构造函数
 /// </remarks>
 /// <param name="code">市场代码</param>
-/// <param name="name">市场名称</param>
-/// <param name="description">市场描述</param>
+/// <param name="cn">市场名称</param>
+/// <param name="en">市场描述</param>
 /// <param name="flag">国旗表情符号</param>
-/// <param name="note">备注信息</param>
 [AttributeUsage(AttributeTargets.Field)]
-public class MarketInfoAttribute(string code, string name, string description, string flag, string note) : Attribute
+public class MarketInfoAttribute(string code, string cn, string en, string flag) : Attribute
 {
     /// <summary>
     /// 市场代码
@@ -24,20 +23,15 @@ public class MarketInfoAttribute(string code, string name, string description, s
     /// <summary>
     /// 市场名称
     /// </summary>
-    public string Name { get; } = name;
+    public string CN { get; } = cn;
 
     /// <summary>
     /// 市场描述
     /// </summary>
-    public string Description { get; } = description;
+    public string EN { get; } = en;
 
     /// <summary>
     /// 国旗表情符号
     /// </summary>
     public string Flag { get; } = flag;
-
-    /// <summary>
-    /// 备注信息
-    /// </summary>
-    public string Note { get; } = note;
 }
