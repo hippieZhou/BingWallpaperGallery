@@ -1,0 +1,43 @@
+{
+  "date": "16 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Ole, ole! ¡Alza!",
+  "bsTitle": "¡Ole, ole! ¡Alza!",
+  "caption": "Día del Flamenco",
+  "copyright": "Bailaoras de Flamenco, España (© pepitoko/Getty Images)",
+  "copyrightOnly": "© pepitoko/Getty Images",
+  "copyrightLink": "/search?q=Flamenco&form=hpcapt&filters=HpDate%3a%2220251115_2300%22",
+  "description": "Cada 16 de noviembre, España celebra el Día del Flamenco, en recuerdo de su reconocimiento por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad. Nacido en Andalucía, este arte es una de las expresiones más profundas y auténticas de la cultura española, y hoy es admirado en los cinco continentes como símbolo internacional de España.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_FlamencoDay%22&FORM=HPQUIZ",
+  "hash": "e0355ec6c3e2bb6911683378d5fa67d7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511152300",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.FlamencoDay_ES-ES7190621326"
+}

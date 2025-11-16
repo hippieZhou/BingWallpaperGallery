@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "承载过往的篇章",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%87%8c%e6%98%82%e7%9a%84%e7%a9%bf%e5%bb%8a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+  "hash": "5c92f451fbab22fdf18a9f7fad81e47b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511151600",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.LyonTraboules_ZH-CN8476826325"
+}

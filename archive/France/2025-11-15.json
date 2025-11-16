@@ -1,0 +1,43 @@
+{
+  "date": "16 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Lyon, mode traboule activé !",
+  "bsTitle": "Lyon, mode traboule activé !",
+  "caption": "Les traboules du Vieux Lyon",
+  "copyright": "Traboules du Vieux Lyon, Auvergne-Rhône-Alpes (© TPopova/Getty Images)",
+  "copyrightOnly": "© TPopova/Getty Images",
+  "copyrightLink": "/search?q=Traboules+Lyon&form=hpcapt&filters=HpDate%3a%2220251115_2300%22",
+  "description": "Dans les ruelles pavées du quartier du Vieux Lyon et de la Croix-Rousse, on ne se contente pas de marcher, on voyage dans le temps. Derrière une porte en bois, un mur fendu ou une arche discrète, se cachent les traboules, ces passages secrets qui serpentent entre cours intérieures et façades Renaissance. Sous leurs voûtes de pierre, le murmure du passé accompagne chacun de nos pas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+  "hash": "1368e18d5005317d187bc7710fd3d432",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_FR-FR4995518705_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511152300",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.LyonTraboules_FR-FR4995518705"
+}

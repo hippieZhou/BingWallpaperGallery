@@ -1,0 +1,43 @@
+{
+  "date": "Nov 16, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Passages with a past",
+  "bsTitle": "Passages with a past",
+  "caption": "A traboule in Lyon, France",
+  "copyright": "A traboule in Lyon, France (© TPopova/Getty Images)",
+  "copyrightOnly": "© TPopova/Getty Images",
+  "copyrightLink": "/search?q=Traboules+of+Lyon&form=hpcapt&filters=HpDate%3a%2220251115_1830%22",
+  "description": "In Lyon, France, you don't just walk through the city—you glide through it. The traboules, a network of hidden passageways threading between courtyards and buildings, turn a simple stroll into a treasure hunt. They were the original shortcuts, allowing residents to dodge rain, carry goods or move discreetly through the medieval quarters. Today, they're less about practicality and more about discovery. These passages date back to the fourth century but became essential during the Renaissance, when silk traders used them to shuttle delicate fabrics safely from workshops to the river without braving the weather. Later, during World War II, Resistance fighters used the traboules as escape routes.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+  "hash": "b812158a0d04a66fb64195396409749b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_EN-IN1252380209_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511151830",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.LyonTraboules_EN-IN1252380209"
+}

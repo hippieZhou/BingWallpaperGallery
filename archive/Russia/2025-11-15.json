@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Irohazaka RoadTochigi, Japan (© oneinchpunch/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Nikko+Tochigi+Prefecture&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_IrohazakaAutumn%22&FORM=HPQUIZ",
+  "hash": "83ea8d597b68821a96aa691f41543175",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_ROW7825970008_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_ROW7825970008_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_ROW7825970008_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_ROW7825970008_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511150800",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.IrohazakaAutumn_ROW7825970008"
+}

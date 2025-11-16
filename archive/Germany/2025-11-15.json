@@ -1,0 +1,43 @@
+{
+  "date": "16. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Historische Durchgänge",
+  "bsTitle": "Historische Durchgänge",
+  "caption": "Eine Traboule in Lyon, Frankreich",
+  "copyright": "Eine Traboule in Lyon, Frankreich (© TPopova/Getty Images)",
+  "copyrightOnly": "© TPopova/Getty Images",
+  "copyrightLink": "/search?q=Traboule&form=hpcapt&filters=HpDate%3a%2220251115_2300%22",
+  "description": "Die Traboules sind versteckte Durchgänge, die Gebäude und Innenhöfe miteinander verbinden und in mehreren Städten im Osten Frankreichs vorkommen – insbesondere in Lyon. Ihr Ursprung reicht bis in die Renaissance zurück, als Seidenhändler schnelle und wettergeschützte Wege benötigten, um ihre Waren zu transportieren. Im Laufe der Jahrhunderte dienten diese Gänge auch als Zufluchtsort und Fluchtweg, insbesondere während des Zweiten Weltkriegs, als sie von der französischen Résistance genutzt wurden. Heute sind die Traboules ein fester Bestandteil des architektonischen Erbes Lyons. Viele von ihnen sind öffentlich zugänglich und bieten ein einzigartiges urbanes Entdeckungserlebnis.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251115_LyonTraboules%22&FORM=HPQUIZ",
+  "hash": "0ca3ee240b7321cdd9d7a0caaccb694d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LyonTraboules_DE-DE6267505829_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251115",
+    "fullStartDateTime": "202511152300",
+    "endDate": "20251116"
+  },
+  "createdAt": "202511160244",
+  "originalUrlBase": "/th?id=OHR.LyonTraboules_DE-DE6267505829"
+}
