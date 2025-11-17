@@ -1,0 +1,43 @@
+{
+  "date": "Nov 17, 2025",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The trails' call",
+  "bsTitle": "The trails' call",
+  "caption": "Shenandoah National Park, Virginia, United States",
+  "copyright": "Autumn colours in Shenandoah National Park, Virginia, United States (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "© Michael Ver Sprill/Getty Images",
+  "copyrightLink": "/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220251116_1830%22",
+  "description": "Today's image features Shenandoah National Park in Virginia, United States. Part of the Blue Ridge Mountains, it is preserved as a national park for its long trails and wide, wooded valleys. The quiet rhythm of this landscape finds echoes in India, where the Western Ghats and Himachal's cedar forests hold their own mountain paths through rich ecosystems that link villages and wildlife. Both regions are recognised for their biodiversity and serve as vital corridors for species that thrive in changing mountain climates.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "b1a163ece22794e8664dbbb4282fc4e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-IN3789880572_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511161830",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_EN-IN3789880572"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 11月 月 17 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はナショナル・ハイキング・デー",
+  "bsTitle": "今日はナショナル・ハイキング・デー",
+  "caption": "今日はナショナル・ハイキング・デー",
+  "copyright": "シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "© Michael Ver Sprill/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b7%e3%82%a7%e3%83%8a%e3%83%b3%e3%83%89%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220251116_1500%22",
+  "description": "今日、11 月 17 日は米国の「ナショナル・ハイキング・デー」。日本が、毎年「山の日」に自然とのふれあいを促進しているのと同様、米国も毎年この日をハイキングの普及と自然とのふれあいを促進する日としています。米国は各地にトレイルが整備されており、その総距離はおよそ 96,000km にもおよびます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "becbd2301b632bf35954e416d4e71b6c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511161500",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_JA-JP4220647370"
+}

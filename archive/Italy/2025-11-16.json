@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Puri parchi?",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parco Nazionale Shenandoah, Virginia, USA (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+nazionale+Shenandoah&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "1bfea0c517f8c437db557cd6f03952f8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_IT-IT9971763643_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511162300",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_IT-IT9971763643"
+}

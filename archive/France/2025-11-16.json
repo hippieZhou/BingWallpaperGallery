@@ -1,0 +1,43 @@
+{
+  "date": "17 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un dernier élan de couleur avant l’hiver",
+  "bsTitle": "Un dernier élan de couleur avant l’hiver",
+  "caption": "Forêt de mélèzes dorés",
+  "copyright": "Forêt de mélèzes dorés, Alpes (© Jose Manuel Perez/Getty Images)",
+  "copyrightOnly": "© Jose Manuel Perez/Getty Images",
+  "copyrightLink": "/search?q=m%c3%a9l%c3%a8ze&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+  "description": "À l'automne, les montagnes se métamorphosent en cathédrales de lumière. Dans les Alpes du Sud, notamment dans la vallée de la Clarée, le Queyras ou sur le plateau d’Emparis, le mélèze offre un spectacle rare : en été, ses aiguilles sont d’un vert tendre, puis elles virent au jaune éclatant avant de tomber, laissant les branches nues face à l’hiver. Contrairement aux autres conifères, cet arbre se dénude chaque année, comme pour renaître plus fort au printemps. Cette singularité en fait le maître des paysages alpins, où ses ramures dorées embrasent les vallées.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_AlpesAutumn%22&FORM=HPQUIZ",
+  "hash": "a2407608f3a804c0a718bff62df10107",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511162300",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.AlpesAutumn_FR-FR0334744208"
+}

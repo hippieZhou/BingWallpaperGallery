@@ -1,0 +1,43 @@
+{
+  "date": "17 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Senderos otoñales",
+  "bsTitle": "Senderos otoñales",
+  "caption": "Parque Nacional Shenandoah, Virginia, EE. UU.",
+  "copyright": "Colores otoñales en el Parque Nacional Shenandoah, Virginia, EE. UU. (© Michael Ver Sprill/Getty Images)",
+  "copyrightOnly": "© Michael Ver Sprill/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+Shenandoah&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+  "description": "El Parque Nacional Shenandoah, en Virginia (Estados Unidos), es una joya natural que enamora a quien lo visita. Las montañas Blue Ridge se visten con los colores del otoño: nogales dorados, arces rojos y robles con tonos de bronce. En noviembre, el aire fresco llena el valle y las últimas hojas parecen aferrarse a las laderas como si guardaran un secreto.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_ShenandoahTrail%22&FORM=HPQUIZ",
+  "hash": "596641849fe16d9f3ac486df14227497",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ES-ES5113798571_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511162300",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.ShenandoahTrail_ES-ES5113798571"
+}

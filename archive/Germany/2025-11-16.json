@@ -1,0 +1,43 @@
+{
+  "date": "17. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Majestätische Jäger der Nacht",
+  "bsTitle": "Majestätische Jäger der Nacht",
+  "caption": "Europäischer Uhu im herbstlichen Wald",
+  "copyright": "Europäischer Uhu auf einem herbstlichen Baumstamm, Deutschland (© Ondrej Prosicky/Shutterstock)",
+  "copyrightOnly": "© Ondrej Prosicky/Shutterstock",
+  "copyrightLink": "/search?q=Uhus+Eulen&form=hpcapt&filters=HpDate%3a%2220251116_2300%22",
+  "description": "Die Tage sind bereits deutlich kürzer geworden, die Luft ist frisch, und das bunte Laub taucht die Landschaft in warmes Licht. Für viele Wildtiere beginnt jetzt eine besondere Zeit – so auch für den Uhu. Mit bis zu 70 Zentimetern Körpergröße und einer Flügelspannweite von bis zu 1,80 Metern ist er die größte Eule Europas. Auffällig sind seine Federohren, die er je nach Stimmung hoch aufstellen oder anlegen kann. Als nachtaktiver Jäger ernährt er sich überwiegend von Mäusen, Ratten, Vögeln, Kaninchen und gelegentlich auch von Fischen. Lange Zeit war der Uhu in Deutschland jedoch fast verschwunden. Er wurde verfolgt und seine Nester geplündert – im Mittelalter galt er sogar als schlechtes Omen für Hunger und Tod. Heute ist er dank intensiver Schutzmaßnahmen wieder in vielen Regionen heimisch. Besonders in felsigen Mittelgebirgen wie der Eifel oder im Harz lässt er sich mit etwas Glück beobachten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251116_GermanyOwl%22&FORM=HPQUIZ",
+  "hash": "c8b8533cd9103f860055000cc70c032c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GermanyOwl_DE-DE5134865756_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251116",
+    "fullStartDateTime": "202511162300",
+    "endDate": "20251117"
+  },
+  "createdAt": "202511170229",
+  "originalUrlBase": "/th?id=OHR.GermanyOwl_DE-DE5134865756"
+}
