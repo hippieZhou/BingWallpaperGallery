@@ -1,0 +1,43 @@
+{
+  "date": "Nov 21, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Sealed with a hello",
+  "bsTitle": "Sealed with a hello",
+  "caption": "World Hello Day",
+  "copyright": "Harbour seals at Robert Moses State Park, Long Island, New York, United States (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "copyrightOnly": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+  "copyrightLink": "/search?q=Hello+Day&form=hpcapt&filters=HpDate%3a%2220251121_0000%22",
+  "description": "This harbour seal, photographed at Robert Moses State Park on Long Island, New York, seems to be onto something—spreading good vibes, one wave at a time. That's exactly the spirit of World Hello Day, celebrated every November 21. This cheerful observance began in 1973 when two American brothers, Brian and Michael McCormack, launched it as a peaceful response to global tensions. They mailed 1,360 letters in seven languages to world leaders, inviting them to join the first celebration. Their message was simple yet powerful: personal communication can help preserve peace. Today, people in more than 180 countries participate.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251121_SealWaving%22&FORM=HPQUIZ",
+  "hash": "d5b8c65c666ff035fa357bef45cc8bfd",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_EN-GB3833403260_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251121",
+    "fullStartDateTime": "202511210000",
+    "endDate": "20251122"
+  },
+  "createdAt": "202511210226",
+  "originalUrlBase": "/th?id=OHR.SealWaving_EN-GB3833403260"
+}

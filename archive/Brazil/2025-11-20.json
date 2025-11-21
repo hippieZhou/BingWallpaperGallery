@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Quando a terra fala",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Arte de Saype na sede da ONU, Genebra, Suíça (© Valentin Flauraud/EPA-EFE/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=land+art&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SaypeGeneva%22&FORM=HPQUIZ",
+  "hash": "e93f304ed9e82a2b6f5274fa7df49d5b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SaypeGeneva_PT-BR1234031890_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251120",
+    "fullStartDateTime": "202511200300",
+    "endDate": "20251121"
+  },
+  "createdAt": "202511210226",
+  "originalUrlBase": "/th?id=OHR.SaypeGeneva_PT-BR1234031890"
+}

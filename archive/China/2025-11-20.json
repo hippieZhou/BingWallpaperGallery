@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "带着“你好”的问候",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%b8%af%e6%b5%b7%e8%b1%b9&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+  "hash": "5ba83cbe3cff36edcf3e219bc1c8ff6a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251120",
+    "fullStartDateTime": "202511201600",
+    "endDate": "20251121"
+  },
+  "createdAt": "202511210226",
+  "originalUrlBase": "/th?id=OHR.SealWaving_ZH-CN2467723602"
+}

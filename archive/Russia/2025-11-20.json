@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Chapada Diamantina, Bahia, Brazil (© Marcio Dufranc/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Chapada+Diamantina&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_PondCave%22&FORM=HPQUIZ",
+  "hash": "229a1c41eaced1ab265701ffab669c7d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ROW8757145455_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ROW8757145455_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ROW8757145455_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PondCave_ROW8757145455_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251120",
+    "fullStartDateTime": "202511200800",
+    "endDate": "20251121"
+  },
+  "createdAt": "202511210226",
+  "originalUrlBase": "/th?id=OHR.PondCave_ROW8757145455"
+}

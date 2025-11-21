@@ -1,0 +1,43 @@
+{
+  "date": "21 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le pouvoir d’un bonjour",
+  "bsTitle": "Le pouvoir d’un bonjour",
+  "caption": "Journée mondiale du bonjour",
+  "copyright": "Phoques gris, parc d'État Robert Moses, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "copyrightOnly": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+du+bonjour&form=hpcapt&filters=HpDate%3a%2220251120_2300%22",
+  "description": "Sur les rochers baignés par l’Atlantique, à Long Island aux États-Unis, un phoque gris lève sa nageoire comme un salut discret. Ce geste, pure stratégie pour réguler sa température, nous semble pourtant un signe universel : dire « bonjour ». Chaque 21 novembre, la Journée mondiale du bonjour nous rappelle qu’un mot simple peut apaiser les tensions, comme l’avaient imaginé deux frères américains en 1973, en envoyant 1 360 lettres aux dirigeants du monde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251120_SealWaving%22&FORM=HPQUIZ",
+  "hash": "aa03c61c86041a35f101e5455a7f532c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SealWaving_FR-FR2764783394_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251120",
+    "fullStartDateTime": "202511202300",
+    "endDate": "20251121"
+  },
+  "createdAt": "202511210226",
+  "originalUrlBase": "/th?id=OHR.SealWaving_FR-FR2764783394"
+}
