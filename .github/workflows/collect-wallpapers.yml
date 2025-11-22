@@ -63,10 +63,10 @@ jobs:
           dotnet-version: "10.0.x"
 
       - name: 恢复依赖包
-        run: dotnet restore src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj
+        run: dotnet restore src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj
 
       - name: 构建项目
-        run: dotnet build src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj --configuration Release --no-restore
+        run: dotnet build src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj --configuration Release --no-restore
 
       - name: 智能配置收集参数
         id: config
@@ -137,7 +137,7 @@ jobs:
       - name: 收集壁纸信息
         run: |
           echo "🚀 开始收集 ${{ steps.config.outputs.target_country }} 的壁纸信息..."
-          dotnet run --project src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj --configuration Release
+          dotnet run --project src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj --configuration Release
 
       - name: 配置 Git 用户信息
         run: |

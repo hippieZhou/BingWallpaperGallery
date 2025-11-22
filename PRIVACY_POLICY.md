@@ -8,9 +8,9 @@
 
 ### Introduction
 
-Bing Gallery ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you use our Windows application.
+BinggoWallpapers ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you use our Windows application.
 
-**Important:** Bing Gallery is an independent third-party application and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation or Bing. All wallpaper content is sourced from Bing's public API.
+**Important:** BinggoWallpapers is an independent third-party application and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation or Bing. All wallpaper content is sourced from Bing's public API.
 
 ### Information We Collect
 
@@ -130,15 +130,15 @@ This app complies with:
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
--   **GitHub Issues:** https://github.com/hippiezhou/BingWallpaperGallery/issues
--   **GitHub Discussions:** https://github.com/hippiezhou/BingWallpaperGallery/discussions
+-   **GitHub Issues:** https://github.com/hippiezhou/BinggoWallpapers/issues
+-   **GitHub Discussions:** https://github.com/hippiezhou/BinggoWallpapers/discussions
 -   **Email:** [Your Email Address]
 
 ### Open Source
 
 This app is open source. You can review the complete source code to verify our privacy practices:
 
--   **Repository:** https://github.com/hippiezhou/BingWallpaperGallery
+-   **Repository:** https://github.com/hippiezhou/BinggoWallpapers
 -   **License:** MIT License
 
 ---
@@ -269,15 +269,15 @@ This app is open source. You can review the complete source code to verify our p
 
 如果您对本隐私策略有任何问题或疑虑，请联系我们：
 
--   **GitHub Issues：** https://github.com/hippiezhou/BingWallpaperGallery/issues
--   **GitHub Discussions：** https://github.com/hippiezhou/BingWallpaperGallery/discussions
+-   **GitHub Issues：** https://github.com/hippiezhou/BinggoWallpapers/issues
+-   **GitHub Discussions：** https://github.com/hippiezhou/BinggoWallpapers/discussions
 -   **电子邮件：** [您的电子邮件地址]
 
 ### 开源
 
 本应用是开源的。您可以查看完整的源代码以验证我们的隐私实践：
 
--   **仓库：** https://github.com/hippiezhou/BingWallpaperGallery
+-   **仓库：** https://github.com/hippiezhou/BinggoWallpapers
 -   **许可证：** MIT License
 
 ---

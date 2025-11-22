@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<UserControl
+    x:Class="BinggoWallpapers.WinUI.UserControls.BackToTop"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:animations="using:CommunityToolkit.WinUI.Animations"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:BinggoWallpapers.WinUI.UserControls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    x:Name="RootControl"
+    Width="48"
+    Height="48"
+    CornerRadius="24"
+    mc:Ignorable="d">
+
+    <Button
+        x:Name="BackToTopButton"
+        Width="{Binding (ui:FrameworkElementExtensions.Ancestor).Width, FallbackValue=48, RelativeSource={RelativeSource Self}}"
+        Height="{Binding (ui:FrameworkElementExtensions.Ancestor).Height, FallbackValue=48, RelativeSource={RelativeSource Self}}"
+        animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
+        animations:Implicit.ShowAnimations="{StaticResource ShowTransitions}"
+        ui:FrameworkElementExtensions.AncestorType="UserControl"
+        ui:FrameworkElementExtensions.EnableActualSizeBinding="True"
+        AutomationProperties.Name="回到顶部"
+        Click="{x:Bind OnBackToTop}"
+        Content="{ui:FontIcon Glyph=&#xE70e;}"
+        CornerRadius="{Binding (ui:FrameworkElementExtensions.Ancestor).CornerRadius, FallbackValue=24, RelativeSource={RelativeSource Self}}"
+        ToolTipService.ToolTip="回到顶部" />
+</UserControl>

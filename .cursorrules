@@ -1,8 +1,8 @@
-# BingWallpaperGallery - Cursor AI 规则配置
+# BinggoWallpapers - Cursor AI 规则配置
 
 ## 项目概述
 
-BingWallpaperGallery 是一个基于 WinUI 3 的必应壁纸应用，使用 C# 和 .NET 9 开发，采用 MVVM 架构模式，支持浏览、下载和编辑来自全球 14 个地区的必应每日壁纸。
+BinggoWallpapers 是一个基于 WinUI 3 的必应壁纸应用，使用 C# 和 .NET 9 开发，采用 MVVM 架构模式，支持浏览、下载和编辑来自全球 14 个地区的必应每日壁纸。
 
 ## 技术栈
 
@@ -24,19 +24,19 @@ BingWallpaperGallery 是一个基于 WinUI 3 的必应壁纸应用，使用 C# �
 ### 项目结构
 ```
 src/
-├── BingWallpaperGallery.Core/          # 核心业务逻辑
+├── BinggoWallpapers.Core/          # 核心业务逻辑
 │   ├── DataAccess/                     # 数据访问层 (EF Core)
 │   ├── Services/                       # 业务服务层
 │   ├── Http/                           # HTTP 客户端和服务
 │   ├── DTOs/                           # 数据传输对象
 │   └── Mappers/                        # 对象映射器
-├── BingWallpaperGallery.WinUI/         # WinUI 应用层
+├── BinggoWallpapers.WinUI/         # WinUI 应用层
 │   ├── ViewModels/                     # 视图模型
 │   ├── Views/                          # 视图 (XAML)
 │   ├── UserControls/                   # 自定义控件
 │   └── Services/                       # UI 层服务
-├── BingWallpaperGallery.Collector/     # 数据收集器控制台应用
-└── BingWallpaperGallery.Core.Tests/    # 单元测试
+├── BinggoWallpapers.Collector/     # 数据收集器控制台应用
+└── BinggoWallpapers.Core.Tests/    # 单元测试
 ```
 
 ## C# 编码规范
@@ -50,7 +50,7 @@ src/
 - **方法参数**: camelCase
 
 ### 代码风格
-- **命名空间**: 使用 file-scoped namespace (`namespace BingWallpaperGallery.Core;`)
+- **命名空间**: 使用 file-scoped namespace (`namespace BinggoWallpapers.Core;`)
 - **using 指令**: 放在命名空间外部，System.* 在前
 - **缩进**: 4 个空格，不使用 Tab
 - **大括号**: Allman 风格 (独占一行)
@@ -71,7 +71,7 @@ using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 
-namespace BingWallpaperGallery.Core.Services.Impl;
+namespace BinggoWallpapers.Core.Services.Impl;
 
 /// <summary>
 /// 提供壁纸下载服务的实现
@@ -123,7 +123,7 @@ public class DownloadService : IDownloadService
 - 使用 `[ObservableProperty]` 特性生成属性
 - 使用 `[RelayCommand]` 特性生成命令
 - ViewModels 放在 `ViewModels` 命名空间
-- 命名以 `ViewModel` 结尾 (如 `GalleryViewModel`)
+- 命名以 `ViewModel` 结尾 (如 `HomeViewModel`)
 
 ### 依赖注入
 - 所有服务通过构造函数注入
@@ -157,7 +157,7 @@ public class DownloadService : IDownloadService
 - 使用仓储模式 (`IRepository<T>`)
 
 ### 数据库文件
-- SQLite 数据库文件路径: `ApplicationData/Local/BingWallpaperGallery/wallpapers.db`
+- SQLite 数据库文件路径: `ApplicationData/Local/BinggoWallpapers/wallpapers.db`
 - 使用 `ApplicationDbContext` 管理数据库上下文
 - 启用 WAL 日志模式 (Write-Ahead Logging)
 
@@ -166,7 +166,7 @@ public class DownloadService : IDownloadService
 ### Serilog 配置
 - 使用结构化日志 (Compact JSON 格式)
 - 日志级别: Debug (调试版), Information (发布版)
-- 日志文件路径: `ApplicationData/Local/BingWallpaperGallery/logs/`
+- 日志文件路径: `ApplicationData/Local/BinggoWallpapers/logs/`
 - 使用 Map sink 实现按市场分组的日志
 
 ### 日志示例
@@ -218,7 +218,7 @@ _logger.LogDebug("数据库查询耗时: {ElapsedMs}ms", elapsed.TotalMillisecon
 ```
 ✨ feat: 添加按地区筛选功能
 
-- 在 GalleryViewModel 中添加 FilterByRegion 方法
+- 在 HomeViewModel 中添加 FilterByRegion 方法
 - 新增 RegionFilterControl 用户控件
 - 更新数据库查询逻辑
 
@@ -273,8 +273,8 @@ Closes #45
 5. 生成迁移: `dotnet ef migrations add YourMigrationName`
 
 ### 运行和调试
-- 运行应用: 设置 `BingWallpaperGallery.WinUI` 为启动项目
-- 运行收集器: 设置 `BingWallpaperGallery.Collector` 为启动项目
+- 运行应用: 设置 `BinggoWallpapers.WinUI` 为启动项目
+- 运行收集器: 设置 `BinggoWallpapers.Collector` 为启动项目
 - 运行测试: `dotnet test --collect:"XPlat Code Coverage"`
 - 格式化代码: `dotnet format`
 
@@ -297,9 +297,9 @@ Closes #45
 - UI 文本使用资源文件 (Resources.resw)
 
 ### 文件路径
-- 配置文件: `ApplicationData/Local/BingWallpaperGallery/appsettings.json`
-- 数据库: `ApplicationData/Local/BingWallpaperGallery/wallpapers.db`
-- 日志: `ApplicationData/Local/BingWallpaperGallery/logs/`
+- 配置文件: `ApplicationData/Local/BinggoWallpapers/appsettings.json`
+- 数据库: `ApplicationData/Local/BinggoWallpapers/wallpapers.db`
+- 日志: `ApplicationData/Local/BinggoWallpapers/logs/`
 - 下载目录: `Pictures/BingWallpapers/`
 
 ## AI 编码助手指令
@@ -349,10 +349,10 @@ dotnet test --collect:"XPlat Code Coverage"
 dotnet format
 
 # 生成迁移
-dotnet ef migrations add MigrationName --project src/BingWallpaperGallery.Core
+dotnet ef migrations add MigrationName --project src/BinggoWallpapers.Core
 
 # 更新数据库
-dotnet ef database update --project src/BingWallpaperGallery.Core
+dotnet ef database update --project src/BinggoWallpapers.Core
 
 # 发布应用 (MSIX)
 dotnet publish -c Release -r win-x64 --self-contained
@@ -360,7 +360,7 @@ dotnet publish -c Release -r win-x64 --self-contained
 
 ---
 
-**项目链接**: https://github.com/hippiezhou/BingWallpaperGallery
+**项目链接**: https://github.com/hippiezhou/BinggoWallpapers
 **许可证**: MIT
 **作者**: hippieZhou
 
