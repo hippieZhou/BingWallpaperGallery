@@ -1,0 +1,43 @@
+{
+  "date": "23 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El código secreto de la naturaleza",
+  "bsTitle": "El código secreto de la naturaleza",
+  "caption": "Día de Fibonacci",
+  "copyright": "Fósil de amonita de Madagascar (© ThomasLENNE/Shutterstock)",
+  "copyrightOnly": "© ThomasLENNE/Shutterstock",
+  "copyrightLink": "/search?q=La+Secuencia+de+Fibonacci&form=hpcapt&filters=HpDate%3a%2220251122_2300%22",
+  "description": "Descubre de cerca este fósil de amonita. Su caparazón enrollado, que alguna vez fue el hogar de un antiguo molusco marino, guarda un secreto matemático: un patrón en espiral. Cada nueva cámara es proporcionalmente más grande que la anterior, siguiendo una relación de crecimiento constante conocida como la secuencia de Fibonacci.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+  "hash": "8f06b73ad9920b09515239232ae40431",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251122",
+    "fullStartDateTime": "202511222300",
+    "endDate": "20251123"
+  },
+  "createdAt": "202511230253",
+  "originalUrlBase": "/th?id=OHR.MadgascarAmmonite_ES-ES6952842200"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O guardião das águas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grande Buda de Leshan, Sujuão, China (© www.anotherdayattheoffice.org/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+Grande+Buda+de+Leshan&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_LeshanBuddha%22&FORM=HPQUIZ",
+  "hash": "c231f67635e4ea6fd1369c26106faa6d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeshanBuddha_PT-BR1954445961_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251122",
+    "fullStartDateTime": "202511220300",
+    "endDate": "20251123"
+  },
+  "createdAt": "202511230253",
+  "originalUrlBase": "/th?id=OHR.LeshanBuddha_PT-BR1954445961"
+}

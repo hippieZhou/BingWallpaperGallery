@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 11月 月 23 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日はフィボナッチ数の日",
+  "bsTitle": "今日はフィボナッチ数の日",
+  "caption": "今日はフィボナッチ数の日",
+  "copyright": "アンモナイトの化石, マダガスカル (© ThomasLENNE/Shutterstock)",
+  "copyrightOnly": "© ThomasLENNE/Shutterstock",
+  "copyrightLink": "/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0&form=hpcapt&filters=HpDate%3a%2220251122_1500%22",
+  "description": "今日 11 月 23 日はフィボナッチ数の日。フィボナッチ数とは、イタリアの数学者レオナルド・フィボナッチにちなんで名付けられた数列で、0、1、1、2、3…と始まることから 11 月 23 日が記念日となりました。画像のようなアンモナイトの化石を始め、黄金比やさまざまな自然の形態の比率の中で見ることができます…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251122_MadgascarAmmonite%22&FORM=HPQUIZ",
+  "hash": "f64ef51dc37b1de2ff78c7108c532172",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251122",
+    "fullStartDateTime": "202511221500",
+    "endDate": "20251123"
+  },
+  "createdAt": "202511230253",
+  "originalUrlBase": "/th?id=OHR.MadgascarAmmonite_JA-JP9626898982"
+}
