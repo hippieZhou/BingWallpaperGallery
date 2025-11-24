@@ -15,7 +15,7 @@
 [![codecov](https://codecov.io/gh/hippiezhou/BinggoWallpapers/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BinggoWallpapers)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![WinUI 3](https://img.shields.io/badge/WinUI-3.0-blue)
-![.NET 9](https://img.shields.io/badge/.NET-9.0-blue)
+![.NET 10](https://img.shields.io/badge/.NET-10.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ 功能特性

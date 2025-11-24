@@ -1,6 +1,6 @@
 # 快速开始指南
 
-本文档将指导您从零开始搭建开发环境、配置和运行 Bing Wallpaper Gallery 应用。
+本文档将指导您从零开始搭建开发环境、配置和运行 BinggoWallpapers 应用。
 
 ---
 
