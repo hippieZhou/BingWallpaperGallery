@@ -1,0 +1,43 @@
+{
+  "date": "Nov 23, 2025",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Ammonite fossil from Madagascar",
+  "copyright": "Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)",
+  "copyrightOnly": "© ThomasLENNE/Shutterstock",
+  "copyrightLink": "/search?q=Ammonite+fossil&form=hpcapt&filters=HpDate%3a%2220251123_0800%22",
+  "description": "Look closely at this ammonite fossil. Its swirling shell, once home to a prehistoric sea creature, holds a mathematical secret—a spiral pattern. Each new chamber is proportionally larger than the previous one, maintaining a consistent growth ratio, often associated with the Fibonacci sequence.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_MadgascarAmmonite%22&FORM=HPQUIZ",
+  "hash": "70ac5d4cb9aeebd173465901d3d7fa80",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ROW9090236078_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ROW9090236078_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ROW9090236078_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ROW9090236078_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511230800",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.MadgascarAmmonite_ROW9090236078"
+}

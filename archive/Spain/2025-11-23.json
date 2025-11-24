@@ -1,0 +1,43 @@
+{
+  "date": "24 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Secretos tallados en piedra",
+  "bsTitle": "Secretos tallados en piedra",
+  "caption": "Fortaleza de Gwalior, Madhya Pradesh, India",
+  "copyright": "Fortaleza de Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)",
+  "copyrightOnly": "© ImagesofIndia/Shutterstock",
+  "copyrightLink": "/search?q=India&form=hpcapt&filters=HpDate%3a%2220251123_2300%22",
+  "description": "Gwalior, en Madhya Pradesh, no es solo una ciudad; es un capítulo vivo de la historia de la India. Dominando el horizonte, el Fuerte de Gwalior, construido en el siglo VI, creció bajo distintas dinastías y está rodeado de leyendas. Apodado \"el Gibraltar de la India\", fue elogiado por el emperador mogol Babur como la \"perla entre las fortalezas de Hind\" por su grandeza y solidez. A lo largo de los siglos, el fuerte vio gobernantes desde los Tomars hasta los mogoles y fue escenario de batallas, intrigas reales y tesoros escondidos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+  "hash": "0fb62382a525c68c348c40853a0ee7ff",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511232300",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.GwailorFort_ES-ES8433830967"
+}

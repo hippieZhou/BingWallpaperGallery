@@ -1,0 +1,43 @@
+{
+  "date": "24 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La perle des forteresses",
+  "bsTitle": "La perle des forteresses",
+  "caption": "Fort de Gwalior, Madhya Pradesh, Inde",
+  "copyright": "Fort de Gwalior, Madhya Pradesh, Inde (© ImagesofIndia/Shutterstock)",
+  "copyrightOnly": "© ImagesofIndia/Shutterstock",
+  "copyrightLink": "/search?q=Fort+de+Gwalior+Inde&form=hpcapt&filters=HpDate%3a%2220251123_2300%22",
+  "description": "Surplombant la plaine indienne du Madhya Pradesh, le fort de Gwalior domine la ville comme une promesse d'éternité. Taillé dans le grès ocre, ce géant du XVIe siècle a vu défiler les rois, les batailles et les empires. Les Mughals l’appelaient la « perle des forteresses de l’Inde » et Babur, son conquérant, le comparait à un joyau posé sur une mer de collines.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+  "hash": "3c45d55718b6b7d99e17f697eb30ccfc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_FR-FR3152904130_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511232300",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.GwailorFort_FR-FR3152904130"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Nov. 23, 2025",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Nature's secret code",
+  "bsTitle": "Nature's secret code",
+  "caption": "Fibonacci Day",
+  "copyright": "Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)",
+  "copyrightOnly": "© ThomasLENNE/Shutterstock",
+  "copyrightLink": "/search?q=Fibonacci+sequence&form=hpcapt&filters=HpDate%3a%2220251123_0500%22",
+  "description": "Look closely at this ammonite fossil. Its swirling shell, once home to a prehistoric sea creature, holds a mathematical secret—a spiral pattern. Each new chamber is proportionally larger than the previous one, maintaining a consistent growth ratio, often associated with the Fibonacci sequence.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_MadgascarAmmonite%22&FORM=HPQUIZ",
+  "hash": "5f7411dcbbc3b73a75adb47b8035178e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_EN-CA5347392572_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511230500",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.MadgascarAmmonite_EN-CA5347392572"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Segreti in pietra",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Forte di Gwalior, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Forte+di+Gwalior&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_GwailorFort%22&FORM=HPQUIZ",
+  "hash": "8f06424fc79da5d6b675b3ebdd6f3950",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_IT-IT0586993308_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511232300",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.GwailorFort_IT-IT0586993308"
+}

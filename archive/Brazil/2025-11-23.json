@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O código secreto da natureza",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Fóssil de amonite, Madagascar (© ThomasLENNE/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+de+Fibonacci&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251123_MadgascarAmmonite%22&FORM=HPQUIZ",
+  "hash": "d9c16084dfba201a7a23fdcc02145e3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_PT-BR2501719258_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251123",
+    "fullStartDateTime": "202511230300",
+    "endDate": "20251124"
+  },
+  "createdAt": "202511240249",
+  "originalUrlBase": "/th?id=OHR.MadgascarAmmonite_PT-BR2501719258"
+}
