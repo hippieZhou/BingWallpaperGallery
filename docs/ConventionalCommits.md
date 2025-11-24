@@ -1,6 +1,6 @@
 # Conventional Commits 提交规范
 
-本文档详细说明了 Bing Wallpaper Gallery 项目所采用的 Conventional Commits（约定式提交）规范，以确保提交历史清晰、规范且易于追踪。
+本文档详细说明了 BinggoWallpapers.WinUI 项目所采用的 Conventional Commits（约定式提交）规范，以确保提交历史清晰、规范且易于追踪。
 
 ---
 
@@ -262,7 +262,7 @@ feat(gallery): 支持壁纸按地区筛选
 支持的地区包括：中国、美国、日本、德国等 14 个国家。
 
 实现细节：
-- 在 GalleryViewModel 中添加 FilterByRegion 方法
+- 在 HomeViewModel 中添加 FilterByRegion 方法
 - 新增 RegionFilterControl 用户控件
 - 更新数据库查询逻辑以支持地区筛选
 

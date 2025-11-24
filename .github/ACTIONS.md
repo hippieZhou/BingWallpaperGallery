@@ -41,7 +41,7 @@ Workflow 会在以下时间自动运行：
 
 #### 2. 手动触发
 
-1. 访问 GitHub 仓库的 [**Actions**](https://github.com/hippiezhou/BingWallpaperGallery/actions) 页面
+1. 访问 GitHub 仓库的 [**Actions**](https://github.com/hippiezhou/BinggoWallpapers/actions) 页面
 2. 选择 **"Collect Bing Wallpapers"** workflow
 3. 点击 **"Run workflow"** 按钮
 4. 配置可选参数：
@@ -92,13 +92,13 @@ jq --arg days "$COLLECT_DAYS" \
     .CollectionOptions.CollectAllCountries = $collectAll |
     .CollectionOptions.MaxConcurrentRequests = 3 |
     .CollectionOptions.PrettyJsonFormat = true' \
-   src/BingWallpaperGallery.Collector/appsettings.json > temp.json
+   src/BinggoWallpapers.Collector/appsettings.json > temp.json
 ```
 
 #### 步骤 3: 运行收集器
 
 ```bash
-dotnet run --project src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj --configuration Release
+dotnet run --project src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj --configuration Release
 ```
 
 **输出位置**：`archive/{Country}/{Date}.json`
@@ -181,7 +181,7 @@ permissions:
 ```yaml
 env:
     DOTNET_VERSION: "9.0.x" # .NET SDK 版本
-    SOLUTION_PATH: "BingWallpaperGallery.sln" # 解决方案路径
+    SOLUTION_PATH: "BinggoWallpapers.sln" # 解决方案路径
     BUILD_PLATFORM: "x64" # 构建平台
 ```
 
@@ -228,7 +228,7 @@ graph TD
 #### 步骤 2: 构建解决方案
 
 ```bash
-dotnet build BingWallpaperGallery.sln \
+dotnet build BinggoWallpapers.sln \
   --configuration Release \
   --no-restore \
   -p:Platform=x64
@@ -237,7 +237,7 @@ dotnet build BingWallpaperGallery.sln \
 #### 步骤 3: 运行测试并收集覆盖率
 
 ```bash
-dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.csproj \
+dotnet test src/BinggoWallpapers.Core.Tests/BinggoWallpapers.Core.Tests.csproj \
   --configuration Release \
   --verbosity normal \
   --collect:"XPlat Code Coverage" \
@@ -318,7 +318,7 @@ dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.
 | 环境变量         | 说明             | 值                       |
 | ---------------- | ---------------- | ------------------------ |
 | `DOTNET_VERSION` | .NET SDK 版本    | 9.0.x                    |
-| `SOLUTION_PATH`  | 解决方案文件路径 | BingWallpaperGallery.sln |
+| `SOLUTION_PATH`  | 解决方案文件路径 | BinggoWallpapers.sln |
 | `BUILD_PLATFORM` | 构建平台架构     | x64                      |
 
 ---
@@ -338,7 +338,7 @@ dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.
 **解决方案**：
 
 -   检查 `setup-dotnet` 步骤是否成功
--   确认项目路径：`src/BingWallpaperGallery.Collector/BingWallpaperGallery.Collector.csproj`
+-   确认项目路径：`src/BinggoWallpapers.Collector/BinggoWallpapers.Collector.csproj`
 -   查看 workflow 日志中的详细错误信息
 
 #### 问题 2: 未收集到新数据
@@ -461,7 +461,7 @@ dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.
 
 ## 📚 相关文档
 
--   [BingWallpaperGallery.Collector 功能说明](../src/BingWallpaperGallery.Collector/README.md)
+-   [BinggoWallpapers.Collector 功能说明](../src/BinggoWallpapers.Collector/README.md)
 -   [快速开始指南](../docs/QuickStart.md)
 -   [隐私策略](../PRIVACY_POLICY.md)
 -   [GitHub Actions 官方文档](https://docs.github.com/en/actions)
@@ -475,8 +475,8 @@ dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.
 
 查看实时状态：
 
--   🌅 **壁纸收集**：[![Collect Wallpapers](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/collect-wallpapers.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/collect-wallpapers.yml)
--   🔨 **构建测试**：[![Build and Test](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml)
+-   🌅 **壁纸收集**：[![Collect Wallpapers](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/collect-wallpapers.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/collect-wallpapers.yml)
+-   🔨 **构建测试**：[![Build and Test](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml)
 
 ---
 

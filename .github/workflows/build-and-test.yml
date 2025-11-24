@@ -9,7 +9,7 @@ on:
 
 env:
   DOTNET_VERSION: "10.0.x"
-  SOLUTION_PATH: "BingWallpaperGallery.sln"
+  SOLUTION_PATH: "BinggoWallpapers.sln"
   BUILD_PLATFORM: "x64"
 
 jobs:
@@ -43,7 +43,7 @@ jobs:
         run: dotnet build ${{ env.SOLUTION_PATH }} --configuration Release --no-restore -p:Platform=${{ env.BUILD_PLATFORM }}
 
       - name: Run tests
-        run: dotnet test src/BingWallpaperGallery.Core.Tests/BingWallpaperGallery.Core.Tests.csproj --configuration Release --verbosity normal --collect:"XPlat Code Coverage" --results-directory ./coverage
+        run: dotnet test src/BinggoWallpapers.Core.Tests/BinggoWallpapers.Core.Tests.csproj --configuration Release --verbosity normal --collect:"XPlat Code Coverage" --results-directory ./coverage
 
       - name: Generate coverage report
         uses: danielpalme/ReportGenerator-GitHub-Action@5.3.11

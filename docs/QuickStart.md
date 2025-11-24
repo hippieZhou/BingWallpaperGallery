@@ -67,8 +67,8 @@
 ### 步骤 2：克隆项目
 
 ```bash
-git clone https://github.com/hippiezhou/BingWallpaperGallery.git
-cd BingWallpaperGallery
+git clone https://github.com/hippiezhou/BinggoWallpapers.git
+cd BinggoWallpapers
 ```
 
 ### 步骤 3：构建和运行
@@ -83,12 +83,12 @@ dotnet restore
 dotnet build
 
 # 运行应用
-dotnet run --project src/BingWallpaperGallery.WinUI
+dotnet run --project src/BinggoWallpapers.WinUI
 ```
 
 #### 方式二：使用 Visual Studio
 
-1. 打开 `BingWallpaperGallery.sln` 解决方案文件
+1. 打开 `BinggoWallpapers.sln` 解决方案文件
 2. 等待 Visual Studio 自动还原 NuGet 包
 3. 按 `F5` 或点击"开始调试"按钮运行应用
 
@@ -98,12 +98,12 @@ dotnet run --project src/BingWallpaperGallery.WinUI
 
 ### 应用配置文件
 
-应用配置文件位于 `src/BingWallpaperGallery.WinUI/appsettings.json`：
+应用配置文件位于 `src/BinggoWallpapers.WinUI/appsettings.json`：
 
 ```json
 {
     "LocalSettingsOptions": {
-        "ApplicationDataFolder": "BingWallpaperGallery/ApplicationData",
+        "ApplicationDataFolder": "BinggoWallpapers/ApplicationData",
         "LocalSettingsFile": "LocalSettings.json"
     },
     "LoggingOptions": {
@@ -192,8 +192,8 @@ dotnet run --project src/BingWallpaperGallery.WinUI
 
 应用在启动时会自动检测并应用待处理的数据库迁移，无需手动干预。相关代码位于：
 
--   `BingWallpaperGallery.Core/DataAccess/ApplicationDbContext.cs`
--   `BingWallpaperGallery.Core/DataAccess/ApplicationDbContextInitializer.cs`
+-   `BinggoWallpapers.Core/DataAccess/ApplicationDbContext.cs`
+-   `BinggoWallpapers.Core/DataAccess/ApplicationDbContextInitializer.cs`
 
 ### 手动迁移（开发者）
 
@@ -205,8 +205,8 @@ dotnet run --project src/BingWallpaperGallery.WinUI
 
 ```bash
 dotnet ef migrations add MigrationName \
-    --project src/BingWallpaperGallery.Core \
-    --startup-project src/BingWallpaperGallery.WinUI \
+    --project src/BinggoWallpapers.Core \
+    --startup-project src/BinggoWallpapers.WinUI \
     --output-dir DataAccess/Migrations
 ```
 
@@ -214,8 +214,8 @@ dotnet ef migrations add MigrationName \
 
 ```bash
 dotnet ef database update \
-    --project src/BingWallpaperGallery.Core \
-    --startup-project src/BingWallpaperGallery.WinUI
+    --project src/BinggoWallpapers.Core \
+    --startup-project src/BinggoWallpapers.WinUI
 ```
 
 #### 回滚迁移
@@ -223,34 +223,34 @@ dotnet ef database update \
 ```bash
 # 回滚到指定迁移
 dotnet ef database update PreviousMigrationName \
-    --project src/BingWallpaperGallery.Core \
-    --startup-project src/BingWallpaperGallery.WinUI
+    --project src/BinggoWallpapers.Core \
+    --startup-project src/BinggoWallpapers.WinUI
 
 # 回滚所有迁移（回到初始状态）
 dotnet ef database update 0 \
-    --project src/BingWallpaperGallery.Core \
-    --startup-project src/BingWallpaperGallery.WinUI
+    --project src/BinggoWallpapers.Core \
+    --startup-project src/BinggoWallpapers.WinUI
 ```
 
 #### 删除最后一个迁移
 
 ```bash
 dotnet ef migrations remove \
-    --project src/BingWallpaperGallery.Core \
-    --startup-project src/BingWallpaperGallery.WinUI
+    --project src/BinggoWallpapers.Core \
+    --startup-project src/BinggoWallpapers.WinUI
 ```
 
 ### 数据库工具命令
 
 ```bash
 # 查看迁移列表
-dotnet ef migrations list --project src/BingWallpaperGallery.Core
+dotnet ef migrations list --project src/BinggoWallpapers.Core
 
 # 生成 SQL 脚本
-dotnet ef migrations script --project src/BingWallpaperGallery.Core
+dotnet ef migrations script --project src/BinggoWallpapers.Core
 
 # 查看数据库上下文信息
-dotnet ef dbcontext info --project src/BingWallpaperGallery.Core
+dotnet ef dbcontext info --project src/BinggoWallpapers.Core
 ```
 
 ---

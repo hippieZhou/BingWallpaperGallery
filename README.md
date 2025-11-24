@@ -1,18 +1,18 @@
 <div align="center">
 
-# Bing Wallpaper Gallery
+# BinggoWallpapers
 
-  <img src="design/app_icon.svg" alt="Bing Wallpaper Gallery" width="128" height="128">
+  <img src="design/app_icon.svg" alt="BinggoWallpapers" width="128" height="128">
 
 [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Download-blue?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/store/detail/bing-wallpaper-gallery/9NBLGGH5X8FV)
-[![GitHub Release](https://img.shields.io/badge/GitHub-Download-black?style=for-the-badge&logo=github)](https://github.com/hippiezhou/BingWallpaperGallery/releases)
+[![GitHub Release](https://img.shields.io/badge/GitHub-Download-black?style=for-the-badge&logo=github)](https://github.com/hippiezhou/BinggoWallpapers/releases)
 
 </div>
 
 > 一个基于 WinUI 3 的必应壁纸应用，让您轻松浏览、下载和设置来自世界各地的精美壁纸。
 
-[![Build and Test](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BingWallpaperGallery/actions/workflows/build-and-test.yml)
-[![codecov](https://codecov.io/gh/hippiezhou/BingWallpaperGallery/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BingWallpaperGallery)
+[![Build and Test](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hippiezhou/BinggoWallpapers/actions/workflows/build-and-test.yml)
+[![codecov](https://codecov.io/gh/hippiezhou/BinggoWallpapers/branch/main/graph/badge.svg?token=SX3PU5ZP2I)](https://codecov.io/gh/hippiezhou/BinggoWallpapers)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![WinUI 3](https://img.shields.io/badge/WinUI-3.0-blue)
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-blue)
@@ -63,7 +63,7 @@
 
 -   **构建状态**：点击顶部的 "Build and Test" 徽章查看最新构建状态
 -   **测试覆盖率**：点击 "codecov" 徽章查看详细的代码覆盖率报告
--   **工作流历史**：访问 [Actions](https://github.com/hippiezhou/BingWallpaperGallery/actions) 页面查看所有构建历史
+-   **工作流历史**：访问 [Actions](https://github.com/hippiezhou/BinggoWallpapers/actions) 页面查看所有构建历史
 
 ## 🤝 贡献指南
 
@@ -95,7 +95,7 @@
 -   ✅ **不上传**任何数据到服务器
 -   ✅ 所有数据**仅本地存储**
 
-查看完整的 [隐私策略](PRIVACY_POLICY.md) 或 [在线版本](https://hippiezhou.github.io/BingWallpaperGallery/docs/privacy-policy.html)。
+查看完整的 [隐私策略](PRIVACY_POLICY.md) 或 [在线版本](https://hippiezhou.github.io/BinggoWallpapers/docs/privacy-policy.html)。
 
 ## 📄 许可证
 
@@ -112,9 +112,9 @@
 
 ## 📞 联系我
 
--   **项目主页**：[GitHub Repository](https://github.com/hippiezhou/BingWallpaperGallery)
--   **问题反馈**：[Issues](https://github.com/hippiezhou/BingWallpaperGallery/issues)
--   **功能建议**：[Discussions](https://github.com/hippiezhou/BingWallpaperGallery/discussions)
+-   **项目主页**：[GitHub Repository](https://github.com/hippiezhou/BinggoWallpapers)
+-   **问题反馈**：[Issues](https://github.com/hippiezhou/BinggoWallpapers/issues)
+-   **功能建议**：[Discussions](https://github.com/hippiezhou/BinggoWallpapers/discussions)
 
 ---
 

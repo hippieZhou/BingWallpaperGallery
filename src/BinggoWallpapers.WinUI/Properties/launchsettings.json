@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BinggoWallpapers.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BinggoWallpapers.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

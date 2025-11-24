@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Page
+    x:Class="BinggoWallpapers.WinUI.Views.DownloadPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:behaviors="using:CommunityToolkit.WinUI.Behaviors"
+    xmlns:controls="using:CommunityToolkit.WinUI.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:helpers="using:BinggoWallpapers.WinUI.Helpers"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:local="using:BinggoWallpapers.WinUI.Views"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:model="using:BinggoWallpapers.WinUI.Models"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    mc:Ignorable="d">
+    <i:Interaction.Behaviors>
+        <i:EventTriggerBehavior EventName="Loaded">
+            <i:InvokeCommandAction Command="{x:Bind ViewModel.LoadedCommand}" />
+        </i:EventTriggerBehavior>
+    </i:Interaction.Behaviors>
+
+    <Grid Margin="24" RowSpacing="8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <TextBlock
+                x:Uid="DownloadPage_PageTitle"
+                d:Text="下载"
+                Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                Style="{StaticResource SubtitleTextBlockStyle}" />
+            <Button
+                x:Uid="DownloadPage_MoreOptions"
+                HorizontalAlignment="Right"
+                d:ToolTipService.ToolTip="更多选项"
+                AutomationProperties.Name="More options"
+                Content="{ui:FontIcon Glyph=&#xE712;,
+                                      FontSize=16}"
+                Style="{StaticResource SubtleButtonStyle}">
+                <Button.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem
+                            x:Uid="DownloadPage_CleanHistory"
+                            d:Text="清除下载记录"
+                            Command="{x:Bind ViewModel.ClearDownloadQueueCommand}" />
+                    </MenuFlyout>
+                </Button.Flyout>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <ItemsRepeater IsTabStop="False" ItemsSource="{x:Bind ViewModel.Downloads}">
+                <ItemsRepeater.Layout>
+                    <StackLayout Spacing="8" />
+                </ItemsRepeater.Layout>
+                <ItemsRepeater.ItemTemplate>
+                    <DataTemplate x:DataType="model:DownloadModel">
+                        <controls:SettingsCard
+                            MinHeight="48"
+                            Padding="12,8,12,8"
+                            CornerRadius="{StaticResource OverlayCornerRadius}"
+                            HeaderIcon="{ui:FontIcon Glyph=&#xE8B9;}">
+                            <controls:SettingsCard.Resources>
+                                <Thickness x:Key="SettingsCardHeaderIconMargin">2,0,12,0</Thickness>
+                                <x:Double x:Key="SettingsCardWrapThreshold">286</x:Double>
+                                <x:Double x:Key="SettingsCardContentMinWidth">0</x:Double>
+                            </controls:SettingsCard.Resources>
+                            <controls:SettingsCard.Header>
+                                <Grid ColumnSpacing="4">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock
+                                        Grid.Column="0"
+                                        MaxWidth="286"
+                                        VerticalAlignment="Center"
+                                        Text="{x:Bind Details.Fullstartdate, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:yyyy-MM-dd}}"
+                                        TextTrimming="CharacterEllipsis"
+                                        TextWrapping="Wrap" />
+                                    <Grid
+                                        Grid.Column="1"
+                                        Padding="4,0"
+                                        VerticalAlignment="Center"
+                                        BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                                        BorderThickness="1"
+                                        CornerRadius="{StaticResource ControlCornerRadius}">
+                                        <TextBlock
+                                            VerticalAlignment="Center"
+                                            FontSize="8"
+                                            Foreground="{ThemeResource AccentTextFillColorPrimaryBrush}"
+                                            Text="{x:Bind Resolution.Name}" />
+                                    </Grid>
+                                </Grid>
+                            </controls:SettingsCard.Header>
+                            <controls:SettingsCard.Description>
+                                <Grid ColumnSpacing="8">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <ProgressBar
+                                        Height="4"
+                                        Margin="0,2,0,2"
+                                        IsIndeterminate="False"
+                                        Value="{x:Bind Progress, Mode=OneWay}" />
+                                    <TextBlock
+                                        Grid.Column="1"
+                                        MinWidth="36"
+                                        HorizontalAlignment="Right"
+                                        VerticalAlignment="Center"
+                                        Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                                        Text="{x:Bind Progress, Mode=OneWay, Converter={StaticResource FormattedDownloadProgressConverter}}" />
+                                    <StackPanel
+                                        Grid.Row="1"
+                                        Grid.ColumnSpan="2"
+                                        Orientation="Horizontal"
+                                        Spacing="6">
+                                        <TextBlock FontSize="10" Text="{x:Bind TotalBytes, Mode=OneWay, Converter={StaticResource FormattedFileSizeConverter}}" />
+                                        <TextBlock FontSize="10" Text="{x:Bind DownloadSpeed, Mode=OneWay, Converter={StaticResource FormattedDownloadSpeedConverter}}" />
+                                        <TextBlock
+                                            FontSize="10"
+                                            Text="{x:Bind EstimatedTimeRemaining, Mode=OneWay, Converter={StaticResource FormattedEstimatedTimeConverter}}"
+                                            Visibility="{x:Bind EstimatedTimeRemaining, Mode=OneWay, Converter={StaticResource EstimatedTimeRemainingVisibilityConverter}}" />
+                                        <TextBlock
+                                            FontSize="10"
+                                            Text="{x:Bind FileName, Mode=OneWay}"
+                                            Visibility="{x:Bind FileName, Mode=OneWay, Converter={StaticResource EmptyObjectToVisibilityConverter}}" />
+                                    </StackPanel>
+                                </Grid>
+                            </controls:SettingsCard.Description>
+                            <Grid>
+                                <Button
+                                    Width="32"
+                                    Height="32"
+                                    Padding="0"
+                                    VerticalAlignment="Center"
+                                    AutomationProperties.Name="Actions"
+                                    Content="{ui:FontIcon Glyph=&#xE712;}"
+                                    Style="{StaticResource SubtleButtonStyle}">
+                                    <Button.Flyout>
+                                        <MenuFlyout>
+                                            <MenuFlyoutItem
+                                                x:Uid="DownloadPage_DeleteAction"
+                                                d:Text="删除"
+                                                Click="OnDeleteDownloadCommand"
+                                                CommandParameter="{x:Bind DownloadId}"
+                                                Icon="{ui:FontIcon Glyph=&#xE74D;}"
+                                                IsEnabled="{x:Bind CanDelete, Mode=OneWay}" />
+                                            <MenuFlyoutItem
+                                                x:Uid="DownloadPage_CancelAction"
+                                                d:Text="取消"
+                                                Click="OnCancelDownloadCommand"
+                                                CommandParameter="{x:Bind DownloadId}"
+                                                Icon="{ui:FontIcon Glyph=&#xE711;}"
+                                                IsEnabled="{x:Bind CanCancel, Mode=OneWay}" />
+                                            <MenuFlyoutItem
+                                                x:Uid="DownloadPage_RetryAction"
+                                                d:Text="重试"
+                                                Click="OnRetryDownloadCommand"
+                                                CommandParameter="{x:Bind DownloadId}"
+                                                Icon="{ui:FontIcon Glyph=&#xE777;}"
+                                                IsEnabled="{x:Bind CanRetry, Mode=OneWay}" />
+                                            <MenuFlyoutSeparator />
+                                            <MenuFlyoutItem
+                                                x:Uid="DownloadPage_ViewAction"
+                                                d:Text="查看"
+                                                Click="OnViewOriginalImageCommand"
+                                                CommandParameter="{x:Bind DownloadId}"
+                                                Icon="{ui:FontIcon Glyph=&#xE7C5;}" />
+                                        </MenuFlyout>
+                                    </Button.Flyout>
+                                </Button>
+                            </Grid>
+                        </controls:SettingsCard>
+                    </DataTemplate>
+                </ItemsRepeater.ItemTemplate>
+            </ItemsRepeater>
+
+            <StackPanel
+                x:Name="EmptyPanel"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Spacing="24">
+                <i:Interaction.Behaviors>
+                    <i:DataTriggerBehavior
+                        Binding="{x:Bind ViewModel.Downloads.Count, Mode=OneWay}"
+                        ComparisonCondition="LessThanOrEqual"
+                        Value="0">
+                        <i:ChangePropertyAction PropertyName="Visibility" Value="Visible" />
+                    </i:DataTriggerBehavior>
+                    <i:DataTriggerBehavior
+                        Binding="{x:Bind ViewModel.Downloads.Count, Mode=OneWay}"
+                        ComparisonCondition="GreaterThan"
+                        Value="0">
+                        <i:ChangePropertyAction PropertyName="Visibility" Value="Collapsed" />
+                    </i:DataTriggerBehavior>
+                </i:Interaction.Behaviors>
+                <FontIcon
+                    FontSize="64"
+                    Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"
+                    Glyph="&#xEBD3;" />
+                <StackPanel HorizontalAlignment="Center" Spacing="12">
+                    <TextBlock
+                        x:Uid="DownloadPage_Empty"
+                        HorizontalAlignment="Center"
+                        d:Text="暂无下载记录"
+                        Style="{ThemeResource SubtitleTextBlockStyle}" />
+                    <TextBlock
+                        x:Uid="DownloadPage_Navigation"
+                        HorizontalAlignment="Center"
+                        d:Text="请前往壁纸详情页进行下载"
+                        Opacity="0.7"
+                        Style="{ThemeResource BodyTextBlockStyle}" />
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

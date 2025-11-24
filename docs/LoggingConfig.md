@@ -2,7 +2,7 @@
 
 ## 📋 概述
 
-BingWallpaperGallery 使用 Serilog 作为日志框架，集成了 Microsoft.Extensions.Logging，支持灵活的配置和多种输出格式。
+BinggoWallpapers 使用 Serilog 作为日志框架，集成了 Microsoft.Extensions.Logging，支持灵活的配置和多种输出格式。
 
 ## 🏗️ 架构说明
 
@@ -184,10 +184,10 @@ Logs/
 **示例：**
 
 ```
-2025-10-05 10:30:45.123 [INF] [BingWallpaperGallery.App] The app has been launched successfully.
-2025-10-05 10:30:46.456 [DBG] [BingWallpaperGallery.ViewModels.GalleryViewModel] 开始加载壁纸列表
-2025-10-05 10:30:47.789 [WRN] [BingWallpaperGallery.Services.Impl.MessageService] 发送警告消息: 网络连接不稳定
-2025-10-05 10:30:48.012 [ERR] [BingWallpaperGallery.Services.Impl.ImageExportService] Export failed: Access denied
+2025-10-05 10:30:45.123 [INF] [BinggoWallpapers.App] The app has been launched successfully.
+2025-10-05 10:30:46.456 [DBG] [BinggoWallpapers.ViewModels.HomeViewModel] 开始加载壁纸列表
+2025-10-05 10:30:47.789 [WRN] [BinggoWallpapers.Services.Impl.MessageService] 发送警告消息: 网络连接不稳定
+2025-10-05 10:30:48.012 [ERR] [BinggoWallpapers.Services.Impl.ImageExportService] Export failed: Access denied
 System.UnauthorizedAccessException: Access to the path is denied.
    at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
 ```
@@ -207,9 +207,9 @@ System.UnauthorizedAccessException: Access to the path is denied.
 **示例：**
 
 ```
-2025-10-05 10:35:12.789 [ERR] [BingWallpaperGallery.Services.Impl.ImageExportService] Export failed: Access denied
+2025-10-05 10:35:12.789 [ERR] [BinggoWallpapers.Services.Impl.ImageExportService] Export failed: Access denied
 System.UnauthorizedAccessException: Access to the path is denied.
-2025-10-05 10:36:15.456 [FTL] [BingWallpaperGallery.App] Application crashed
+2025-10-05 10:36:15.456 [FTL] [BinggoWallpapers.App] Application crashed
 System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
 ```
 
@@ -228,9 +228,9 @@ System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was
 **示例：**
 
 ```json
-{"@t":"2025-10-05T02:30:45.123Z","@mt":"The app has been launched successfully.","@l":"Information","Application":"BingWallpaperGallery","SourceContext":"BingWallpaperGallery.App"}
-{"@t":"2025-10-05T02:30:46.456Z","@mt":"开始加载壁纸列表","@l":"Debug","Application":"BingWallpaperGallery","SourceContext":"BingWallpaperGallery.ViewModels.GalleryViewModel"}
-{"@t":"2025-10-05T02:30:48.012Z","@mt":"Export failed: {ErrorMessage}","@l":"Error","ErrorMessage":"Access denied","Application":"BingWallpaperGallery","SourceContext":"BingWallpaperGallery.Services.Impl.ImageExportService","@x":"System.UnauthorizedAccessException: Access to the path is denied."}
+{"@t":"2025-10-05T02:30:45.123Z","@mt":"The app has been launched successfully.","@l":"Information","Application":"BinggoWallpapers","SourceContext":"BinggoWallpapers.App"}
+{"@t":"2025-10-05T02:30:46.456Z","@mt":"开始加载壁纸列表","@l":"Debug","Application":"BinggoWallpapers","SourceContext":"BinggoWallpapers.ViewModels.HomeViewModel"}
+{"@t":"2025-10-05T02:30:48.012Z","@mt":"Export failed: {ErrorMessage}","@l":"Error","ErrorMessage":"Access denied","Application":"BinggoWallpapers","SourceContext":"BinggoWallpapers.Services.Impl.ImageExportService","@x":"System.UnauthorizedAccessException: Access to the path is denied."}
 ```
 
 **适用场景：**

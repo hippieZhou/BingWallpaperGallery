@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<UserControl
+    x:Class="BinggoWallpapers.WinUI.UserControls.CustomFooter"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:animations="using:CommunityToolkit.WinUI.Animations"
+    xmlns:controls="using:CommunityToolkit.WinUI.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:helpers="using:BinggoWallpapers.WinUI.Helpers"
+    xmlns:local="using:BinggoWallpapers.UserControls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ui="using:CommunityToolkit.WinUI"
+    mc:Ignorable="d">
+
+    <controls:SwitchPresenter
+        HorizontalAlignment="Center"
+        TargetType="x:Boolean"
+        Value="{x:Bind IsEmpty, Mode=OneWay}">
+        <controls:Case Value="True">
+            <StackPanel
+                x:Name="EmptyPanel"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
+                animations:Implicit.ShowAnimations="{StaticResource ShowTransitions}"
+                Spacing="24">
+                <FontIcon
+                    FontSize="64"
+                    Foreground="{ThemeResource SystemControlForegroundBaseMediumBrush}"
+                    Glyph="&#xE74E;" />
+                <StackPanel HorizontalAlignment="Center" Spacing="12">
+                    <TextBlock
+                        x:Uid="CustomFooter_Message"
+                        HorizontalAlignment="Center"
+                        d:Text="暂无壁纸"
+                        Style="{ThemeResource SubtitleTextBlockStyle}" />
+                    <TextBlock
+                        x:Uid="CustomFooter_Action"
+                        HorizontalAlignment="Center"
+                        d:Text="点击刷新按钮获取最新壁纸"
+                        Opacity="0.7"
+                        Style="{ThemeResource BodyTextBlockStyle}" />
+                </StackPanel>
+            </StackPanel>
+        </controls:Case>
+        <controls:Case Value="False">
+            <StackPanel
+                x:Name="LoadingPanel"
+                HorizontalAlignment="Center"
+                animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
+                animations:Implicit.ShowAnimations="{StaticResource ShowTransitions}"
+                Orientation="Vertical"
+                Spacing="8"
+                Visibility="{x:Bind IsLoading, Mode=OneWay, Converter={StaticResource BoolToVisibilityConverter}}">
+                <ProgressRing IsActive="{x:Bind IsLoading, Mode=OneWay}" />
+                <TextBlock
+                    x:Uid="CustomFooter_Loading"
+                    HorizontalAlignment="Center"
+                    d:Text="数据加载中.."
+                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                    Style="{StaticResource CaptionTextBlockStyle}" />
+            </StackPanel>
+        </controls:Case>
+    </controls:SwitchPresenter>
+</UserControl>

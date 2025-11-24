@@ -1,6 +1,6 @@
 # 应用图标设计文档
 
-本文档描述了 Bing Wallpaper Gallery 应用图标的生成过程和管理方法。
+本文档描述了 BinggoWallpapers.WinUI 应用图标的生成过程和管理方法。
 
 ## 📁 文件结构
 
@@ -116,7 +116,7 @@ sharp -i app_icon.png -o app_icon_rounded.png -- composite rounded_mask.png
 ### 1. 复制文件到 Assets 文件夹
 ```bash
 # 复制到应用资源文件夹
-cp design/app_icon*.png BingWallpaperGallery/Assets/
+cp design/app_icon*.png BinggoWallpapers/Assets/
 ```
 
 ### 2. 更新 Package.appxmanifest
@@ -193,4 +193,4 @@ cp design/app_icon*.png BingWallpaperGallery/Assets/
 
 ---
 
-**注意**：本图标设计遵循 Fluent Design 2 规范，专为 Bing Wallpaper Gallery 应用定制。如需用于其他项目，请确保符合相应的设计规范。
+**注意**：本图标设计遵循 Fluent Design 2 规范，专为 BinggoWallpapers 应用定制。如需用于其他项目，请确保符合相应的设计规范。
