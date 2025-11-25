@@ -1,0 +1,43 @@
+{
+  "date": "25. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Fest der Düfte",
+  "bsTitle": "Ein Fest der Düfte",
+  "caption": "Erfurter Weihnachtsmarkt, Thüringen",
+  "copyright": "Weihnachtsmarkt Erfurt, Thüringen (© Jareck/Getty Images)",
+  "copyrightOnly": "© Jareck/Getty Images",
+  "copyrightLink": "/search?q=Erfurter+Weihnachtsmarkt&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+  "description": "In der Adventszeit verwandeln sich Städte und Gemeinden in Deutschland in festlich beleuchtete Orte voller Düfte, Klänge und Begegnungen. Für viele Menschen gehört der Besuch eines Weihnachtsmarktes fest zur Vorweihnachtszeit. Diese Tradition reicht weit zurück: Der älteste dokumentierte Markt fand bereits 1434 in Dresden statt. Heute gibt es im ganzen Land mehrere tausend Märkte – von großen Städten bis hin zu kleinen Dörfern. Zu den ältesten und stimmungsvollsten zählt der Erfurter Weihnachtsmarkt, der auf unserem heutigen Bild zu sehen ist. Heute öffnet er wieder seine Tore und verwandelt den Domplatz in eine festliche Kulisse.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_ErfurtChristmas%22&FORM=HPQUIZ",
+  "hash": "8301758a2ddb9e254bfc8de12f05d22e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251124",
+    "fullStartDateTime": "202511242300",
+    "endDate": "20251125"
+  },
+  "createdAt": "202511250229",
+  "originalUrlBase": "/th?id=OHR.ErfurtChristmas_DE-DE4066993799"
+}

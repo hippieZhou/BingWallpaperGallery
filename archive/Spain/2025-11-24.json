@@ -1,0 +1,43 @@
+{
+  "date": "25 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Salud, monedas sueltas y amor",
+  "bsTitle": "Salud, monedas sueltas y amor",
+  "caption": "Fontana de Trevi, Roma, Italia",
+  "copyright": "Fontana di Trevi en Roma, Italia (© Nico De Pasquale Photography/Getty Images)",
+  "copyrightOnly": "© Nico De Pasquale Photography/Getty Images",
+  "copyrightLink": "/search?q=Roma&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+  "description": "¿Alguna vez has oído el tintineo de las monedas más fuerte que los aplausos? Esa es la Fontana de Trevi en Roma, Italia, un lugar donde se mezclan historia, sueños y selfies. Terminada en 1762, marca el final del acueducto Aqua Virgo, uno de los primeros de la antigua Roma, que todavía suministra agua hoy. Su nombre, “Trevi”, proviene de Tre Vie (“tres caminos”), el cruce donde se encuentra. Diseñada por el arquitecto Nicola Salvi y concluida por Giuseppe Pannini, esta fuente barroca de 26 metros es la más grande de la ciudad y una de las más famosas del mundo. Sus esculturas muestran a Océano (o Neptuno), dios del mar, sobre un carro de concha tirado por caballos marinos y tritones, que simbolizan la calma y la tempestad del agua.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+  "hash": "506cfa7f381eb5a1dc64bd76495add31",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ES-ES1601085402_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251124",
+    "fullStartDateTime": "202511242300",
+    "endDate": "20251125"
+  },
+  "createdAt": "202511250229",
+  "originalUrlBase": "/th?id=OHR.TreviFountain_ES-ES1601085402"
+}

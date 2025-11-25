@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Gwalior+Fort+Madhya+Pradesh+India&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_GwailorFort%22&FORM=HPQUIZ",
+  "hash": "b4357275835ae112efd148d472c9d7e2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ROW9210547208_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ROW9210547208_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ROW9210547208_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_ROW9210547208_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251124",
+    "fullStartDateTime": "202511240800",
+    "endDate": "20251125"
+  },
+  "createdAt": "202511250229",
+  "originalUrlBase": "/th?id=OHR.GwailorFort_ROW9210547208"
+}

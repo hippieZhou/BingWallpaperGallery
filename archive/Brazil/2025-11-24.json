@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Segredos gravados na pedra",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Forte de Gwalior, Madhya Pradesh, Índia (© ImagesofIndia/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Forte+de+Gwalior+na+%c3%8dndia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_GwailorFort%22&FORM=HPQUIZ",
+  "hash": "6020812e420ae397039e1cca7380f3c9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GwailorFort_PT-BR2755555056_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251124",
+    "fullStartDateTime": "202511240300",
+    "endDate": "20251125"
+  },
+  "createdAt": "202511250229",
+  "originalUrlBase": "/th?id=OHR.GwailorFort_PT-BR2755555056"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "25 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Rome-antisme éternel",
+  "bsTitle": "Rome-antisme éternel",
+  "caption": "Fontaine de Trevi, Rome, Italie",
+  "copyright": "La fontaine de Trevi, Rome, Italie (© Nico De Pasquale Photography/Getty Images)",
+  "copyrightOnly": "© Nico De Pasquale Photography/Getty Images",
+  "copyrightLink": "/search?q=Fontaine+de+Trevi&form=hpcapt&filters=HpDate%3a%2220251124_2300%22",
+  "description": "Au cœur de Rome, en Italie, là où trois ruelles convergent, appelées les Tre Vie, jaillit la fontaine la plus célèbre : la fontaine de Trevi. Achevée en 1762, elle marque la fin de l’antique aqueduc de l'Aqua Virgo qui alimente encore aujourd'hui ses eaux cristallines. Sous la lumière dorée, le dieu Océan surgit du marbre, entouré de tritons et de chevaux marins, dans un ballet figé d'écume et de pierre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251124_TreviFountain%22&FORM=HPQUIZ",
+  "hash": "6c6953dcc15c1400ac98ab77fcfae212",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_FR-FR3611871379_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_FR-FR3611871379_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_FR-FR3611871379_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_FR-FR3611871379_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251124",
+    "fullStartDateTime": "202511242300",
+    "endDate": "20251125"
+  },
+  "createdAt": "202511250229",
+  "originalUrlBase": "/th?id=OHR.TreviFountain_FR-FR3611871379"
+}
