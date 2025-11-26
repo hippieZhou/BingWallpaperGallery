@@ -1,0 +1,43 @@
+{
+  "date": "26 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La saison la plus attendue de l’année est lancée !",
+  "bsTitle": "La saison la plus attendue de l’année est lancée !",
+  "caption": "Inauguration du marché de Strasbourg 2025",
+  "copyright": "Décorations artisanales d’un marché de Noël (© 31etc/Adobe Stock)",
+  "copyrightOnly": "© 31etc/Adobe Stock",
+  "copyrightLink": "/search?q=march%c3%a9+de+no%c3%abl&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+  "description": "La saison des pulls moches, du vin chaud et des téléfilms sucrés est lancée ! Plus près de nous, le marché de Noël de Strasbourg s'ouvre entre chalets parfumés à la cannelle et guirlandes scintillantes. Les décorations artisanales racontent la patience des gestes ancestraux : bois sculpté, feutrine cousue, pigments naturels. Chaque figurine semble être sortie d'un conte, comme ce bonhomme de neige au chapeau noir, gardien des souvenirs d'hiver.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_HandmadeMarket%22&FORM=HPQUIZ",
+  "hash": "fb982d79e26f94b89bab1adcf4e45244",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251125",
+    "fullStartDateTime": "202511252300",
+    "endDate": "20251126"
+  },
+  "createdAt": "202511260241",
+  "originalUrlBase": "/th?id=OHR.HandmadeMarket_FR-FR3762412272"
+}

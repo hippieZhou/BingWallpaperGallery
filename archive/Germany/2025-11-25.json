@@ -1,0 +1,43 @@
+{
+  "date": "26. Nov.. 2025",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wurzeln der Vergangenheit",
+  "bsTitle": "Wurzeln der Vergangenheit",
+  "caption": "Welttag des Olivenbaums",
+  "copyright": "Olivenhain in der Serra de Tramuntana, Mallorca, Balearische Inseln, Spanien (© cinoby/Getty Images)",
+  "copyrightOnly": "© cinoby/Getty Images",
+  "copyrightLink": "/search?q=Welttag+des+Olivenbaums&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+  "description": "Olivenbäume sind echte Überlebenskünstler: uralt, knorrig und doch voller Leben. Selbst nach Feuer oder Trockenheit treiben sie neue Blätter. Die UNESCO hat ihnen mit dem Welttag des Olivenbaums am 26. November einen eigenen Tag gewidmet. Seit über 8.000 Jahren begleiten Oliven die Menschheit als Nahrung, Heilmittel und Friedenssymbol. Ihre Zweige krönten Sieger, ihr Öl nährte Generationen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+  "hash": "94257c56d27c7199d3ba25b177b1f749",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_DE-DE7106057287_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_DE-DE7106057287_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_DE-DE7106057287_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_DE-DE7106057287_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251125",
+    "fullStartDateTime": "202511252300",
+    "endDate": "20251126"
+  },
+  "createdAt": "202511260241",
+  "originalUrlBase": "/th?id=OHR.OliveGrove_DE-DE7106057287"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "让树叶诉说历史",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%a9%84%e6%a6%84%e6%a0%91&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+  "hash": "ca119390eef0a52ed300069f311f5292",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251125",
+    "fullStartDateTime": "202511251600",
+    "endDate": "20251126"
+  },
+  "createdAt": "202511260241",
+  "originalUrlBase": "/th?id=OHR.OliveGrove_ZH-CN7054006944"
+}

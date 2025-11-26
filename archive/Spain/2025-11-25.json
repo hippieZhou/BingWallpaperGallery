@@ -1,0 +1,43 @@
+{
+  "date": "26 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La cuna del oro líquido",
+  "bsTitle": "La cuna del oro líquido",
+  "caption": "Día Mundial del Olivo",
+  "copyright": "Olivos en la Sierra de Tramontana, Mallorca, Islas Baleares, España (© cinoby/Getty Images)",
+  "copyrightOnly": "© cinoby/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+mundial+del+Olivo&form=hpcapt&filters=HpDate%3a%2220251125_2300%22",
+  "description": "Los olivos pueden vivir más de mil años. Incluso cuando sus troncos están cicatrizados o ahuecados, siguen produciendo hojas cada temporada, un verdadero testigo de supervivencia frente a la sequía, el viento y el fuego. En 2019, la UNESCO declaró el 26 de noviembre como Día Mundial del Olivo, reconociendo árboles cultivados por humanos desde aproximadamente el año 6.000 a. C. Sus frutos y su aceite han sido muy valiosos: se usaban para ungir, para medicina y para la cocina; las hojas coronaban a los vencedores olímpicos; y sus ramas simbolizan la paz.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_OliveGrove%22&FORM=HPQUIZ",
+  "hash": "e1ac83ca5bf62b70905a8e3e3f54607f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ES-ES8682630168_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ES-ES8682630168_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ES-ES8682630168_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ES-ES8682630168_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251125",
+    "fullStartDateTime": "202511252300",
+    "endDate": "20251126"
+  },
+  "createdAt": "202511260241",
+  "originalUrlBase": "/th?id=OHR.OliveGrove_ES-ES8682630168"
+}

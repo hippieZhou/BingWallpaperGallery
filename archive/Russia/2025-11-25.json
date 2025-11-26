@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Trevi+Fountain&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251125_TreviFountain%22&FORM=HPQUIZ",
+  "hash": "6a703efd3ad1603fa6e4cf003a5e144d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ROW2561775014_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ROW2561775014_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ROW2561775014_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TreviFountain_ROW2561775014_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251125",
+    "fullStartDateTime": "202511250800",
+    "endDate": "20251126"
+  },
+  "createdAt": "202511260241",
+  "originalUrlBase": "/th?id=OHR.TreviFountain_ROW2561775014"
+}
