@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Olive+Tree&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_OliveGrove%22&FORM=HPQUIZ",
+  "hash": "56cfee3af1ce852c50f3fc916b39f101",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ROW9424610098_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ROW9424610098_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ROW9424610098_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.OliveGrove_ROW9424610098_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251126",
+    "fullStartDateTime": "202511260800",
+    "endDate": "20251127"
+  },
+  "createdAt": "202511270227",
+  "originalUrlBase": "/th?id=OHR.OliveGrove_ROW9424610098"
+}

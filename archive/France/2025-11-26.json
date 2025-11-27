@@ -1,0 +1,43 @@
+{
+  "date": "27 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une jetée très british",
+  "bsTitle": "Une jetée très british",
+  "caption": "Jetée d’Eastbourne, East Sussex, Angleterre",
+  "copyright": "Jetée d’Eastbourne, East Sussex, Angleterre (© Tolga_TEZCAN/Getty Images)",
+  "copyrightOnly": "© Tolga_TEZCAN/Getty Images",
+  "copyrightLink": "/search?q=Jet%c3%a9e+d%e2%80%99Eastbourne+Angleterre&form=hpcapt&filters=HpDate%3a%2220251126_2300%22",
+  "description": "Dans le East Sussex, sur la côte sud de l’Angleterre, la jetée d’Eastbourne s’avance dans la mer comme un rêve suspendu. Sous le ciel du soir, ses dômes dorés reflètent les dernières lueurs du jour, tandis que la Manche, calme et bleutée, caresse les piliers de fer forgé. Inaugurée en 1870 comme point d’amarrage pour les bateaux à vapeur, elle devint vite le symbole de l’élégance victorienne. Malgré les tempêtes, les incendies et même la guerre, elle a su renaître, conservant son charme et son allure.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_PierOfEastbourne2025%22&FORM=HPQUIZ",
+  "hash": "9446e92563cd63a0dcc49d3a9d4c170a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251126",
+    "fullStartDateTime": "202511262300",
+    "endDate": "20251127"
+  },
+  "createdAt": "202511270227",
+  "originalUrlBase": "/th?id=OHR.PierOfEastbourne2025_FR-FR3918245967"
+}

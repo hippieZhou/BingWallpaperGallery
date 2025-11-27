@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Sapore di Sale...",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Molo di Eastbourne, East Sussex, Inghilterra (© Tolga_TEZCAN/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Eastbourne+citt%c3%a0+inglese&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_PierOfEastbourne2025%22&FORM=HPQUIZ",
+  "hash": "c7a6dd43ff74f20e1696cace94b5f5e1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251126",
+    "fullStartDateTime": "202511262300",
+    "endDate": "20251127"
+  },
+  "createdAt": "202511270227",
+  "originalUrlBase": "/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179"
+}

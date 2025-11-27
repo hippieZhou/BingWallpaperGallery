@@ -1,0 +1,43 @@
+{
+  "date": "27 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Cielo, mar y aire",
+  "bsTitle": "Cielo, mar y aire",
+  "caption": "Muelle de Eastbourne, Sussex Oriental, Inglaterra",
+  "copyright": "Muelle de Eastbourne, Sussex Oriental, Inglaterra (© Tolga_TEZCAN/Getty Images)",
+  "copyrightOnly": "© Tolga_TEZCAN/Getty Images",
+  "copyrightLink": "/search?q=Sussex+Oriental&form=hpcapt&filters=HpDate%3a%2220251126_2300%22",
+  "description": "Cuando se habla de iconos costeros, el muelle de Eastbourne, Sussex Oriental, en la costa sur de Inglaterra, no solo hace olas, sino que lleva más de 150 años surcándolas. Inaugurado en 1870, esta joya victoriana ha sobrevivido a tempestades, incendios e incluso guerras. Originalmente, sirvió como punto de atraque para barcos de vapor, pero con el tiempo se convirtió en un lugar de paseo, ocio y cultura.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251126_PierOfEastbourne2025%22&FORM=HPQUIZ",
+  "hash": "af5e98e77a75576a77699dcf429b5e99",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ES-ES1099940063_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ES-ES1099940063_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ES-ES1099940063_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ES-ES1099940063_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251126",
+    "fullStartDateTime": "202511262300",
+    "endDate": "20251127"
+  },
+  "createdAt": "202511270227",
+  "originalUrlBase": "/th?id=OHR.PierOfEastbourne2025_ES-ES1099940063"
+}
