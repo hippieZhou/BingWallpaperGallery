@@ -39,8 +39,7 @@ internal class Bootstrapper
             .ConfigureServices((context, services) =>
              {
                  // 初始化 Serilog
-                 var logBaseDir = AppSettings.Current.DefaulttLocalLogFolder;
-                 var logger = context.Configuration.ConfigureLogger(logBaseDir);
+                 var logger = context.Configuration.ConfigureLogger(AppSettings.AppLogsPath);
 
                  services.AddLogging(x =>
                  {
@@ -99,7 +98,7 @@ internal class Bootstrapper
                  .ValidateDataAnnotations();
 
                  // Core Services
-                 services.AddCorelayer(AppSettings.Current.LocalFolder);
+                 services.AddCorelayer(AppSettings.AppDataPath);
              })
 #if DEBUG
             .UseEnvironment(Environments.Development)

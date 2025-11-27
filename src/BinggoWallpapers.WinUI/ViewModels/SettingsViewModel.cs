@@ -103,7 +103,7 @@ public partial class SettingsViewModel : ObservableRecipient
     [RelayCommand]
     private async Task OnResetDownloadFolder()
     {
-        await _downloadSelector.SetDownloadPathAsync(AppSettings.Current.DefaultPicturesPath);
+        await _downloadSelector.SetDownloadPathAsync(AppSettings.DefaultPicturesPath);
         PicturesPath = _downloadSelector.DownloadPath;
     }
 

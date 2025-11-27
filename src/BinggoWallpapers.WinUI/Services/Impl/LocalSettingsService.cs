@@ -6,6 +6,7 @@ using BinggoWallpapers.WinUI.Helpers;
 using BinggoWallpapers.WinUI.Options;
 using BinggoWallpapers.WinUI.Models;
 using Microsoft.Extensions.Options;
+using BinggoWallpapers.WinUI.Extensions;
 
 namespace BinggoWallpapers.WinUI.Services.Impl;
 
@@ -50,10 +51,7 @@ public class LocalSettingsService : ILocalSettingsService
     {
         if (RuntimeHelper.IsMSIX)
         {
-            if (AppSettings.Current.LocalSettings.Values.TryGetValue(key, out var obj))
-            {
-                return await Json.ToObjectAsync<T>((string)obj);
-            }
+            return await AppSettings.LocalSettings.ReadAsync<T>(key);
         }
         else
         {
@@ -72,7 +70,7 @@ public class LocalSettingsService : ILocalSettingsService
     {
         if (RuntimeHelper.IsMSIX)
         {
-            AppSettings.Current.LocalSettings.Values[key] = await Json.StringifyAsync(value);
+            await AppSettings.LocalSettings.SaveAsync(key, value);
         }
         else
         {

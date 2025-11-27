@@ -159,7 +159,7 @@
                                 Width="120"
                                 d:Content="重置"
                                 Command="{x:Bind ViewModel.ResetDownloadFolderCommand}"
-                                CommandParameter="{x:Bind model:AppSettings.Current.DefaultPicturesPath, Mode=OneTime}" />
+                                CommandParameter="{x:Bind model:AppSettings.DefaultPicturesPath, Mode=OneTime}" />
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
@@ -178,8 +178,8 @@
                             <controls:SettingsCard.Header>
                                 <HyperlinkButton
                                     Command="{x:Bind ViewModel.OpenFolderCommand}"
-                                    CommandParameter="{x:Bind model:AppSettings.Current.DefaulttLocalLogFolder, Mode=OneTime}"
-                                    Content="{x:Bind model:AppSettings.Current.DefaulttLocalLogFolder, Mode=OneTime}" />
+                                    CommandParameter="{x:Bind model:AppSettings.AppLogsPath, Mode=OneTime}"
+                                    Content="{x:Bind model:AppSettings.AppLogsPath, Mode=OneTime}" />
                             </controls:SettingsCard.Header>
                             <TextBlock
                                 Foreground="{ThemeResource TextFillColorSecondaryBrush}"

@@ -1,12 +1,23 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
+using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
+using Windows.ApplicationModel;
+using Windows.Storage;
 
 namespace BinggoWallpapers.WinUI.Helpers;
 
 public static class RuntimeHelper
 {
+    private const string BinggoWallpapers = nameof(BinggoWallpapers);
+    private const string TempStateDir = "TempState";
+    private const string LocalStateDir = "LocalState";
+    private const string LocalCacheDir = "LocalCache";
+    private const string LogsDir = "Logs";
+
+    public const string SettingsFile = "settings.json";
+
     [DllImport("kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
     private static extern int GetCurrentPackageFullName(ref int packageFullNameLength, StringBuilder packageFullName);
 
@@ -44,5 +55,33 @@ public static class RuntimeHelper
 
         var desc = $"{osVersionInfo.dwMajorVersion}.{osVersionInfo.dwMinorVersion}.{osVersionInfo.dwBuildNumber}";
         return (osVersionInfo.dwMajorVersion, osVersionInfo.dwMinorVersion, osVersionInfo.dwBuildNumber, desc);
+    }
+
+    public static Version GetAppVersion()
+    {
+        if (IsMSIX)
+        {
+            var packageVersion = Package.Current.Id.Version;
+            return new(packageVersion.Major, packageVersion.Minor, packageVersion.Build, packageVersion.Revision);
+        }
+
+        return Assembly.GetExecutingAssembly().GetName().Version!;
+    }
+
+    public static string GetAppStatePath() => GetLocalStatePath();
+
+    public static string GetAppLogsPath() => Path.Combine(GetTempStatePath(), LogsDir);
+
+    public static string GetAppCachePath() => GetLocalCachePath();
+
+    private static string GetTempStatePath() => IsMSIX ? ApplicationData.Current.TemporaryFolder.Path : GetUnpackagedPath(TempStateDir);
+
+    private static string GetLocalStatePath() => IsMSIX ? ApplicationData.Current.LocalFolder.Path : GetUnpackagedPath(LocalStateDir);
+
+    private static string GetLocalCachePath() => IsMSIX ? ApplicationData.Current.LocalCacheFolder.Path : GetUnpackagedPath(LocalCacheDir);
+
+    private static string GetUnpackagedPath(params string[] paths)
+    {
+        return Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), BinggoWallpapers, Path.Combine(paths));
     }
 }
