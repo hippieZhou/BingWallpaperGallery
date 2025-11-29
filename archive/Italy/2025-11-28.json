@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Geometrie del selvatico",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cervo rosso, Parco Nazionale De Hoge Veluwe, Paesi Bassi (© CreativeNature_nl/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+nazionale+De+Hoge+Veluwe&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+  "hash": "c980b5d1ca6d22eed5aa0a4d657c19fc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251128",
+    "fullStartDateTime": "202511282300",
+    "endDate": "20251129"
+  },
+  "createdAt": "202511290226",
+  "originalUrlBase": "/th?id=OHR.DeerVeluwe_IT-IT1796855659"
+}

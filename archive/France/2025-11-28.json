@@ -1,0 +1,43 @@
+{
+  "date": "29 nov. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Brame-moi une histoire",
+  "bsTitle": "Brame-moi une histoire",
+  "caption": "Cerf élaphe dans le parc national De Hoge Veluwe, Pays-Bas",
+  "copyright": "Cerf élaphe dans le parc national De Hoge Veluwe, Pays-Bas (© CreativeNature_nl/Getty Images)",
+  "copyrightOnly": "© CreativeNature_nl/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+De+Hoge+Veluwe+&form=hpcapt&filters=HpDate%3a%2220251128_2300%22",
+  "description": "Dans la province de Gueldre, aux Pays-Bas, le parc national De Hoge Veluwe déploie ses forêts, ses dunes blondes et ses landes ouvertes sur plus de 50 km2. À l’aube, dans la brume dorée, un cerf élaphe s’avance entre les herbes hautes. Sa ramure s’élève comme un chandelier vivant, symbole de puissance et de noblesse.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+  "hash": "a2de5dc85beb0d6d1fc9dad72fc51cf9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251128",
+    "fullStartDateTime": "202511282300",
+    "endDate": "20251129"
+  },
+  "createdAt": "202511290226",
+  "originalUrlBase": "/th?id=OHR.DeerVeluwe_FR-FR6754870424"
+}

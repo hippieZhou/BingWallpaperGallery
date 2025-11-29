@@ -1,0 +1,43 @@
+{
+  "date": "29 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Oh ciervo, hace frío!",
+  "bsTitle": "¡Oh ciervo, hace frío!",
+  "caption": "Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos",
+  "copyright": "Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos (© CreativeNature_nl/Getty Images)",
+  "copyrightOnly": "© CreativeNature_nl/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+De+Hoge+Veluwe&form=hpcapt&filters=HpDate%3a%2220251128_2300%22",
+  "description": "Imagine 55 kilómetros cuadrados de naturaleza abierta, con vida salvaje en movimiento y un ciervo mostrando con orgullo su corona de astas. En 1909, el matrimonio formado por Anton Kröller y Helene Kröller-Müller comenzó a crear una finca privada en Gelderland, Países Bajos. Su sueño era unir arte y naturaleza. Así nació el Parque Nacional De Hoge Veluwe, donde esculturas y paisajes se funden en perfecta armonía. Entre sus obras destacan “Three Upright Motives”, del británico Henry Moore, y el banco de piedra “President Steyn”, del arquitecto belga Henry van de Velde.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_DeerVeluwe%22&FORM=HPQUIZ",
+  "hash": "d12f9205f5199fc94328e2aeec9b38d2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251128",
+    "fullStartDateTime": "202511282300",
+    "endDate": "20251129"
+  },
+  "createdAt": "202511290226",
+  "originalUrlBase": "/th?id=OHR.DeerVeluwe_ES-ES0975453330"
+}

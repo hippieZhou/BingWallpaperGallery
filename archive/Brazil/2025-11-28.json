@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O som das ondas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Praia da Armação, Florianópolis, Santa Catarina (© André Damasco/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251128_PraiaFloripa%22&FORM=HPQUIZ",
+  "hash": "4d9c89322c0e884090c3d29b8cf40cfb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251128",
+    "fullStartDateTime": "202511280300",
+    "endDate": "20251129"
+  },
+  "createdAt": "202511290226",
+  "originalUrlBase": "/th?id=OHR.PraiaFloripa_PT-BR9500409157"
+}
