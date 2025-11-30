@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=De+Hoge+Veluwe+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_DeerVeluwe%22&FORM=HPQUIZ",
+  "hash": "6a7ee4764f92a9cf576d1f68429ab0d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ROW5512867028_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ROW5512867028_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ROW5512867028_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ROW5512867028_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251129",
+    "fullStartDateTime": "202511290800",
+    "endDate": "20251130"
+  },
+  "createdAt": "202511300252",
+  "originalUrlBase": "/th?id=OHR.DeerVeluwe_ROW5512867028"
+}

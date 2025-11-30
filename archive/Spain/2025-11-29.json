@@ -1,0 +1,43 @@
+{
+  "date": "30 de nov. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde brilla la ilusión",
+  "bsTitle": "Donde brilla la ilusión",
+  "caption": "Mercado navideño en Leipzig, Alemania",
+  "copyright": "Mercado navideño en Leipzig, Alemania (© Krzysztof Baranowski/Getty Images)",
+  "copyrightOnly": "© Krzysztof Baranowski/Getty Images",
+  "copyrightLink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_2300%22",
+  "description": "¿Sabes lo que la gente compraba en los mercados navideños hace 567 años? No eran adornos costosos ni recuerdos elegantes, sino velas, especias, productos locales, artículos de punto y juguetes. El mercado navideño de Leipzig comenzó en 1458 y pronto se convirtió en una parada favorita para comerciantes y lugareños. Hoy, con su oferta cultural y gastronómica repartida por el casco histórico y cerca de 300 puestos, es uno de los mercados navideños más grandes de Alemania.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251129_LeipzigMarket%22&FORM=HPQUIZ",
+  "hash": "b7e901c82915ec0e3d4da6fe64ea9da3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251129",
+    "fullStartDateTime": "202511292300",
+    "endDate": "20251130"
+  },
+  "createdAt": "202511300252",
+  "originalUrlBase": "/th?id=OHR.LeipzigMarket_ES-ES1066408557"
+}
