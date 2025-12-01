@@ -1,6 +1,7 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using BinggoWallpapers.WinUI.Helpers;
+using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.ViewModels;
 
 namespace BinggoWallpapers.WinUI;
@@ -13,7 +14,7 @@ public sealed partial class ShellWindow : WindowEx
     {
         InitializeComponent();
         this.CenterOnScreen();
-        this.SetAppTitleBar(AppTitleBar, "Assets/WindowIcon.ico");
+        this.SetAppTitleBar(AppTitleBar, "Assets/WindowIcon.ico", AppInfo.AppTitle);
         ViewModel.Initialize(
             NavView,
             NavFrame,

@@ -17,7 +17,7 @@ public class LoggingSelectorService : ILoggingSelectorService
 
     public LoggingSelectorService()
     {
-        _logBaseDir = AppSettings.AppLogsPath;
+        _logBaseDir = AppInfo.AppLogsPath;
     }
 
     public Task InitializeAsync()

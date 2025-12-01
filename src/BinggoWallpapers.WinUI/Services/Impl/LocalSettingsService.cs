@@ -51,7 +51,7 @@ public class LocalSettingsService : ILocalSettingsService
     {
         if (RuntimeHelper.IsMSIX)
         {
-            return await AppSettings.LocalSettings.ReadAsync<T>(key);
+            return await AppInfo.LocalSettings.ReadAsync<T>(key);
         }
         else
         {
@@ -70,7 +70,7 @@ public class LocalSettingsService : ILocalSettingsService
     {
         if (RuntimeHelper.IsMSIX)
         {
-            await AppSettings.LocalSettings.SaveAsync(key, value);
+            await AppInfo.LocalSettings.SaveAsync(key, value);
         }
         else
         {

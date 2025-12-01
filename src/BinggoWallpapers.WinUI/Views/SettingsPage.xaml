@@ -159,7 +159,7 @@
                                 Width="120"
                                 d:Content="重置"
                                 Command="{x:Bind ViewModel.ResetDownloadFolderCommand}"
-                                CommandParameter="{x:Bind model:AppSettings.DefaultPicturesPath, Mode=OneTime}" />
+                                CommandParameter="{x:Bind model:AppInfo.DefaultPicturesPath, Mode=OneTime}" />
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>
                 </controls:SettingsExpander>
@@ -178,8 +178,8 @@
                             <controls:SettingsCard.Header>
                                 <HyperlinkButton
                                     Command="{x:Bind ViewModel.OpenFolderCommand}"
-                                    CommandParameter="{x:Bind model:AppSettings.AppLogsPath, Mode=OneTime}"
-                                    Content="{x:Bind model:AppSettings.AppLogsPath, Mode=OneTime}" />
+                                    CommandParameter="{x:Bind model:AppInfo.AppLogsPath, Mode=OneTime}"
+                                    Content="{x:Bind model:AppInfo.AppLogsPath, Mode=OneTime}" />
                             </controls:SettingsCard.Header>
                             <TextBlock
                                 Foreground="{ThemeResource TextFillColorSecondaryBrush}"
@@ -196,13 +196,13 @@
                 <controls:SettingsExpander
                     x:Uid="SettingsPage_AboutExpander"
                     d:Description="© 2025. All rights reserved."
-                    Header="{x:Bind model:AppSettings.AppTitle, Mode=OneTime}"
+                    Header="{x:Bind model:AppInfo.AppTitle, Mode=OneTime}"
                     HeaderIcon="{ui:BitmapIcon ShowAsMonochrome=False,
                                                Source=ms-appx:///Assets/StoreLogo.png}">
                     <TextBlock
                         Foreground="{ThemeResource TextFillColorSecondaryBrush}"
                         IsTextSelectionEnabled="True"
-                        Text="{x:Bind model:AppSettings.AppVersion, Mode=OneTime}" />
+                        Text="{x:Bind model:AppInfo.AppVersion, Mode=OneTime}" />
                     <controls:SettingsExpander.Items>
                         <controls:SettingsCard
                             x:Uid="SettingsPage_CloneRepoCard"
@@ -229,7 +229,7 @@
                             d:Header="依赖 &amp; 引用"
                             ContentAlignment="Vertical">
                             <StackPanel Margin="-12,0,0,0" Orientation="Vertical">
-                                <HyperlinkButton Content="{x:Bind model:AppSettings.WinAppSdkRuntimeDetails, Mode=OneTime}" NavigateUri="https://aka.ms/windowsappsdk" />
+                                <HyperlinkButton Content="{x:Bind model:AppInfo.WinAppSdkRuntimeDetails, Mode=OneTime}" NavigateUri="https://aka.ms/windowsappsdk" />
                                 <HyperlinkButton Content="WinUI 3" NavigateUri="https://aka.ms/winui" />
                                 <HyperlinkButton Content="WinUIEx" NavigateUri="https://dotmorten.github.io/WinUIEx" />
                                 <HyperlinkButton Content="Labs-Windows" NavigateUri="https://github.com/CommunityToolkit/Labs-Windows" />
@@ -250,7 +250,7 @@
                                 <HyperlinkButton
                                     x:Uid="SettingsPage_PrivacyStatementLink"
                                     d:Content="Application Privacy Statement"
-                                    NavigateUri="https://hippiezhou.github.io/products/binggowallpapers/privacy-policy" />
+                                    NavigateUri="https://hippiezhou.github.io/products/binggo-wallpapers/privacy-policy" />
                             </StackPanel>
                         </controls:SettingsCard>
                     </controls:SettingsExpander.Items>

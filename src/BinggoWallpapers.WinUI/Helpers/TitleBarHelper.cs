@@ -1,7 +1,6 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
 using System.Runtime.InteropServices;
-using BinggoWallpapers.WinUI.Models;
 using Microsoft.UI;
 using Microsoft.UI.Windowing;
 using Microsoft.UI.Xaml;
@@ -89,7 +88,8 @@ internal static class TitleBarHelper
     public static void SetAppTitleBar(
         this ShellWindow mainWindow,
         Microsoft.UI.Xaml.Controls.TitleBar appTitleBar,
-        string icon)
+        string icon,
+        string title)
     {
         mainWindow.ExtendsContentIntoTitleBar = true;
         mainWindow.SetTitleBar(appTitleBar);
@@ -97,6 +97,6 @@ internal static class TitleBarHelper
         mainWindow.AppWindow.TitleBar.PreferredHeightOption = TitleBarHeightOption.Tall;
         mainWindow.AppWindow.SetIcon(icon);
         mainWindow.AppWindow.SetTaskbarIcon(icon);
-        mainWindow.Title = AppSettings.AppTitle;
+        mainWindow.Title = title;
     }
 }

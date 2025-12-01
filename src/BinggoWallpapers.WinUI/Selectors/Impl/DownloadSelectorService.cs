@@ -9,13 +9,13 @@ public class DownloadSelectorService(
     IDownloadService downloadService) :
     SelectorService(localSettingsService), IDownloadSelectorService
 {
-    public string DownloadPath { get; private set; } = AppSettings.DefaultPicturesPath;
+    public string DownloadPath { get; private set; } = AppInfo.DefaultPicturesPath;
 
     protected override string SettingsKey => "AppDownload";
 
     public async Task InitializeAsync(CancellationToken cancellationToken = default)
     {
-        DownloadPath = await ReadFromSettingsAsync(AppSettings.DefaultPicturesPath);
+        DownloadPath = await ReadFromSettingsAsync(AppInfo.DefaultPicturesPath);
     }
 
     public async Task SetRequestedDownloadPathAsync()

@@ -103,7 +103,7 @@ public partial class SettingsViewModel : ObservableRecipient
     [RelayCommand]
     private async Task OnResetDownloadFolder()
     {
-        await _downloadSelector.SetDownloadPathAsync(AppSettings.DefaultPicturesPath);
+        await _downloadSelector.SetDownloadPathAsync(AppInfo.DefaultPicturesPath);
         PicturesPath = _downloadSelector.DownloadPath;
     }
 
@@ -148,9 +148,9 @@ public partial class SettingsViewModel : ObservableRecipient
 【请填写问题描述】
 
 设备信息：
-- System Version: {AppSettings.OSVersion}
-- Application Version: {AppSettings.AppVersion}
-- WindowsAppSDK Version:{AppSettings.WinAppSdkRuntimeDetails}
+- System Version: {AppInfo.OSVersion}
+- Application Version: {AppInfo.AppVersion}
+- WindowsAppSDK Version:{AppInfo.WinAppSdkRuntimeDetails}
 
 谢谢！";
         var email = "hippiezhou@outlook.com";

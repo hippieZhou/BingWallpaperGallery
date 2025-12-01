@@ -8,7 +8,7 @@ using Windows.Storage;
 
 namespace BinggoWallpapers.WinUI.Models;
 
-public partial class AppSettings
+public partial class AppInfo
 {
     public static ApplicationDataContainer LocalSettings => ApplicationData.Current.LocalSettings;
 
@@ -38,11 +38,11 @@ public partial class AppSettings
 
     public static string AppLogsPath => RuntimeHelper.GetAppLogsPath();
 
+    public static string WinAppSdkRuntimeDetails => $"{WinAppSdkDetails}, {RuntimeInfoAsString}, {FrameworkDescription}";
+
     private static string WinAppSdkDetails => $"Windows App SDK {ReleaseInfo.Major}.{ReleaseInfo.Minor}";
 
     private static string RuntimeInfoAsString => $"Windows App Runtime {RuntimeInfo.AsString}";
 
     private static string FrameworkDescription => RuntimeInformation.FrameworkDescription;
-
-    public static string WinAppSdkRuntimeDetails => $"{WinAppSdkDetails}, {RuntimeInfoAsString}, {FrameworkDescription}";
 }

@@ -72,7 +72,7 @@
 
         <TitleBar
             x:Name="AppTitleBar"
-            Title="{x:Bind model:AppSettings.AppTitle, Mode=OneTime}"
+            Title="{x:Bind model:AppInfo.AppTitle, Mode=OneTime}"
             Grid.Row="0"
             Height="48"
             IconSource="{ui:BitmapIconSource ShowAsMonochrome=False,
