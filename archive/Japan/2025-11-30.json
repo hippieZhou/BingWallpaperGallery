@@ -1,0 +1,43 @@
+{
+  "date": "2025 年 12月 月 1 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は南極の日",
+  "bsTitle": "今日は南極の日",
+  "caption": "今日は南極の日",
+  "copyright": "南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)",
+  "copyrightOnly": "© Gabrielle/Adobe Stock",
+  "copyrightLink": "/search?q=%e5%8d%97%e6%a5%b5%e3%81%ae%e6%b0%b7%e5%b1%b1%e3%81%ab%e5%88%bb%e3%81%be%e3%82%8c%e3%81%9f%e5%a4%a9%e7%84%b6%e3%81%ae%e3%82%a2%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220251130_1500%22",
+  "description": "地球の最南端に位置する南極大陸は、約 1,400 万 km² の面積を誇り、地球全体の陸地の約 8％ を占めています。平均気温は -30℃ にも達し、世界で最も寒冷かつ乾燥した地域です。また、ほとんどの部分は氷に覆われており、その氷床には地球上の淡水の約 70% が蓄えられ、海面上昇や気候変動に大きな影響を与えています…",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+  "hash": "f9f143806050e34bc3db315d08dd2db3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251130",
+    "fullStartDateTime": "202511301500",
+    "endDate": "20251201"
+  },
+  "createdAt": "202512010303",
+  "originalUrlBase": "/th?id=OHR.AntarcticArch_JA-JP4876185328"
+}

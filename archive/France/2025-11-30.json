@@ -1,0 +1,43 @@
+{
+  "date": "1 déc. 2025",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’arche du silence",
+  "bsTitle": "L’arche du silence",
+  "caption": "Journée de l’Antarctique",
+  "copyright": "Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)",
+  "copyrightOnly": "© Gabrielle/Adobe Stock",
+  "copyrightLink": "/search?q=Journ%c3%a9e+de+l%e2%80%99Antarctique&form=hpcapt&filters=HpDate%3a%2220251130_2300%22",
+  "description": "À la lisière du monde, une arche de glace s'élève, sculptée par le vent et la mer, dans les eaux glaciales de la mer de Weddell, en Antarctique. Sous sa voûte bleutée, le temps semble suspendu. Chaque fissure, chaque éclat de lumière raconte l’histoire d’une Terre ancienne et de climats révolus, conservés dans les couches de glace. Dans ce désert blanc qui recouvre près de 10 % des terres émergées de la planète, se cache 60 % de l’eau douce de la Terre, un cœur gelé qui régule nos mers et notre climat.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+  "hash": "b7eaa3608daaa5230ab77d3a7c4449cc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251130",
+    "fullStartDateTime": "202511302300",
+    "endDate": "20251201"
+  },
+  "createdAt": "202512010303",
+  "originalUrlBase": "/th?id=OHR.AntarcticArch_FR-FR7424154136"
+}

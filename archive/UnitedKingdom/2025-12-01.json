@@ -1,0 +1,43 @@
+{
+  "date": "Dec 1, 2025",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Where ice holds its breath",
+  "bsTitle": "Where ice holds its breath",
+  "caption": "Antarctica Day",
+  "copyright": "Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)",
+  "copyrightOnly": "© Gabrielle/Adobe Stock",
+  "copyrightLink": "/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220251201_0000%22",
+  "description": "Some photos capture nature's grand acts. Great photos reveal even more in a single frame: the delicate balance between immense power and fragile beauty that surrounds us on Earth. Today's image of a natural arch carved into an Antarctic iceberg does exactly that—a conversation starter about grandeur, vulnerability, our environment and its present and future.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251201_AntarcticArch%22&FORM=HPQUIZ",
+  "hash": "b44252ebba9759254461b2a33ced2ebe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-GB5572434301_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251201",
+    "fullStartDateTime": "202512010000",
+    "endDate": "20251202"
+  },
+  "createdAt": "202512010303",
+  "originalUrlBase": "/th?id=OHR.AntarcticArch_EN-GB5572434301"
+}

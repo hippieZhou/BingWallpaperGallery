@@ -1,0 +1,43 @@
+{
+  "date": "1 de dic. de 2025",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El hogar de los pingüinos",
+  "bsTitle": "El hogar de los pingüinos",
+  "caption": "Día Internacional de la Antártida",
+  "copyright": "Arco natural tallado en un iceberg, Antártida (© Gabrielle/Adobe Stock)",
+  "copyrightOnly": "© Gabrielle/Adobe Stock",
+  "copyrightLink": "/search?q=Ant%c3%a1rtida&form=hpcapt&filters=HpDate%3a%2220251130_2300%22",
+  "description": "Algunas imágenes capturan los grandes actos de la naturaleza, pero otras —como un arco natural tallado en un iceberg antártico— revelan aún más: el delicado equilibrio entre el inmenso poder y la frágil belleza que nos rodea.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+  "hash": "72e23b43088959f1fbca6437ff97284a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251130",
+    "fullStartDateTime": "202511302300",
+    "endDate": "20251201"
+  },
+  "createdAt": "202512010303",
+  "originalUrlBase": "/th?id=OHR.AntarcticArch_ES-ES0463895614"
+}

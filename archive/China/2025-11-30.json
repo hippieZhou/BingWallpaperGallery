@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "冰雪凝息之处",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "冰山上天然形成的拱门, 南极洲 (© Gabrielle/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8d%97%e6%9e%81%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20251130_AntarcticArch%22&FORM=HPQUIZ",
+  "hash": "e99d16465c531f6b67cbbcba0dea11a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20251130",
+    "fullStartDateTime": "202511301600",
+    "endDate": "20251201"
+  },
+  "createdAt": "202512010303",
+  "originalUrlBase": "/th?id=OHR.AntarcticArch_ZH-CN1622701432"
+}
