@@ -11,10 +11,10 @@ Binggo Wallpapers
 > 告知客户你的产品功能
 
 **中文：**
-一个基于 WinUI 3 的必应壁纸应用，让您轻松浏览、下载和设置来自世界各地的精美壁纸。支持 14 个地区的壁纸内容，提供多分辨率下载、图像特效编辑和现代化用户体验。
+⚠️ 此应用需要安装 .NET Desktop Runtime 才能运行。一个基于 WinUI 3 的必应壁纸应用，让您轻松浏览、下载和设置来自世界各地的精美壁纸。支持 14 个地区的壁纸内容，提供多分辨率下载、图像特效编辑和现代化用户体验。
 
 **English:**
-A Bing wallpaper application based on WinUI 3 that lets you easily browse, download, and set beautiful wallpapers from around the world. Supports wallpaper content from 14 regions, offers multi-resolution downloads, image effect editing, and a modern user experience.
+⚠️ This application requires .NET Desktop Runtime to be installed. A Bing wallpaper application based on WinUI 3 that lets you easily browse, download, and set beautiful wallpapers from around the world. Supports wallpaper content from 14 regions, offers multi-resolution downloads, image effect editing, and a modern user experience.
 
 ## 此版本的新增功能
 

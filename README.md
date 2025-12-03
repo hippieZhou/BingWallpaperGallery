@@ -4,8 +4,11 @@
 
   <img src="design/app_icon.svg" alt="BinggoWallpapers" width="128" height="128">
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Download-blue?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/store/detail/bing-wallpaper-gallery/9NBLGGH5X8FV)
-[![GitHub Release](https://img.shields.io/badge/GitHub-Download-black?style=for-the-badge&logo=github)](https://github.com/hippiezhou/BinggoWallpapers/releases)
+  <br/>
+
+  <a href="https://apps.microsoft.com/detail/9ph6t26g23xh?referrer=appbadge&mode=direct">
+	  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+  </a>
 
 </div>
 
