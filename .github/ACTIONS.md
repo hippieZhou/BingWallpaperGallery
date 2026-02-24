@@ -181,7 +181,7 @@ permissions:
 ```yaml
 env:
     DOTNET_VERSION: "9.0.x" # .NET SDK 版本
-    SOLUTION_PATH: "BinggoWallpapers.sln" # 解决方案路径
+    SOLUTION_PATH: "BinggoWallpapers.slnx" # 解决方案路径
     BUILD_PLATFORM: "x64" # 构建平台
 ```
 
@@ -228,7 +228,7 @@ graph TD
 #### 步骤 2: 构建解决方案
 
 ```bash
-dotnet build BinggoWallpapers.sln \
+dotnet build BinggoWallpapers.slnx \
   --configuration Release \
   --no-restore \
   -p:Platform=x64
@@ -318,7 +318,7 @@ dotnet test src/BinggoWallpapers.Core.Tests/BinggoWallpapers.Core.Tests.csproj \
 | 环境变量         | 说明             | 值                       |
 | ---------------- | ---------------- | ------------------------ |
 | `DOTNET_VERSION` | .NET SDK 版本    | 9.0.x                    |
-| `SOLUTION_PATH`  | 解决方案文件路径 | BinggoWallpapers.sln |
+| `SOLUTION_PATH`  | 解决方案文件路径 | BinggoWallpapers.slnx |
 | `BUILD_PLATFORM` | 构建平台架构     | x64                      |
 
 ---

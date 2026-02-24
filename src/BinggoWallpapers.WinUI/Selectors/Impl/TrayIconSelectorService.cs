@@ -1,10 +1,10 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
-using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.Services;
 using BinggoWallpapers.WinUI.Views.TrayIcon;
 using CommunityToolkit.WinUI;
 using DesktopFlyouts;
+using Windows.ApplicationModel;
 
 namespace BinggoWallpapers.WinUI.Selectors.Impl;
 
@@ -49,9 +49,9 @@ public class TrayIconSelectorService(
         await App.MainWindow.DispatcherQueue.EnqueueAsync(() =>
         {
             _trayIcon ??= new SystemTrayIcon(
-                    "Assets\\WindowIcon.ico",
-                    AppInfo.AppTitle,
-                    Guid.Parse("28DE460A-8BD6-4539-A406-5F685584FD4D"));
+                Path.Combine(Package.Current.InstalledLocation.Path, "Assets\\WindowIcon.ico"),
+                Models.AppInfo.AppTitle,
+                Guid.Parse("28DE460A-8BD6-4539-A406-5F685584FD4D"));
             _trayIcon.LeftClicked += (sender, e) =>
             {
                 if (defaultTrayIconFlyout.IsOpen)
@@ -84,6 +84,12 @@ public class TrayIconSelectorService(
  
     private void UnRegister()
     {
-        _trayIcon?.Destroy();
+        if(_trayIcon is null)
+        {
+            return;
+        }
+
+        _trayIcon.IsVisible = false;
+        _trayIcon.Destroy();
     }
 }
