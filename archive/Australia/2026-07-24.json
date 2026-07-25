@@ -1,0 +1,43 @@
+{
+  "date": "July 24, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "American flamingos, Isabela Island, Galápagos Islands, Ecuador",
+  "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+  "copyrightOnly": "© Tui De Roy/Nature Picture Library",
+  "copyrightLink": "/search?q=American+flamingos&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
+  "description": "The first thing you notice is the colour. A flock of American flamingos stands in the shallow water on Isabela Island, Galápagos Islands, and the water seems to borrow a hint of pink from their feathers. Those feathers were not always that colour. Flamingos hatch grey and gradually turn pink as pigments from algae and small crustaceans accumulate in their bodies.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GalapagosFlamingos%22&FORM=HPQUIZ",
+  "hash": "373c0694485223abbb03d2501401c93c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607240700",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GalapagosFlamingos_ROW2731476245"
+}

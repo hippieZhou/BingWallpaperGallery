@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 7月 月 25 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "干潮に現れる奇岩海岸",
+  "bsTitle": "干潮に現れる奇岩海岸",
+  "caption": "干潮に現れる奇岩海岸",
+  "copyright": "カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+  "copyrightLink": "/search?q=%e3%82%ab%e3%83%86%e3%83%89%e3%83%a9%e3%83%ab%e3%83%bb%e3%83%93%e3%83%bc%e3%83%81&form=hpcapt&filters=HpDate%3a%2220260724_1500%22",
+  "description": "スペインのガリシア州は大西洋に面しており、その海岸線には、長い年月をかけて形成された断崖や入り江、波の浸食作用によって削り取られた波食台地が連なっています。そして、今日の画像は、ガリシア州北部に位置するカテドラル・ビーチ（プライア・ダス・カテドライス）の干潮時の姿。高さ 30m を誇る粘板岩と珪岩のアーチが大聖堂（カテドラル）を思わせることが名前の由来です。干潮時という限られた時間帯にのみ、海食によって形成された岩のアーチの間を歩くことができます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "922ec03bf5a72716b70224b6ab666246",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607241500",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_JA-JP2958100609"
+}

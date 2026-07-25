@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O templo construído pelo mar",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Praia das Catedrais, Galícia, Espanha (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Gal%c3%adcia+na+Espanha&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "4c6f82b6e6c5bb2fd35c47ace1ffd3d8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_PT-BR6668206229_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260725",
+    "fullStartDateTime": "202607250300",
+    "endDate": "20260726"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_PT-BR6668206229"
+}

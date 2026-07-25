@@ -1,0 +1,43 @@
+{
+  "date": "25 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "La sinfonía de las olas",
+  "bsTitle": "La sinfonía de las olas",
+  "caption": "Día de Galicia",
+  "copyright": "Playa de las Catedrales, Galicia, España (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+  "copyrightLink": "/search?q=D%c3%ada+de+Galicia&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+  "description": "El norte de Galicia guarda uno de los rincones más impresionantes del litoral español: la Playa de las Catedrales, en Ribadeo, donde el Atlántico ha esculpido durante milenios una arquitectura de piedra que rivaliza con cualquier catedral gótica. Con arcos naturales que alcanzan los treinta metros de altura, esta franja de costa transforma el concepto mismo de playa en algo cercano a lo sublime. Solo con la marea baja el mar se retira lo suficiente para revelar este laberinto de bóvedas, columnas y covachas talladas por las olas.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "6df2695a4c99002e96c9fe6243c836ef",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ES-ES2298992138_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607242200",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_ES-ES2298992138"
+}

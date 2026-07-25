@@ -1,0 +1,43 @@
+{
+  "date": "25 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les arches cachées de la Galice",
+  "bsTitle": "Les arches cachées de la Galice",
+  "caption": "Plage des Cathédrales, Galice, Espagne",
+  "copyright": "Plage des Cathédrales, Galice, Espagne (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "© Tui De Roy/Amazing Aerial Agency/Abobe Stock",
+  "copyrightLink": "/search?q=Galice+Espagne&form=hpcapt&filters=HpDate%3a%2220260724_2200%22",
+  "description": "À l’extrême nord‑ouest de l’Espagne, la Galice déploie ses falaises sombres face au golfe de Gascogne. Là, près de Ribadeo, l’océan a sculpté dans la roche ce que l’architecture gothique n’a fait qu’évoquer : des arches immenses, des voûtes ouvertes au ciel, des nefs de pierre traversées par la lumière atlantique. La plage des Cathédrales porte son nom avec une gravité méritée.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "763b96abee41a1e4c885a1279ce7bfa4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_FR-FR6503602591_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607242200",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_FR-FR6503602591"
+}

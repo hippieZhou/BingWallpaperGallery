@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "加境幽廊",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%8a%a0%e5%88%a9%e8%a5%bf%e4%ba%9a&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "f4ba97314f4205bee03cf9294bcddaea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607241600",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_ZH-CN1246611659"
+}

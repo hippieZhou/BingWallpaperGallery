@@ -1,0 +1,43 @@
+{
+  "date": "Jul 24, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Family, in full color",
+  "bsTitle": "Family, in full color",
+  "caption": "National Cousins Day",
+  "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)",
+  "copyrightOnly": "© Tui De Roy/Nature Picture Library",
+  "copyrightLink": "/search?q=National+Cousins+Day&form=hpcapt&filters=HpDate%3a%2220260724_0700%22",
+  "description": "Today is National Cousins Day—a perfect excuse to reconnect with the people who know your family stories best and probably helped create a few of them. Think of cousins as your built-in crew: part family history, part lifelong adventure.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260724_GalapagosFlamingos%22&FORM=HPQUIZ",
+  "hash": "049bf5eb7eb3a5e5371754d5d95881ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260724",
+    "fullStartDateTime": "202607240700",
+    "endDate": "20260725"
+  },
+  "createdAt": "202607250357",
+  "originalUrlBase": "/th?id=OHR.GalapagosFlamingos_EN-US0364264116"
+}
