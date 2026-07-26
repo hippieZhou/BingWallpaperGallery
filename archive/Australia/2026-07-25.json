@@ -1,0 +1,43 @@
+{
+  "date": "July 25, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Isla Cristina, Huelva, Spain",
+  "copyright": "Isla Cristina, Huelva, Spain (© MEDITERRANEAN/Getty Images)",
+  "copyrightOnly": "© MEDITERRANEAN/Getty Images",
+  "copyrightLink": "/search?q=Isla+Cristina&form=hpcapt&filters=HpDate%3a%2220260725_0700%22",
+  "description": "In Isla Cristina, Huelva, Spain, the Atlantic shapes a sunlit coastline where salt marshes, beaches and a rich seafaring tradition set the rhythm of daily life. From above, its wide stretches of fine sandy beach and the channels winding through the saltworks reflect the close connection between the landscape and the fishing industry, which has long defined the town's identity.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_IslaCristina%22&FORM=HPQUIZ",
+  "hash": "aed7a60a8c3536a24fb48acff8f9ea6e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260725",
+    "fullStartDateTime": "202607250700",
+    "endDate": "20260726"
+  },
+  "createdAt": "202607260421",
+  "originalUrlBase": "/th?id=OHR.IslaCristina_ROW3744341515"
+}

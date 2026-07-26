@@ -1,0 +1,43 @@
+{
+  "date": "26 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Entre la tierra y el mar",
+  "bsTitle": "Entre la tierra y el mar",
+  "caption": "Día Internacional de Conservación del Ecosistema de Manglares",
+  "copyright": "Amanecer en un mangle rojo en los Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+  "copyrightOnly": "© Mac Stone/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+de+Conservaci%c3%b3n+del+Ecosistema+de+Manglares&form=hpcapt&filters=HpDate%3a%2220260725_2200%22",
+  "description": "En los Islotes de Pig Keys, en Honduras, el amanecer transforma el agua en un espejo donde las raíces aéreas del mangle rojo emergen retorcidas y solemnes, como si sostuvieran el mundo entre sus brazos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_RedMangroveSunrise%22&FORM=HPQUIZ",
+  "hash": "c41acc43fb39e1d525b996d09f15a749",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ES-ES2463781861_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260725",
+    "fullStartDateTime": "202607252200",
+    "endDate": "20260726"
+  },
+  "createdAt": "202607260421",
+  "originalUrlBase": "/th?id=OHR.RedMangroveSunrise_ES-ES2463781861"
+}

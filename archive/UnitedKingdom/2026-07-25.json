@@ -1,0 +1,43 @@
+{
+  "date": "Jul 26, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Between land and sea, life begins",
+  "bsTitle": "Between land and sea, life begins",
+  "caption": "International Day for the Conservation of the Mangrove Ecosystem",
+  "copyright": "Red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+  "copyrightOnly": "© Mac Stone/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=hpcapt&filters=HpDate%3a%2220260725_2300%22",
+  "description": "At sunrise in Honduras' Pig Keys—small, low-lying coastal islets tucked within mangrove-rich wetlands—a red mangrove lifts its tangled roots above glassy water. This striking scene captures what 26 July celebrates: the International Day for the Conservation of the Mangrove Ecosystem, created to spotlight these vital coastal forests.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260725_RedMangroveSunrise%22&FORM=HPQUIZ",
+  "hash": "f38826d7eeb1dd424abbed571bf11743",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260725",
+    "fullStartDateTime": "202607252300",
+    "endDate": "20260726"
+  },
+  "createdAt": "202607260421",
+  "originalUrlBase": "/th?id=OHR.RedMangroveSunrise_EN-GB5065847965"
+}
