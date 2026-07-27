@@ -1,0 +1,43 @@
+{
+  "date": "27 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Le canyon bleu",
+  "bsTitle": "Le canyon bleu",
+  "caption": "Les gorges du Verdon, Provence-Alpes-Côte d'Azur",
+  "copyright": "Canoë-kayaks au cœur des gorges du Verdon, Provence-Alpes-Côte d'Azur (© Joran Maaswinkel Fotografie/Getty Images)",
+  "copyrightOnly": "© Joran Maaswinkel Fotografie/Getty Images",
+  "copyrightLink": "/search?q=Lacs+et+gorges+du+Verdon&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
+  "description": "Vu du ciel, le Verdon ressemble à une veine de jade glissée entre les falaises calcaires de Provence. Sur près de 25 kilomètres, ce canyon — l’un des plus profonds d’Europe, avec des parois atteignant 700 mètres — s’est creusé pendant des millions d’années sous l’érosion patiente de la rivière.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_VerdonKayaks%22&FORM=HPQUIZ",
+  "hash": "6fdf468f324af21758a03fd2798baf64",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260726",
+    "fullStartDateTime": "202607262200",
+    "endDate": "20260727"
+  },
+  "createdAt": "202607270431",
+  "originalUrlBase": "/th?id=OHR.VerdonKayaks_FR-FR6935931270"
+}

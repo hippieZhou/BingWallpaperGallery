@@ -1,0 +1,43 @@
+{
+  "date": "July 26, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Red mangrove in the Pig Keys, Honduras",
+  "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)",
+  "copyrightOnly": "© Mac Stone/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Red+mangrove&form=hpcapt&filters=HpDate%3a%2220260726_0700%22",
+  "description": "At sunrise in Honduras' Pig Keys—small, low-lying coastal islets tucked within mangrove-rich wetlands—a red mangrove lifts its tangled roots above glassy water. Red mangroves are often the first trees to colonise tropical coastlines, using their distinctive arching roots to anchor in soft, oxygen-poor mud where saltwater and land collide. These roots help trap sediment, stabilise shorelines and create calm waters where other coastal plants can take hold. Their dense networks also reduce erosion, soften the impact of waves and help shield nearby communities from storms. Beneath the surface, the submerged roots provide shelter for young fish, crabs and shrimp, making these wetlands one of the ocean's most productive nurseries.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_RedMangroveSunrise%22&FORM=HPQUIZ",
+  "hash": "5d6f3cc8c4510c5bf3c0f5445fd487c3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260726",
+    "fullStartDateTime": "202607260700",
+    "endDate": "20260727"
+  },
+  "createdAt": "202607270431",
+  "originalUrlBase": "/th?id=OHR.RedMangroveSunrise_ROW3783408236"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Gli archi nascosti della Galizia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Spiaggia delle Cattedrali, Galizia, Spagna (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Galizia+Spagna&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_GaliciaBeach%22&FORM=HPQUIZ",
+  "hash": "bcfb64b8d4277ffd00eeb709b90b6193",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_IT-IT8238080614_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260726",
+    "fullStartDateTime": "202607262200",
+    "endDate": "20260727"
+  },
+  "createdAt": "202607270431",
+  "originalUrlBase": "/th?id=OHR.GaliciaBeach_IT-IT8238080614"
+}

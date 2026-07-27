@@ -1,0 +1,43 @@
+{
+  "date": "Jul 27, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Chicago, look up!",
+  "bsTitle": "Chicago, look up!",
+  "caption": "Tiffany Dome, Chicago Cultural Center, Illinois, United States",
+  "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)",
+  "copyrightOnly": "© Felix Lipov/Shutterstock",
+  "copyrightLink": "/search?q=Tiffany+Dome+Chicago+Cultural+Center&form=hpcapt&filters=HpDate%3a%2220260726_1830%22",
+  "description": "Step inside the Chicago Cultural Center in Illinois, United States, and your eyes are instantly drawn upwards to a glowing canopy of colour—the Tiffany Dome. Suspended above Preston Bradley Hall, this masterpiece spans over 11 metres in diameter and is composed of roughly 30,000 pieces of Favrile glass, each shaped like a fish scale. Sunlight filters through its translucent surface, shifting blues and golds across its intricate pattern.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_ChicagoTiffany%22&FORM=HPQUIZ",
+  "hash": "fb7cb9a8ae1c48778a1f689d8b6087ec",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-IN9630629960_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-IN9630629960_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-IN9630629960_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-IN9630629960_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260726",
+    "fullStartDateTime": "202607261830",
+    "endDate": "20260727"
+  },
+  "createdAt": "202607270431",
+  "originalUrlBase": "/th?id=OHR.ChicagoTiffany_EN-IN9630629960"
+}

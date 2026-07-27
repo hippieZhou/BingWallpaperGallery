@@ -1,0 +1,43 @@
+{
+  "date": "27 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El paraíso secreto de Galicia",
+  "bsTitle": "El paraíso secreto de Galicia",
+  "caption": "Veleros cerca de las Islas Cíes en Galicia, España",
+  "copyright": "Veleros cerca de las Islas Cíes en Galicia, España (© AndresGarciaM/Getty Images)",
+  "copyrightOnly": "© AndresGarciaM/Getty Images",
+  "copyrightLink": "/search?q=Islas+C%c3%ades&form=hpcapt&filters=HpDate%3a%2220260726_2200%22",
+  "description": "Las Islas Cíes, frente a las costas de Pontevedra, forman uno de los archipiélagos más espectaculares de España: playas de arena blanca, aguas de un azul imposible y veleros que danzan al ritmo de la brisa atlántica. Declaradas Parque Nacional Marítimo-Terrestre, estas islas gallegas ofrecen un refugio natural donde el tiempo parece detenerse. Y si el paisaje ya enamora, la gastronomía remata la faena.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260726_GaliciaSpain%22&FORM=HPQUIZ",
+  "hash": "d942e4bf096f5fa6d4243e5805196631",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260726",
+    "fullStartDateTime": "202607262200",
+    "endDate": "20260727"
+  },
+  "createdAt": "202607270431",
+  "originalUrlBase": "/th?id=OHR.GaliciaSpain_ES-ES2553115650"
+}
