@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Emerald Lake, Yoho National Park, British Columbia, Canada (© Olga Matveeva/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Yoho+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_SummerBC%22&FORM=HPQUIZ",
+  "hash": "954a07196467679b0cd87d8235cff910",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607270700",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.SummerBC_ROW3830675043"
+}

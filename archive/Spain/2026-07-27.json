@@ -1,0 +1,43 @@
+{
+  "date": "28 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un equilibrio en movimiento",
+  "bsTitle": "Un equilibrio en movimiento",
+  "caption": "Día Mundial de la Conservación de la Naturaleza",
+  "copyright": "Un bosque de algas cerca de la isla Anacapa, Parque Nacional de las Islas del Canal, California, EE. UU.  (© Ian Shive/Tandem Stills + Motion)",
+  "copyrightOnly": "© Ian Shive/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+de+la+Conservaci%c3%b3n+de+la+Naturaleza&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+  "description": "Frente a la isla Anacapa, en el Parque Nacional Islas del Canal de California, el océano alberga uno de los ecosistemas más espectaculares del planeta: los bosques de algas gigantes. El kelp puede superar los 30 metros de altura, formando imponentes columnas que la luz solar atraviesa como si fueran vidrieras naturales.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+  "hash": "7b89326290e73d2b9fe793cc7135b633",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ES-ES2666922160_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607272200",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.ChannelKelp_ES-ES2666922160"
+}

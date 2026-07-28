@@ -1,0 +1,43 @@
+{
+  "date": "28 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Équilibre en mouvement",
+  "bsTitle": "Équilibre en mouvement",
+  "caption": "Journée mondiale de la conservation de la nature",
+  "copyright": "Une forêt de varech au large d'Anacapa Island, Parc national des Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)",
+  "copyrightOnly": "© Ian Shive/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Conservation+de+la+nature&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+  "description": "Au large d'Anacapa Island, dans le parc national des Channel Islands, aux États-Unis, la lumière californienne se fragmente sous la surface en milliers d'éclats verts et dorés. La mer a sculpté ses propres cathédrales : des forêts de varech géant s'élevant à plus de trente mètres du fond, leurs frondes ondulant comme des rubans de soie, maintenues en surface par de petits flotteurs remplis d'air.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+  "hash": "820ad446f5085b61e73fd710c3f74a8c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_FR-FR7114923921_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_FR-FR7114923921_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_FR-FR7114923921_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_FR-FR7114923921_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607272200",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.ChannelKelp_FR-FR7114923921"
+}

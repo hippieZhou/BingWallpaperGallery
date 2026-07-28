@@ -1,0 +1,43 @@
+{
+  "date": "28. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Gleichgewicht in Bewegung",
+  "bsTitle": "Ein Gleichgewicht in Bewegung",
+  "caption": "Welttag des Naturschutzes",
+  "copyright": "Ein Seetangwald vor Anacapa Island, Channel Islands National Park, Kalifornien, USA (© Ian Shive/Tandem Stills + Motion)",
+  "copyrightOnly": "© Ian Shive/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=Welttag+des+Naturschutzes&form=hpcapt&filters=HpDate%3a%2220260727_2200%22",
+  "description": "Am 28. Juli lenkt der Welttag des Naturschutzes die Aufmerksamkeit auf Lebensräume, die oft verborgen bleiben. Dazu gehören die Seetangwälder vor Anacapa Island im Channel Islands National Park in Kalifornien. Die Region wird wegen ihrer außergewöhnlichen Artenvielfalt häufig als „Galápagos Nordamerikas“ bezeichnet. Riesentang kann hier über 30 Meter lang werden und unter günstigen Bedingungen täglich bis zu 60 Zentimeter wachsen. Seine dichten Bestände reichen von der Wasseroberfläche bis zum Meeresboden und schaffen einen Lebensraum für zahlreiche Tiere und Pflanzen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+  "hash": "397391d39007f911e5ea8a8260e21865",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_DE-DE2528098746_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607272200",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.ChannelKelp_DE-DE2528098746"
+}

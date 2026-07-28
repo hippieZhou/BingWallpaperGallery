@@ -1,0 +1,43 @@
+{
+  "date": "Jul 28, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A balance in motion",
+  "bsTitle": "A balance in motion",
+  "caption": "World Nature Conservation Day",
+  "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)",
+  "copyrightOnly": "© Ian Shive/Tandem Stills + Motion",
+  "copyrightLink": "/search?q=World+Nature+Conservation+Day&form=hpcapt&filters=HpDate%3a%2220260727_2300%22",
+  "description": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_ChannelKelp%22&FORM=HPQUIZ",
+  "hash": "54a5d4e2d77b0898f89878dd7e750ae4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607272300",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.ChannelKelp_EN-GB5530574227"
+}

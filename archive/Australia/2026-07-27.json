@@ -1,0 +1,43 @@
+{
+  "date": "July 27, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Emerald Lake in Yoho National Park, British Columbia, Canada",
+  "copyright": "Emerald Lake, Yoho National Park, British Columbia, Canada (© Olga Matveeva/Getty Images)",
+  "copyrightOnly": "© Olga Matveeva/Getty Images",
+  "copyrightLink": "/search?q=Yoho+National+Park&form=hpcapt&filters=HpDate%3a%2220260727_0700%22",
+  "description": "Some places are best introduced with one word: Yoho. It is a Cree expression of wonder, which is exactly the reaction most people have. Established in 1886, Yoho National Park protects part of the Canadian Rockies in British Columbia. Visitors can stop at Takakkaw Falls, where water plunges more than 370 metres, or explore the world-famous Burgess Shale fossil sites. These rocks preserve the remains of marine animals that lived more than 500 million years ago.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260727_SummerBC%22&FORM=HPQUIZ",
+  "hash": "954a07196467679b0cd87d8235cff910",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260727",
+    "fullStartDateTime": "202607270700",
+    "endDate": "20260728"
+  },
+  "createdAt": "202607280354",
+  "originalUrlBase": "/th?id=OHR.SummerBC_ROW3830675043"
+}
