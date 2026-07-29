@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma floresta que voltou a rugir",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia (© Archna Singh/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_TigerFamily%22&FORM=HPQUIZ",
+  "hash": "3cff5af9ab9a193b7477abb2b561071b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260729",
+    "fullStartDateTime": "202607290300",
+    "endDate": "20260730"
+  },
+  "createdAt": "202607290358",
+  "originalUrlBase": "/th?id=OHR.TigerFamily_PT-BR8805441851"
+}

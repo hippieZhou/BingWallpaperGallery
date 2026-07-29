@@ -1,0 +1,43 @@
+{
+  "date": "29 de jul de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Unos felinos más grandes",
+  "bsTitle": "Unos felinos más grandes",
+  "caption": "Día Internacional del Tigre",
+  "copyright": "Una familia de tigres de Bengala en el Parque Nacional de Ranthambore, Rajasthan, India (© Archna Singh/Shutterstock)",
+  "copyrightOnly": "© Archna Singh/Shutterstock",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+del+Tigre&form=hpcapt&filters=HpDate%3a%2220260728_2200%22",
+  "description": "En el Día Internacional del Tigre, una familia de tigres de Bengala recorre el Parque Nacional de Ranthambore, en Rajastán, India, con la calma soberana de quien sabe que no tiene rival. Son animales diseñados para la perfección: un adulto puede superar los tres metros de longitud y pesar más de 225 kilogramos, pero se mueve entre la vegetación sin emitir el menor sonido. Sus rayas no son solo un rasgo estético; son una herramienta de supervivencia que desorienta a las presas en un entorno donde ver y no ser visto lo es todo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260728_TigerFamily%22&FORM=HPQUIZ",
+  "hash": "06ff2f01f48129fdc539e911b5c4d6f9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ES-ES8935295288_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260728",
+    "fullStartDateTime": "202607282200",
+    "endDate": "20260729"
+  },
+  "createdAt": "202607290358",
+  "originalUrlBase": "/th?id=OHR.TigerFamily_ES-ES8935295288"
+}
