@@ -1,0 +1,43 @@
+{
+  "date": "30 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "L’amitié, ça s’apprend",
+  "bsTitle": "L’amitié, ça s’apprend",
+  "caption": "Journée internationale de l’amitié",
+  "copyright": "Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)",
+  "copyrightOnly": "© Jeff R Clow/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+internationale+de+l%e2%80%99amiti%c3%a9&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+  "description": "Dans les herbes hautes du bushveld, deux chiots chacals se chamaillent — puis se rapprochent, museau contre oreille, comme pour se confier un secret. Le chacal à chabraque, reconnaissable à son manteau brun-roux et à sa selle sombre sur le dos, est l'un des canidés les plus sociaux de la savane africaine. Ces jeux d'apparence anodine sont en réalité une école : endurance, communication, confiance mutuelle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_WildJackalFriends%22&FORM=HPQUIZ",
+  "hash": "61461be11da200cbc68d9995e5ef1134",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260729",
+    "fullStartDateTime": "202607292200",
+    "endDate": "20260730"
+  },
+  "createdAt": "202607300350",
+  "originalUrlBase": "/th?id=OHR.WildJackalFriends_FR-FR7398331328"
+}

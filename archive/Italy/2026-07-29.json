@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Un paesaggio di storia vivente",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Monument Valley, Nazione Navajo, Arizona, USA (© Westend61/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monument+Valley&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_NavajoNation%22&FORM=HPQUIZ",
+  "hash": "a098c8a12953f38b35c6387b52873c4a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_IT-IT8632328338_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260729",
+    "fullStartDateTime": "202607292200",
+    "endDate": "20260730"
+  },
+  "createdAt": "202607300350",
+  "originalUrlBase": "/th?id=OHR.NavajoNation_IT-IT8632328338"
+}

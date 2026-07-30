@@ -1,0 +1,43 @@
+{
+  "date": "30. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wild und wachsam",
+  "bsTitle": "Wild und wachsam",
+  "caption": "Braunbärenjunges auf einem Felsen, Bayern",
+  "copyright": "Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)",
+  "copyrightOnly": "© Raimund Linke/Getty Images",
+  "copyrightLink": "/search?q=Braunb%c3%a4r+Tier&form=hpcapt&filters=HpDate%3a%2220260729_2200%22",
+  "description": "Der Braunbär ist eines der größten an Land lebenden Raubtiere Europas und ein Symbol für wilde, unberührte Landschaften. Als anpassungsfähiger Allesfresser ernährt er sich von Beeren, Kräutern, Insekten, Aas und gelegentlich größeren Beutetieren. Trotz seiner beeindruckenden Größe meidet er Menschen meist und streift auf der Suche nach Nahrung oft weite Strecken durch Wälder und Gebirge.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_BearBavaria%22&FORM=HPQUIZ",
+  "hash": "3b6cd5eb3dc6cfaca26147f3bf570009",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260729",
+    "fullStartDateTime": "202607292200",
+    "endDate": "20260730"
+  },
+  "createdAt": "202607300350",
+  "originalUrlBase": "/th?id=OHR.BearBavaria_DE-DE3681217161"
+}

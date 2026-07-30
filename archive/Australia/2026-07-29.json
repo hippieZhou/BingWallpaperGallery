@@ -1,0 +1,43 @@
+{
+  "date": "July 29, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Bengal tigers at Ranthambore National Park, Rajasthan, India",
+  "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)",
+  "copyrightOnly": "© Archna Singh/Shutterstock",
+  "copyrightLink": "/search?q=Ranthambore+National+Park&form=hpcapt&filters=HpDate%3a%2220260729_0700%22",
+  "description": "Follow this tiger family through Ranthambore National Park in Rajasthan, India, where every step seems effortless and every shadow could hide a striped giant. These are Bengal tigers, built for both stealth and power: an adult can stretch over 3 metres from nose to tail and weigh up to 230 kilograms, yet walk without making a sound. Their distinctive stripes also play a part in a landscape where visibility is a double-edged sword, helping them blend into tall grasses and dappled forests so prey struggle to spot them.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260729_TigerFamily%22&FORM=HPQUIZ",
+  "hash": "3bf2a1859e71822922e0699d77904932",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260729",
+    "fullStartDateTime": "202607290700",
+    "endDate": "20260730"
+  },
+  "createdAt": "202607300350",
+  "originalUrlBase": "/th?id=OHR.TigerFamily_ROW4948587422"
+}
