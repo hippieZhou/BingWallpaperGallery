@@ -1,0 +1,43 @@
+{
+  "date": "31 juil. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Traverser le temps",
+  "bsTitle": "Traverser le temps",
+  "caption": "Sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis",
+  "copyright": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
+  "copyrightOnly": "© Eifel Kreutz/Getty Images",
+  "copyrightLink": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+  "description": "À Damascus, en Virginie, États-Unis, l’ancienne voie ferrée s’est tue, mais son parcours respire encore. Sur 55 km à travers les Appalaches, le Virginia Creeper Trail suit l’ancienne ligne qui transportait jadis bois et minerai de fer, gravissant des pentes si raides qu’on disait des locomotives qu’elles « grimpaient comme une vigne vierge » — d’où son nom.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+  "hash": "a7d1ba5257b9f9db823e25a7baa400d1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607302200",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.VirginiaTrail_FR-FR7594645617"
+}

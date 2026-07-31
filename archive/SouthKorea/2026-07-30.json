@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monument+Valley&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_NavajoNation%22&FORM=HPQUIZ",
+  "hash": "03e5d37c9c74419f212d13169b04262a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607300700",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.NavajoNation_ROW6898030800"
+}

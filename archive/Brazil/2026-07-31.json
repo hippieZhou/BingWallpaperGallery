@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Dos trilhos às trilhas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_VirginiaTrail%22&FORM=HPQUIZ",
+  "hash": "f9f8f0b0a19a4a715ba02b7037efde82",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260731",
+    "fullStartDateTime": "202607310300",
+    "endDate": "20260801"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.VirginiaTrail_PT-BR9310516852"
+}

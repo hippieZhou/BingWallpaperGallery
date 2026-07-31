@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "穿越时光的足迹",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%bc%97%e5%90%89%e5%b0%bc%e4%ba%9a%e7%88%ac%e5%b1%b1%e8%99%8e%e6%ad%a5%e9%81%93&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+  "hash": "60750f8b6dc2e76b7384ab59cb824277",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607301600",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.VirginiaTrail_ZH-CN2299501599"
+}

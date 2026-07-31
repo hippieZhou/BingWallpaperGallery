@@ -1,0 +1,43 @@
+{
+  "date": "31. Juli. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Eine Reise durch die Zeit",
+  "bsTitle": "Eine Reise durch die Zeit",
+  "caption": "Virginia Creeper Trail, Damascus, Virginia, USA",
+  "copyright": "Luftaufnahme des Virginia Creeper Trail in Damascus, Virginia, USA (© Eifel Kreutz/Getty Images)",
+  "copyrightOnly": "© Eifel Kreutz/Getty Images",
+  "copyrightLink": "/search?q=Virginia+Creeper+Trail+Wanderung+Informationen&form=hpcapt&filters=HpDate%3a%2220260730_2200%22",
+  "description": "Aus der Luft zeigt sich der Virginia Creeper Trail als grünes Band, das sich durch die bewaldeten Landschaften im Südwesten des US-Bundesstaates Virginia schlängelt. Die heute beliebte Freizeitroute verläuft auf einer ehemaligen Eisenbahnstrecke, die einst für den Transport von Holz und Eisenerz durch die Appalachen genutzt wurde. Ihren ungewöhnlichen Namen verdankt die Strecke den Dampflokomotiven, die zu Beginn des 20. Jahrhunderts die steilen Anstiege nur langsam bewältigen konnten. Auf einer Länge von rund 55 Kilometern verbindet der Weg reizvolle Natur mit einem Stück regionaler Geschichte und bietet immer wieder weite Ausblicke auf Berge, Täler und Flüsse in den Vereinigten Staaten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_VirginiaTrail%22&FORM=HPQUIZ",
+  "hash": "2d671878986f27c02c367500d5eaf9c1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_DE-DE3922991438_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607302200",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.VirginiaTrail_DE-DE3922991438"
+}

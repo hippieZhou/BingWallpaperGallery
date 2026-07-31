@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Le isole segrete della Sicilia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Cielo colorato al tramonto sopra barche a vela ormeggiate, Isole Eolie, Messina, Sicilia, Italia (© Paolo Graziosi/E+/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Isole+Eolie&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_IsoleEolie%22&FORM=HPQUIZ",
+  "hash": "32729804b0e3c2e8ac3712ed0c72bcb2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607302200",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.IsoleEolie_IT-IT8736401041"
+}

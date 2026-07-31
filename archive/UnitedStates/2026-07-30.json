@@ -1,0 +1,43 @@
+{
+  "date": "Jul 30, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A landscape of living heritage",
+  "bsTitle": "A landscape of living heritage",
+  "caption": "Monument Valley, Navajo Nation, Arizona",
+  "copyright": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)",
+  "copyrightOnly": "© Westend61/Adobe Stock",
+  "copyrightLink": "/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260730_0700%22",
+  "description": "Some landscapes are famous. Monument Valley is legendary. Straddling the Arizona–Utah border within the Navajo Nation, this desert wonder is shaped by towering sandstone buttes that rise as much as 1,000 feet above the valley floor. Known in Navajo as Tsé Bii' Ndzisgaii—'valley of the rocks'—the region blends dramatic geology with living culture.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260730_NavajoNation%22&FORM=HPQUIZ",
+  "hash": "53c8dc5680016f6d76014335ab38848d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260730",
+    "fullStartDateTime": "202607300700",
+    "endDate": "20260731"
+  },
+  "createdAt": "202607310416",
+  "originalUrlBase": "/th?id=OHR.NavajoNation_EN-US6947714656"
+}
