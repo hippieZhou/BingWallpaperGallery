@@ -1,0 +1,43 @@
+{
+  "date": "1 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Pasadizo a plena luz",
+  "bsTitle": "Pasadizo a plena luz",
+  "caption": "Arco de Santa Catalina, Antigua Guatemala, Guatemala",
+  "copyright": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+  "copyrightOnly": "© Filippo Maria Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+  "description": "El Arco de Santa Catalina, en Antigua Guatemala, no fue concebido para deslumbrar a nadie: nació en 1693 como solución discreta a un dilema conventual. Las monjas de clausura necesitaban cruzar la calle para pasar de un edificio a otro sin ser vistas desde el exterior, y este puente cubierto fue la respuesta. La privacidad, no el espectáculo, creó uno de los monumentos coloniales más fotografiados de Centroamérica. La ironía tiene buena memoria.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_SantaCatalina%22&FORM=HPQUIZ",
+  "hash": "5ef27bd95c8038fcd3875687a8214488",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260731",
+    "fullStartDateTime": "202607312200",
+    "endDate": "20260801"
+  },
+  "createdAt": "202608010416",
+  "originalUrlBase": "/th?id=OHR.SantaCatalina_ES-ES2186596110"
+}

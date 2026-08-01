@@ -1,0 +1,43 @@
+{
+  "date": "Jul 31, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Trailing through time",
+  "bsTitle": "Trailing through time",
+  "caption": "Virginia Creeper Trail, Damascus, Virginia",
+  "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)",
+  "copyrightOnly": "© Eifel Kreutz/Getty Images",
+  "copyrightLink": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260731_0700%22",
+  "description": "Some railways retire. The Virginia Creeper Trail simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that labored up steep grades in the early 1900s.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_VirginiaTrail%22&FORM=HPQUIZ",
+  "hash": "63c379b1c3d7476e8a34692d93f0c1f7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260731",
+    "fullStartDateTime": "202607310700",
+    "endDate": "20260801"
+  },
+  "createdAt": "202608010416",
+  "originalUrlBase": "/th?id=OHR.VirginiaTrail_EN-US9403114082"
+}

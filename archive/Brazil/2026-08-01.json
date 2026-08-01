@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "A arte de desfilar histórias",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ornamentos, cores e detalhes do Maracatu Rural, Pernambuco (© FerreiraSilva/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+maracatu&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_Maracatu%22&FORM=HPQUIZ",
+  "hash": "611f243f6a50a945874bd72b9bf1589e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Maracatu_PT-BR9312687500_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Maracatu_PT-BR9312687500_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Maracatu_PT-BR9312687500_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Maracatu_PT-BR9312687500_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608010300",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608010416",
+  "originalUrlBase": "/th?id=OHR.Maracatu_PT-BR9312687500"
+}

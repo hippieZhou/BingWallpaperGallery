@@ -1,0 +1,43 @@
+{
+  "date": "1 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Debout face aux vagues",
+  "bsTitle": "Debout face aux vagues",
+  "caption": "Stacks près de Wilson Creek Beach, Californie, États-Unis",
+  "copyright": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)",
+  "copyrightOnly": "© benedek/Getty Images",
+  "copyrightLink": "/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22",
+  "description": "Au large de la côte nord de la Californie, aux États-Unis, les vagues glissent en silence autour de hautes tours de roche sombre dressées face au large. Séparés du continent, ces empilements rocheux se parent d’une lumière changeante, tour à tour adoucie par le brouillard ou renforcée par l’éclat de l’écume. Depuis la grève, ils semblent à la fois immuables et fragiles, sculptés par des forces toujours à l’œuvre.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_SeaStacks%22&FORM=HPQUIZ",
+  "hash": "f10951ad5b4237f4b55cdec010a91266",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260731",
+    "fullStartDateTime": "202607312200",
+    "endDate": "20260801"
+  },
+  "createdAt": "202608010416",
+  "originalUrlBase": "/th?id=OHR.SeaStacks_FR-FR4057620009"
+}

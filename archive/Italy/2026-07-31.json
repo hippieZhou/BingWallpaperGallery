@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Il potere di Kīlauea",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Una serie di colate laviche si riversa nell'oceano, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260731_HawaiiLava%22&FORM=HPQUIZ",
+  "hash": "c98066b79007df5f9b4a2f2da673f7d3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_IT-IT9255141439_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_IT-IT9255141439_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_IT-IT9255141439_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_IT-IT9255141439_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260731",
+    "fullStartDateTime": "202607312200",
+    "endDate": "20260801"
+  },
+  "createdAt": "202608010416",
+  "originalUrlBase": "/th?id=OHR.HawaiiLava_IT-IT9255141439"
+}
