@@ -1,0 +1,43 @@
+{
+  "date": "Aug 1, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Lava flows spill into the ocean on Big Island, Hawaii",
+  "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+  "copyrightOnly": "© Ken McCurdy/Getty Images",
+  "copyrightLink": "/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260801_0700%22",
+  "description": "Most landscapes change over thousands of years. Volcanoes can reshape them in a matter of hours, and on Hawaii's Big Island, they continue to do just that. Recognising the scientific and natural importance of this ever-changing environment, Hawaii Volcanoes National Park was established in 1916. For more than a century, it has protected more than 1,430 square kilometres of volcanic terrain, native forests and rare wildlife.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HawaiiLava%22&FORM=HPQUIZ",
+  "hash": "10465e917de28efc0bdfb1bcccecdc77",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608010700",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HawaiiLava_ROW7372744216"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Fille de la Baltique",
+  "bsTitle": "Fille de la Baltique",
+  "caption": "Helsinki, Uusimaa, Finlande",
+  "copyright": "Le littoral d'Helsinki pendant l'heure bleue, Uusimaa, Finlande (© Miemo Penttinen/Getty Images)",
+  "copyrightOnly": "© Miemo Penttinen/Getty Images",
+  "copyrightLink": "/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+  "description": "Il est un moment, entre chien et loup, où Helsinki retient son souffle. Le ciel vire à l’indigo, les eaux de la Baltique s’apaisent, et la ville se reflète dans un calme presque irréel. C’est l’heure bleue — fugace, envoûtante.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+  "hash": "4f81ca9e59e99d396a372d16f91fed84",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608012200",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HelsinkiBlue_FR-FR8717266334"
+}

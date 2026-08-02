@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Figlia del Baltico",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "La costa di Helsinki durante l'ora blu, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Helsinki&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+  "hash": "d7d78fae340595f466a27eb23bb0f7f9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_IT-IT9429337121_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608012200",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HelsinkiBlue_IT-IT9429337121"
+}

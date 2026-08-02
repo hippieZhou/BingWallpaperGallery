@@ -1,0 +1,43 @@
+{
+  "date": "2. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Tochter der Ostsee",
+  "bsTitle": "Tochter der Ostsee",
+  "caption": "Helsinki, Uusimaa, Finnland",
+  "copyright": "Helsinkis Küste zur blauen Stunde, Uusimaa, Finnland (© Miemo Penttinen/Getty Images)",
+  "copyrightOnly": "© Miemo Penttinen/Getty Images",
+  "copyrightLink": "/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+  "description": "Helsinki, die Hauptstadt Finnlands, verbindet Geschichte, Design und die Nähe zur Ostsee auf einzigartige Weise. Die Stadt wurde 1550 von Gustav I. von Schweden gegründet und ist seit 1812 die Hauptstadt des Landes. Entlang der Küste prägen elegante Gebäude, lebendige Hafenviertel und die ruhige Weite des Meeres das Stadtbild. Zur blauen Stunde spiegeln sich die letzten Farben des Tages im Wasser, während die Lichter der Stadt allmählich aufleuchten und eine besondere Atmosphäre schaffen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+  "hash": "056d75c4d3711ddee0b0fe073d0cde47",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608012200",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HelsinkiBlue_DE-DE4461850043"
+}

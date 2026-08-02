@@ -1,0 +1,43 @@
+{
+  "date": "2 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Hija del Báltico",
+  "bsTitle": "Hija del Báltico",
+  "caption": "Helsinki, Uusimaa, Finlandia",
+  "copyright": "La costa de Helsinki durante la hora azul, Uusimaa, Finlandia (© Miemo Penttinen/Getty Images)",
+  "copyrightOnly": "© Miemo Penttinen/Getty Images",
+  "copyrightLink": "/search?q=Helsinki&form=hpcapt&filters=HpDate%3a%2220260801_2200%22",
+  "description": "Helsinki, la vibrante capital de Finlandia, es una ciudad donde el mar, la historia y el diseño conviven en perfecta armonía. Fundada en 1550 por el rey Gustavo I de Suecia, no alcanzó su papel de capital hasta 1812, aunque el tiempo no ha hecho más que pulir su carácter.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+  "hash": "e329694f2a9b23b995bb0993933cd757",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ES-ES3341783633_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608012200",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HelsinkiBlue_ES-ES3341783633"
+}

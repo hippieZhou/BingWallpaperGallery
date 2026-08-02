@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "色彩鲜艳的船只，历久弥新的传统",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e9%a9%ac%e5%b0%94%e8%90%a8%e4%bb%80%e6%b4%9b%e5%85%8b&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260801_HelsinkiBlue%22&FORM=HPQUIZ",
+  "hash": "58ac11ebbc0e79cfb9dc32db1fce6a85",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260801",
+    "fullStartDateTime": "202608011600",
+    "endDate": "20260802"
+  },
+  "createdAt": "202608020419",
+  "originalUrlBase": "/th?id=OHR.HelsinkiBlue_ZH-CN3961551568"
+}
