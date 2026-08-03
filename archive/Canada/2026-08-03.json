@@ -1,0 +1,43 @@
+{
+  "date": "Aug 3, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Bright boats, timeless traditions",
+  "bsTitle": "Bright boats, timeless traditions",
+  "caption": "Colourful boats in Marsaxlokk Harbour, Malta",
+  "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+  "copyrightOnly": "© Klubovy/Getty Images",
+  "copyrightLink": "/search?q=Marsaxlokk+Malta&form=hpcapt&filters=HpDate%3a%2220260803_0400%22",
+  "description": "Colourful luzzus—traditional Maltese fishing boats—fill the sheltered harbour of Marsaxlokk, a village on Malta's southeastern coast. Just a short drive from Valletta, the island's capital, it remains one of the country's main fishing hubs, where daily life follows the steady pace of the sea. Home to roughly 4,000 residents, the village is also widely known for its lively waterfront, especially its popular Sunday fish market, and for the steady return of boats carrying fresh catches each morning.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260803_BoatsMalta%22&FORM=HPQUIZ",
+  "hash": "480a9d901d013cb0319390fad35398f6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-CA2874745568_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260803",
+    "fullStartDateTime": "202608030400",
+    "endDate": "20260804"
+  },
+  "createdAt": "202608030424",
+  "originalUrlBase": "/th?id=OHR.BoatsMalta_EN-CA2874745568"
+}
