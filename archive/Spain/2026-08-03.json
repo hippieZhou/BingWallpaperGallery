@@ -1,0 +1,43 @@
+{
+  "date": "4 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Buu-Hoo!",
+  "bsTitle": "¡Buu-Hoo!",
+  "caption": "Día Internacional del Búho",
+  "copyright": "Lechucita de las vizcacheras, Cape Coral, Florida, EE. UU. (© mlorenzphotography/Getty Images)",
+  "copyrightOnly": "© mlorenzphotography/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+Internacional+del+B%c3%baho&form=hpcapt&filters=HpDate%3a%2220260803_2200%22",
+  "description": "Este martes, 4 de agosto, el Día Internacional de la Concienciación sobre los Búhos pone el foco en unas aves que llevan milenios fascinando a la humanidad. Presentes en todos los continentes salvo la Antártida, los búhos han desarrollado adaptaciones sorprendentes: ojos frontales fijos en sus cuencas, discos faciales que funcionan como antenas parabólicas y plumas de bordes suaves que les permiten volar en silencio absoluto.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260803_AdorableOwlet%22&FORM=HPQUIZ",
+  "hash": "01977ce9ee83ce0c656a4fcee0775ea1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ES-ES3577552692_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ES-ES3577552692_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ES-ES3577552692_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ES-ES3577552692_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260803",
+    "fullStartDateTime": "202608032200",
+    "endDate": "20260804"
+  },
+  "createdAt": "202608040358",
+  "originalUrlBase": "/th?id=OHR.AdorableOwlet_ES-ES3577552692"
+}

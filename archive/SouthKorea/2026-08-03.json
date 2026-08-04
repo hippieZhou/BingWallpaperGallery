@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Marsaxlokk+Malta&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260803_BoatsMalta%22&FORM=HPQUIZ",
+  "hash": "354a1eee36c5c25d3eb845f4712e0332",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260803",
+    "fullStartDateTime": "202608030700",
+    "endDate": "20260804"
+  },
+  "createdAt": "202608040358",
+  "originalUrlBase": "/th?id=OHR.BoatsMalta_ROW6191359643"
+}
