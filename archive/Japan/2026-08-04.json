@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 5 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "宮殿の門",
+  "bsTitle": "宮殿の門",
+  "caption": "宮殿の門",
+  "copyright": "フェズ王宮, モロッコ (© cgst26/Shutterstock)",
+  "copyrightOnly": "© cgst26/Shutterstock",
+  "copyrightLink": "/search?q=%e3%83%95%e3%82%a7%e3%82%ba%e7%8e%8b%e5%ae%ae&form=hpcapt&filters=HpDate%3a%2220260804_1500%22",
+  "description": "モロッコの古都フェズにある王宮「ダル・アル・マフゼン」は、13 世紀に建設された歴史ある宮殿です。写真に映る宮殿の門は、精巧な真鍮細工と色鮮やかな幾何学模様のタイルで彩られ、モロッコ建築の美しさを象徴しています。現在も王族の居住地として使用されているため、内部は一般公開されていませんが、この壮麗な門の前には近づくことができるため、長い歴史と王室文化の重みを間近に感じることができます。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+  "hash": "2dac29051b6c6af2bbcaaea8270a1a3e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608041500",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.FezMorocco_JA-JP7567982886"
+}

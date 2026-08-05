@@ -1,0 +1,43 @@
+{
+  "date": "Aug 4, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Hoot hoot hooray!",
+  "bsTitle": "Hoot hoot hooray!",
+  "caption": "International Owl Awareness Day",
+  "copyright": "Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)",
+  "copyrightOnly": "© mlorenzphotography/Getty Images",
+  "copyrightLink": "/search?q=Owl+bird&form=hpcapt&filters=HpDate%3a%2220260804_0700%22",
+  "description": "Owls take center stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound, and specialized hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_AdorableOwlet%22&FORM=HPQUIZ",
+  "hash": "8dc72420c66f1d5613cfceb68472a470",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608040700",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.AdorableOwlet_EN-US7873975586"
+}

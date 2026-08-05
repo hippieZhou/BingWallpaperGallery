@@ -1,0 +1,43 @@
+{
+  "date": "5 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Les portes d'un royaume caché",
+  "bsTitle": "Les portes d'un royaume caché",
+  "caption": "Porte décorée du Palais Royal de Fès, Maroc",
+  "copyright": "Porte décorée du Palais Royal de Fès, Maroc (© cgst26/Shutterstock)",
+  "copyrightOnly": "© cgst26/Shutterstock",
+  "copyrightLink": "/search?q=Palais+royal+de+F%c3%a8s&form=hpcapt&filters=HpDate%3a%2220260804_2200%22",
+  "description": "Il y a des portes qui ne s’ouvrent pas — et qui n’en disent que plus. À Fès, au Maroc, sur la place des Alaouites, sept vantaux de laiton doré dominent l’espace par leur hauteur et leur éclat. Zelliges géométriques, arches sculptées dans le cèdre, symétries minutieuses : l’artisanat marocain atteint ici une forme d’absolu. Derrière ces murs, le Dar al‑Makhzen, palais royal depuis le XIIIᵉ siècle, abrite encore jardins, mosquées et résidences en activité.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+  "hash": "263c591c89edae45210292a74a009819",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608042200",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.FezMorocco_FR-FR8577168535"
+}

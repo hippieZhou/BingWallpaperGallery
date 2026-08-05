@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Burrowing+owl&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_AdorableOwlet%22&FORM=HPQUIZ",
+  "hash": "a99c70d27360e365fdf93be093069f59",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608040700",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.AdorableOwlet_ROW6516155898"
+}

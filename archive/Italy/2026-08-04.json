@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Porte di un regno nascosto",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Porta decorata del Palazzo Reale di Fès, Marocco (© cgst26/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Palazzo+Reale+di+F%c3%a8s+Marocco&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+  "hash": "1c0f8a5a1f30b8e4151771b841ce306c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_IT-IT9988975389_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608042200",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.FezMorocco_IT-IT9988975389"
+}

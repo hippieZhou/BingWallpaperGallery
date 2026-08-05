@@ -1,0 +1,43 @@
+{
+  "date": "5 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Puertas de un reino oculto",
+  "bsTitle": "Puertas de un reino oculto",
+  "caption": "Puerta decorada del Palacio Real de Fez, Marruecos",
+  "copyright": "Puerta decorada del Palacio Real de Fez, Marruecos (© cgst26/Shutterstock)",
+  "copyrightOnly": "© cgst26/Shutterstock",
+  "copyrightLink": "/search?q=Palacio+Real+de+Fez&form=hpcapt&filters=HpDate%3a%2220260804_2200%22",
+  "description": "Desde el siglo XIII, el Palacio Real de Fez, conocido como Dar al-Makhzen, ha sido uno de los principales símbolos de la monarquía marroquí. Situado en la zona de Fez el-Jdid, la ciudad real fundada en el siglo XIII, este extenso recinto amurallado alberga jardines, patios, mezquitas y residencias que el rey de Marruecos sigue utilizando en la actualidad.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260804_FezMorocco%22&FORM=HPQUIZ",
+  "hash": "1dd602f0a236d44f82b5a961a6465987",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ES-ES3693583012_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260804",
+    "fullStartDateTime": "202608042200",
+    "endDate": "20260805"
+  },
+  "createdAt": "202608050353",
+  "originalUrlBase": "/th?id=OHR.FezMorocco_ES-ES3693583012"
+}
