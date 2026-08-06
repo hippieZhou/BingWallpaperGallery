@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "生死渡口，勇者的史诗",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e8%a7%92%e9%a9%ac&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+  "hash": "1ca04759f20874cbd7d3dcd91be4b3a8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260805",
+    "fullStartDateTime": "202608051600",
+    "endDate": "20260806"
+  },
+  "createdAt": "202608060358",
+  "originalUrlBase": "/th?id=OHR.MaraCrossing_ZH-CN8816902094"
+}

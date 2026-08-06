@@ -1,0 +1,43 @@
+{
+  "date": "6. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Mutprobe am Fluss",
+  "bsTitle": "Mutprobe am Fluss",
+  "caption": "Gnus überqueren den Mara-Fluss in der Masai Mara, Kenia",
+  "copyright": "Gnuherden überqueren den Mara-Fluss in der Masai Mara, Kenia (© Manoj Shah/Getty Images)",
+  "copyrightOnly": "© Manoj Shah/Getty Images",
+  "copyrightLink": "/search?q=Gnus&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+  "description": "Im Masai-Mara-Nationalreservat in Kenia zeigt sich jedes Jahr eines der faszinierendsten Naturschauspiele Afrikas. Mehr als eine Million Gnus folgen dem Rhythmus der Regenzeiten, um nährstoffreiches Gras und Wasser zu finden. Die ausdauernden Pflanzenfresser legen dabei weite Strecken durch die Savanne zurück und bilden Herden, die sich oft bis zum Horizont erstrecken. Ein zentrales Ereignis dieser Reise ist die Flussüberquerung. Am Mara-Fluss sammeln sich die Tiere oft lange, prüfen die Situation – und wagen erst im richtigen Moment den Sprung. Wird dieser ausgelöst, setzt eine Kettenreaktion ein: Tausende Gnus drängen gleichzeitig vorwärts und durchqueren das Wasser in wenigen Minuten.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+  "hash": "ef7f2eba75d1c7ba89f0e7d4afecde24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260805",
+    "fullStartDateTime": "202608052200",
+    "endDate": "20260806"
+  },
+  "createdAt": "202608060358",
+  "originalUrlBase": "/th?id=OHR.MaraCrossing_DE-DE5747320047"
+}

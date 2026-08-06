@@ -1,0 +1,43 @@
+{
+  "date": "Aug 5, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Decorated gate of the Royal Palace of Fez, Morocco",
+  "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)",
+  "copyrightOnly": "© cgst26/Shutterstock",
+  "copyrightLink": "/search?q=Royal+Palace+of+Fez&form=hpcapt&filters=HpDate%3a%2220260805_0700%22",
+  "description": "In Fez, Morocco, the Royal Palace—known as Dar al-Makhzen—has stood as a seat of power since the 13th century, when Morocco's rulers established a fortified royal city around it. Behind its high walls lie gardens, courtyards, mosques and royal residences spread across a vast complex still used by the king today, making it both historic and fully active.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_FezMorocco%22&FORM=HPQUIZ",
+  "hash": "e33d96debe874298202bf3ffcff5f7ad",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260805",
+    "fullStartDateTime": "202608050700",
+    "endDate": "20260806"
+  },
+  "createdAt": "202608060358",
+  "originalUrlBase": "/th?id=OHR.FezMorocco_ROW6564333571"
+}

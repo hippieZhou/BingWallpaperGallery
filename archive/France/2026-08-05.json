@@ -1,0 +1,43 @@
+{
+  "date": "6 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "La traversée du courage",
+  "bsTitle": "La traversée du courage",
+  "caption": "Gnous migrateurs traversant la rivière Mara, Kenya",
+  "copyright": "Gnous migrateurs traversant la rivière Mara dans la réserve de Masai Mara, au Kenya (© Manoj Shah/Getty Images)",
+  "copyrightOnly": "© Manoj Shah/Getty Images",
+  "copyrightLink": "/search?q=gnou&form=hpcapt&filters=HpDate%3a%2220260805_2200%22",
+  "description": "Le sol tremble avant même qu’on les voie. Dans le Masai Mara, au Kenya, plus d’un million de gnous convergent vers la rivière Mara, guidés par un instinct ancien, inscrit dans l’espèce. Sur la berge, le troupeau s’accumule, hésite, puis bascule. En quelques secondes, des milliers de corps plongent dans les eaux brunes et rapides dans un fracas de cornes, de sabots et d’éclaboussures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260805_MaraCrossing%22&FORM=HPQUIZ",
+  "hash": "7bacb16f7f1aee30baa2bdf31f828b84",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260805",
+    "fullStartDateTime": "202608052200",
+    "endDate": "20260806"
+  },
+  "createdAt": "202608060358",
+  "originalUrlBase": "/th?id=OHR.MaraCrossing_FR-FR8762325537"
+}
