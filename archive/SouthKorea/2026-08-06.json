@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Wildebeest&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_MaraCrossing%22&FORM=HPQUIZ",
+  "hash": "56892527bc5baa3aa3f4371fbe8ebdc4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260806",
+    "fullStartDateTime": "202608060700",
+    "endDate": "20260807"
+  },
+  "createdAt": "202608070343",
+  "originalUrlBase": "/th?id=OHR.MaraCrossing_ROW6582779125"
+}

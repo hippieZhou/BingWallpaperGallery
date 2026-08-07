@@ -1,0 +1,43 @@
+{
+  "date": "7 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Tracé pour la nature",
+  "bsTitle": "Tracé pour la nature",
+  "caption": "Un écopont près de Zakrzów, Pologne",
+  "copyright": "Vue aérienne d’un écoduc près de Zakrzów, Pologne (© bbsferrari/Getty Images)",
+  "copyrightOnly": "© bbsferrari/Getty Images",
+  "copyrightLink": "/search?q=%c3%a9copont+faune&form=hpcapt&filters=HpDate%3a%2220260806_2200%22",
+  "description": "Les routes ont transformé notre rapport aux distances, rapprochant les villes et accélérant notre rythme de vie. Mais sous ce progrès, une fragmentation s’est installée dans les paysages. Les forêts, prairies et montagnes, autrefois continues, se sont retrouvées morcelées, les sentiers rompus. Cerfs, renards et ours ont continué d’emprunter ces routes invisibles, croisant désormais l’asphalte et le danger. Collisions, isolement génétique, disparition silencieuse : les conséquences se sont accumulées au fil des décennies.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+  "hash": "219018e5f8c036e318640e714e4471b2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260806",
+    "fullStartDateTime": "202608062200",
+    "endDate": "20260807"
+  },
+  "createdAt": "202608070343",
+  "originalUrlBase": "/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013"
+}

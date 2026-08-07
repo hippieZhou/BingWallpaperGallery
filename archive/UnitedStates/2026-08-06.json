@@ -1,0 +1,43 @@
+{
+  "date": "Aug 6, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where the river tests the brave",
+  "bsTitle": "Where the river tests the brave",
+  "caption": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+  "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)",
+  "copyrightOnly": "© Manoj Shah/Getty Images",
+  "copyrightLink": "/search?q=wildebeest&form=hpcapt&filters=HpDate%3a%2220260806_0700%22",
+  "description": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_MaraCrossing%22&FORM=HPQUIZ",
+  "hash": "3021ee47f0fca34f0ea1888abc1b26e3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260806",
+    "fullStartDateTime": "202608060700",
+    "endDate": "20260807"
+  },
+  "createdAt": "202608070343",
+  "originalUrlBase": "/th?id=OHR.MaraCrossing_EN-US8682968377"
+}

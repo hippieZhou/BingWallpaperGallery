@@ -1,0 +1,43 @@
+{
+  "date": "Aug 7, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Up, up and hooray!",
+  "bsTitle": "Up, up and hooray!",
+  "caption": "Bristol International Balloon Fiesta",
+  "copyright": "Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)",
+  "copyrightOnly": "© Rich Jones Photography/Moment/Getty Images",
+  "copyrightLink": "/search?q=Bristol+International+Balloon+Fiesta&form=hpcapt&filters=HpDate%3a%2220260806_2300%22",
+  "description": "It all started with an idea shared over a pint. Today, that conversation has grown into Europe's largest annual hot air balloon festival. Every summer, the Bristol International Balloon Fiesta fills the skies above Ashton Court Estate with more than 100 colourful balloons, attracting over half a million visitors.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_BristolBalloonFiesta2026%22&FORM=HPQUIZ",
+  "hash": "400cfb3bfb2da2bb92c62427d7a3a7ab",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260806",
+    "fullStartDateTime": "202608062300",
+    "endDate": "20260807"
+  },
+  "createdAt": "202608070343",
+  "originalUrlBase": "/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643"
+}

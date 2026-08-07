@@ -1,0 +1,43 @@
+{
+  "date": "Aug 6, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Meet me on the hill",
+  "bsTitle": "Meet me on the hill",
+  "caption": "Edmonton Folk Festival",
+  "copyright": "Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)",
+  "copyrightOnly": "© Tetyana Babiy/iStock/Getty Images",
+  "copyrightLink": "/search?q=Edmonton+Folk+Festival&form=hpcapt&filters=HpDate%3a%2220260806_0400%22",
+  "description": "The best seats don't have seat numbers. They start with a blanket spread out on the hill and someone nearby trying to guess the first song of the evening while sharing snacks. Sound familiar? It must be Folk Fest. From today until 9 August, Gallagher Park once again becomes a gathering place for Edmonton music lovers. What keeps people coming back year after year? It's rarely just one artist. Across the festival's stages, musicians perform solo sets, then join others for workshop sessions that create one-off collaborations.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260806_EDMFolkFest%22&FORM=HPQUIZ",
+  "hash": "790e019852141da17545c7083f2c734e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260806",
+    "fullStartDateTime": "202608060400",
+    "endDate": "20260807"
+  },
+  "createdAt": "202608070343",
+  "originalUrlBase": "/th?id=OHR.EDMFolkFest_EN-CA4302918547"
+}
