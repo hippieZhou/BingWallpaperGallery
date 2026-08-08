@@ -1,0 +1,43 @@
+{
+  "date": "Aug 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Guiding ships through history",
+  "bsTitle": "Guiding ships through history",
+  "caption": "National Lighthouse Day",
+  "copyright": "Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)",
+  "copyrightOnly": "© Edmund Lowe Photography/Shutterstock",
+  "copyrightLink": "/search?q=National+Lighthouse+Day&form=hpcapt&filters=HpDate%3a%2220260807_0700%22",
+  "description": "Every August 7, National Lighthouse Day shines a light on the beacons that have guided ships safely along America's coasts for centuries. The date commemorates the Lighthouse Act of 1789, signed into law by President George Washington.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_LimeKiln%22&FORM=HPQUIZ",
+  "hash": "5becc77210847ca229d4f45832cf3205",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260807",
+    "fullStartDateTime": "202608070700",
+    "endDate": "20260808"
+  },
+  "createdAt": "202608080250",
+  "originalUrlBase": "/th?id=OHR.LimeKiln_EN-US2748515593"
+}

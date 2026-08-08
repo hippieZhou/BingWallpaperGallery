@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Attraversare l'infinito",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ponte dell'Infinito a Stockton-on-Tees, Inghilterra (© Bahadir Yeniceri/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Stockton-on-Tees&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_StocktonInfinity%22&FORM=HPQUIZ",
+  "hash": "12c700af1297d50378a24718bbc53c3f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_IT-IT2789649837_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260807",
+    "fullStartDateTime": "202608072200",
+    "endDate": "20260808"
+  },
+  "createdAt": "202608080250",
+  "originalUrlBase": "/th?id=OHR.StocktonInfinity_IT-IT2789649837"
+}

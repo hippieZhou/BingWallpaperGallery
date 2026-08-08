@@ -1,0 +1,43 @@
+{
+  "date": "8. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Feuerzauber über dem Rhein",
+  "bsTitle": "Feuerzauber über dem Rhein",
+  "caption": "Rhein in Flammen",
+  "copyright": "Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)",
+  "copyrightOnly": "© Jule_Berlin/Shutterstock",
+  "copyrightLink": "/search?q=Rhein+in+Flammen&form=hpcapt&filters=HpDate%3a%2220260807_2200%22",
+  "description": "Wenn über dem Rhein die ersten Feuerwerksfarben aufleuchten, beginnt eines der bekanntesten Sommerereignisse Deutschlands. Bei „Rhein in Flammen“ verwandeln sich Burgen, Weinorte und Uferlandschaften entlang des Mittelrheins in eine Kulisse aus Licht und Farbe. Heute richtet sich der Blick auf die Region rund um Koblenz. Hier zieht ein festlich beleuchteter Schiffskonvoi den Fluss entlang, begleitet von mehreren Feuerwerken, deren Farben sich im Wasser spiegeln. Zwischen Spay, Braubach, Rhens und Koblenz werden Burgen und Rheinufer illuminiert, bevor das große Abschlussfeuerwerk den Höhepunkt des Abends bildet.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_RhineFlames%22&FORM=HPQUIZ",
+  "hash": "ff535d95b0153e13c97c64aecf600c01",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260807",
+    "fullStartDateTime": "202608072200",
+    "endDate": "20260808"
+  },
+  "createdAt": "202608080250",
+  "originalUrlBase": "/th?id=OHR.RhineFlames_DE-DE7527393403"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "迈向无限",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%9b%bd%e9%99%85%e6%97%a0%e9%99%90%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260807_StocktonInfinity%22&FORM=HPQUIZ",
+  "hash": "5a41c3c666cdf4a74055fa03598ad720",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260807",
+    "fullStartDateTime": "202608071600",
+    "endDate": "20260808"
+  },
+  "createdAt": "202608080250",
+  "originalUrlBase": "/th?id=OHR.StocktonInfinity_ZH-CN5941379745"
+}
