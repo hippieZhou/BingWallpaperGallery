@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma obra sem começo nem fim",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Infinity Bridge, Stockton-on-Tees, Inglaterra (© Bahadir Yeniceri/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=o+infinito&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_StocktonInfinity%22&FORM=HPQUIZ",
+  "hash": "7107bf477ab34db5e9c6d88513ddacfa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_PT-BR1264731427_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260808",
+    "fullStartDateTime": "202608080300",
+    "endDate": "20260809"
+  },
+  "createdAt": "202608090258",
+  "originalUrlBase": "/th?id=OHR.StocktonInfinity_PT-BR1264731427"
+}

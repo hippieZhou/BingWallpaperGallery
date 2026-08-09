@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "身份认同的建筑表达",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e5%9c%9f%e8%91%97%e4%ba%ba%e6%b0%91%e5%9b%bd%e9%99%85%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_JMTjibaou%22&FORM=HPQUIZ",
+  "hash": "989a3bfad9502e5f8318b04220acdb43",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260808",
+    "fullStartDateTime": "202608081600",
+    "endDate": "20260809"
+  },
+  "createdAt": "202608090258",
+  "originalUrlBase": "/th?id=OHR.JMTjibaou_ZH-CN6992670356"
+}

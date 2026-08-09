@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Architettura dell'identità",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Jean-Marie Tjibaou Cultural Centre, Nuova Caledonia (© Fabien Astre/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Giornata+Internazionale+dei+Popoli+Indigeni+del+Mondo&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260808_JMTjibaou%22&FORM=HPQUIZ",
+  "hash": "fcdb52b21d4b448d26ee0b3bdb885676",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_IT-IT2902729380_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260808",
+    "fullStartDateTime": "202608082200",
+    "endDate": "20260809"
+  },
+  "createdAt": "202608090258",
+  "originalUrlBase": "/th?id=OHR.JMTjibaou_IT-IT2902729380"
+}
