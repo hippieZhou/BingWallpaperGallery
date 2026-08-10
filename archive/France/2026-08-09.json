@@ -1,0 +1,43 @@
+{
+  "date": "10 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un point de rencontre aride",
+  "bsTitle": "Un point de rencontre aride",
+  "caption": "Parc national Joshua Tree, Californie, États-Unis",
+  "copyright": "Parc national Joshua Tree, Californie, États-Unis (© JJ Landscapes/Getty Images)",
+  "copyrightOnly": "© JJ Landscapes/Getty Images",
+  "copyrightLink": "/search?q=Parc+national+Joshua+Tree+&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+  "description": "À l’endroit où se rencontrent deux grands déserts du sud de la Californie (États-Unis), le parc national Joshua Tree révèle un paysage spectaculaire façonné par les vents, les contrastes climatiques et les millénaires. Le désert de Mojave, situé en altitude, rejoint le désert du Colorado, plus chaud, créant une remarquable diversité de milieux naturels.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_SandPath%22&FORM=HPQUIZ",
+  "hash": "b5f9d95340618b852310de449802fd44",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260809",
+    "fullStartDateTime": "202608092200",
+    "endDate": "20260810"
+  },
+  "createdAt": "202608100307",
+  "originalUrlBase": "/th?id=OHR.SandPath_FR-FR7702357138"
+}

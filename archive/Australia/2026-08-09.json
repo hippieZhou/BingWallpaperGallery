@@ -1,0 +1,43 @@
+{
+  "date": "Aug 9, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Jean-Marie Tjibaou Cultural Centre, New Caledonia",
+  "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
+  "copyrightOnly": "© Fabien Astre/Alamy",
+  "copyrightLink": "/search?q=Jean+Marie+Tjibaou+Cultural+Centre&form=hpcapt&filters=HpDate%3a%2220260809_0700%22",
+  "description": "At first glance, they look like giant wooden shells rising above the trees. Look a little closer and every curve has a purpose. The Jean-Marie Tjibaou Cultural Centre, which opened in 1998, celebrates the Kanak people, the Indigenous inhabitants of New Caledonia, whose traditions, languages and customs have shaped the archipelago for thousands of years. Italian architect Renzo Piano designed the complex after studying traditional Kanak building techniques, reinterpreting them with laminated timber ribs, steel frames and modern engineering. Rather than copying historic structures, he created a contemporary design inspired by traditional Kanak grandes cases, or ceremonial houses.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_JMTjibaou%22&FORM=HPQUIZ",
+  "hash": "8bdba0c3498f6c1d64f4948204ee9a8e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260809",
+    "fullStartDateTime": "202608090700",
+    "endDate": "20260810"
+  },
+  "createdAt": "202608100307",
+  "originalUrlBase": "/th?id=OHR.JMTjibaou_ROW6533820010"
+}

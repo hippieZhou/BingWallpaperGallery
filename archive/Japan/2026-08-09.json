@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 10 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "静かな水面に映るカラフルな街並み",
+  "bsTitle": "静かな水面に映るカラフルな街並み",
+  "caption": "静かな水面に映るカラフルな街並み",
+  "copyright": "ニューハウン, デンマーク (© emicristea/Getty Images)",
+  "copyrightOnly": "© emicristea/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%8f%e3%82%a6%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220260809_1500%22",
+  "description": "ニューハウンは、デンマークの首都コペンハーゲンにある運河沿いの地区です。カラフルな建物と歴史ある木造船が織りなす風景は、コペンハーゲンを代表する景観として親しまれています。「新港」を意味するこの地域は、デンマーク国王クリスチャン5世の命によって17 世紀に建設され、貿易・商業の中心地として栄えました。現在は、運河沿いにカフェやレストランが並ぶ人気の観光地として知られています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_ColorfulCop%22&FORM=HPQUIZ",
+  "hash": "bac283010d17eb40bae2904f2e7f81e9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260809",
+    "fullStartDateTime": "202608091500",
+    "endDate": "20260810"
+  },
+  "createdAt": "202608100307",
+  "originalUrlBase": "/th?id=OHR.ColorfulCop_JA-JP4331289983"
+}

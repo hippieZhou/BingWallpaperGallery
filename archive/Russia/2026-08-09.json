@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Jean+Marie+Tjibaou+Cultural+Centre&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_JMTjibaou%22&FORM=HPQUIZ",
+  "hash": "8bdba0c3498f6c1d64f4948204ee9a8e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260809",
+    "fullStartDateTime": "202608090700",
+    "endDate": "20260810"
+  },
+  "createdAt": "202608100307",
+  "originalUrlBase": "/th?id=OHR.JMTjibaou_ROW6533820010"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "10 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Donde chocan dos desiertos",
+  "bsTitle": "Donde chocan dos desiertos",
+  "caption": "Parque Nacional Joshua Tree, California, EE. UU.",
+  "copyright": "Parque Nacional Joshua Tree, California, EE. UU. (© JJ Landscapes/Getty Images)",
+  "copyrightOnly": "© JJ Landscapes/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+Joshua+Tree&form=hpcapt&filters=HpDate%3a%2220260809_2200%22",
+  "description": "Donde el desierto de Mojave y el desierto de Colorado se encuentran, el Parque Nacional Joshua Tree, en California, EE. UU., despliega un paisaje de belleza perturbadora: llanuras arenosas salpicadas de yucas de silueta retorcida, bloques de granito esculpidos durante millones de años y un silencio que solo rompen el viento y los buitres. Este territorio —declarado monumento nacional un día como hoy en 1936 y elevado a parque nacional en 1994— abarca unas 320.000 hectáreas de ecosistemas únicos.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260809_SandPath%22&FORM=HPQUIZ",
+  "hash": "c99eccfdb26427fb4700722f003f5659",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_ES-ES7679772396_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_ES-ES7679772396_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_ES-ES7679772396_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SandPath_ES-ES7679772396_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260809",
+    "fullStartDateTime": "202608092200",
+    "endDate": "20260810"
+  },
+  "createdAt": "202608100307",
+  "originalUrlBase": "/th?id=OHR.SandPath_ES-ES7679772396"
+}
