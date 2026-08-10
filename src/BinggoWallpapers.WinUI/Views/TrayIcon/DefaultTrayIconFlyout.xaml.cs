@@ -7,6 +7,7 @@ using BinggoWallpapers.WinUI.Selectors;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using DesktopFlyouts;
+using Microsoft.UI.Xaml;
 
 namespace BinggoWallpapers.WinUI.Views.TrayIcon;
 
@@ -58,6 +59,15 @@ public sealed partial class DefaultTrayIconFlyout : DesktopFlyout
         }
 
         return url;
+    }
+
+    private void OnHome(object sender, RoutedEventArgs e)
+    {
+        if (App.MainWindow.Visible == false)
+        {
+            App.MainWindow.Show();
+            App.MainWindow.Activate();
+        }
     }
 }
 

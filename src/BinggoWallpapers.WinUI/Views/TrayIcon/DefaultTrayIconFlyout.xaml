@@ -11,51 +11,47 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:me="using:DesktopFlyouts"
     xmlns:ui="using:CommunityToolkit.WinUI"
-    Width="360"
-    Height="520"
+    FlyoutHeight="Auto"
+    Placement="BottomRight"
+    PopupDirection="Vertical"
     mc:Ignorable="d">
 
-    <me:DesktopFlyoutIsland>
-        <Grid Height="520" Background="{ThemeResource FlyoutOverlayBackgroundBrush}">
-            <ex:ImageEx
-                EnableLazyLoading="True"
-                IsCacheEnabled="True"
-                Source="{x:Bind local:DefaultTrayIconFlyout.ConvertToMobileResolution(ViewModel.Wallpaper.Url), Mode=OneWay}"
-                Stretch="UniformToFill" />
-            <Grid
-                Margin="24"
-                HorizontalAlignment="Left"
-                VerticalAlignment="Top"
-                Style="{StaticResource CardGridStyle}">
-                <TextBlock
-                    VerticalAlignment="Center"
-                    Style="{StaticResource SubtitleTextBlockStyle}"
-                    Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
-                    TextLineBounds="TrimToCapHeight"
-                    TextWrapping="NoWrap" />
-            </Grid>
-            <StackPanel
-                Margin="24,24,12,24"
-                VerticalAlignment="Bottom"
-                Style="{StaticResource CardPanelStyle}">
-                <TextBlock
-                    x:Name="subtitleText"
-                    Foreground="{ThemeResource TextFillColorSecondaryBrush}"
-                    Style="{StaticResource CaptionTextBlockStyle}"
-                    Text="{x:Bind ViewModel.Wallpaper.Copyright, Mode=OneWay}"
-                    TextTrimming="WordEllipsis">
-                    <ToolTipService.ToolTip>
-                        <ToolTip Visibility="{Binding ElementName=subtitleText, Path=IsTextTrimmed}">
-                            <TextBlock Text="{x:Bind ViewModel.Wallpaper.Copyright, Mode=OneWay}" TextWrapping="Wrap" />
-                        </ToolTip>
-                    </ToolTipService.ToolTip>
-                </TextBlock>
-                <HyperlinkButton
-                    HorizontalAlignment="Right"
-                    Content="{ui:FontIcon FontSize=14,
-                                          Glyph=&#xE8A7;}"
-                    NavigateUri="{x:Bind ViewModel.Wallpaper.CopyrightLink, Mode=OneWay}" />
-            </StackPanel>
+    <me:DesktopFlyoutIsland IslandHeight="Auto">
+        <Grid
+            Width="360"
+            Height="520"
+            Background="{ThemeResource FlyoutOverlayBackgroundBrush}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Background="{ThemeResource FlyoutSeparatorPrimaryBackgroundBrush}">
+                <ex:ImageEx
+                    EnableLazyLoading="True"
+                    IsCacheEnabled="True"
+                    Source="{x:Bind local:DefaultTrayIconFlyout.ConvertToMobileResolution(ViewModel.Wallpaper.Url), Mode=OneWay}"
+                    Stretch="UniformToFill" />
+            </Border>
+            <Border Grid.Row="1" Background="{ThemeResource FlyoutSeparatorSecondaryBackgroundBrush}">
+                <Grid Margin="6">
+                    <TextBlock
+                        MaxWidth="200"
+                        Margin="6,0,0,6"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center"
+                        Style="{StaticResource BodyTextBlockStyle}"
+                        Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
+                        ToolTipService.ToolTip="{x:Bind ViewModel.Wallpaper.Description, Mode=OneWay}" />
+                    <Button
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Click="OnHome"
+                        Content="{ui:FontIcon FontSize=14,
+                                              Glyph=&#xE80F;}"
+                        Style="{StaticResource NavigationViewPaneSearchButtonStyle}" />
+                </Grid>
+            </Border>
         </Grid>
     </me:DesktopFlyoutIsland>
 </me:DesktopFlyout>

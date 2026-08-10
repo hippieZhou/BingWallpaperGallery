@@ -88,7 +88,7 @@ dotnet run --project src/BinggoWallpapers.WinUI
 
 #### 方式二：使用 Visual Studio
 
-1. 打开 `BinggoWallpapers.sln` 解决方案文件
+1. 打开 `BinggoWallpapers.slnx` 解决方案文件
 2. 等待 Visual Studio 自动还原 NuGet 包
 3. 按 `F5` 或点击"开始调试"按钮运行应用
 
