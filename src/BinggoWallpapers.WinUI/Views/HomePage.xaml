@@ -8,6 +8,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:dto="using:BinggoWallpapers.Core.DTOs"
     xmlns:ex="using:ImageEx"
+    xmlns:helpers="using:BinggoWallpapers.WinUI.Helpers"
     xmlns:i="using:Microsoft.Xaml.Interactivity"
     xmlns:labs="using:CommunityToolkit.Labs.WinUI"
     xmlns:local="using:BinggoWallpapers.WinUI.Views"
@@ -29,8 +30,8 @@
     <Grid>
         <GridView
             x:Name="GalleryView"
-            Margin="-12,0,-24,0"
-            Padding="12"
+            Margin="-12,0,0,0"
+            Padding="12,0"
             animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
             animations:Implicit.ShowAnimations="{StaticResource ShowTransitions}"
             animations:ItemsReorderAnimation.Duration="0:0:0.2"
@@ -49,6 +50,9 @@
             ScrollViewer.ZoomMode="Disabled"
             SelectedItem="{x:Bind ViewModel.SelectedWallpaper, Mode=OneWay}"
             SelectionMode="None">
+            <i:Interaction.Behaviors>
+                <helpers:ScrollOffsetVisibilityBehavior TargetButton="{x:Bind UpButton}" Threshold="200" />
+            </i:Interaction.Behaviors>
             <GridView.ItemContainerTransitions>
                 <TransitionCollection>
                     <EntranceThemeTransition FromVerticalOffset="20" IsStaggeringEnabled="True" />
@@ -76,11 +80,73 @@
                     IsLoading="{x:Bind ViewModel.IsLoading, Mode=OneWay}" />
             </GridView.Footer>
         </GridView>
-        <uc:BackToTop
+        <StackPanel
+            Width="52"
             Margin="0,0,32,32"
             HorizontalAlignment="Right"
             VerticalAlignment="Bottom"
-            AutoHiding="True"
-            Target="{Binding ElementName=GalleryView}" />
+            Spacing="4">
+            <StackPanel.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Width" Value="48" />
+                    <Setter Property="Height" Value="48" />
+                    <Setter Property="CornerRadius" Value="24" />
+                    <Setter Property="Shadow">
+                        <Setter.Value>
+                            <ThemeShadow />
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </StackPanel.Resources>
+            <Button x:Name="RefreshButton" Content="{ui:FontIcon Glyph=&#xE895;}">
+                <animations:Implicit.ShowAnimations>
+                    <animations:TranslationAnimation
+                        From="0,40,0"
+                        To="0,0,0"
+                        Duration="0:0:0.6" />
+                    <animations:ScaleAnimation
+                        From="0.6"
+                        To="1"
+                        Duration="0:0:0.6" />
+                    <animations:OpacityAnimation
+                        From="0"
+                        To="1"
+                        Duration="0:0:0.6" />
+                </animations:Implicit.ShowAnimations>
+            </Button>
+            <Button
+                x:Name="UpButton"
+                ui:VisualExtensions.NormalizedCenterPoint="0.5,0.5"
+                Content="{ui:FontIcon Glyph=&#xE96D;}">
+                <animations:Implicit.ShowAnimations>
+                    <animations:TranslationAnimation
+                        From="0,40,0"
+                        To="0,0,0"
+                        Duration="0:0:0.6" />
+                    <animations:ScaleAnimation
+                        From="0.6"
+                        To="1"
+                        Duration="0:0:0.6" />
+                    <animations:OpacityAnimation
+                        From="0"
+                        To="1"
+                        Duration="0:0:0.6" />
+                </animations:Implicit.ShowAnimations>
+                <animations:Implicit.HideAnimations>
+                    <animations:TranslationAnimation
+                        From="0,0,0"
+                        To="0,40,0"
+                        Duration="0:0:0.4" />
+                    <animations:ScaleAnimation
+                        From="1"
+                        To="0.6"
+                        Duration="0:0:0.4" />
+                    <animations:OpacityAnimation
+                        From="1"
+                        To="0"
+                        Duration="0:0:0.4" />
+                </animations:Implicit.HideAnimations>
+            </Button>
+        </StackPanel>
     </Grid>
 </Page>
