@@ -1,0 +1,43 @@
+{
+  "date": "11. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Kopenhagen in voller Farbe",
+  "bsTitle": "Kopenhagen in voller Farbe",
+  "caption": "Nyhavn-Kanal, Kopenhagen, Dänemark",
+  "copyright": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+  "copyrightOnly": "© emicristea/Getty Images",
+  "copyrightLink": "/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+  "description": "Bunte Fassaden spiegeln sich im Wasser des Nyhavn und verleihen einem der bekanntesten Orte Kopenhagens seinen unverwechselbaren Charakter. Entlang des Kanals reihen sich historische Giebelhäuser, deren kräftige Farben selbst an grauen Tagen auffallen. Die Atmosphäre wirkt zugleich lebendig und entspannt und macht das Viertel zu einem beliebten Treffpunkt für Einheimische und Besucher.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_ColorfulCop%22&FORM=HPQUIZ",
+  "hash": "ff3aa3c552259ef469f3a31b65a177ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260810",
+    "fullStartDateTime": "202608102200",
+    "endDate": "20260811"
+  },
+  "createdAt": "202608110300",
+  "originalUrlBase": "/th?id=OHR.ColorfulCop_DE-DE9077062253"
+}

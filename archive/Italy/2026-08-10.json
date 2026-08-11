@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Copenaghen a colori",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Case colorate lungo il Canale di Nyhavn, Copenaghen, Danimarca (© emicristea/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Copenaghen&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260810_ColorfulCop%22&FORM=HPQUIZ",
+  "hash": "6024300a3707ef5e27472c40f272af11",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_IT-IT3126463813_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260810",
+    "fullStartDateTime": "202608102200",
+    "endDate": "20260811"
+  },
+  "createdAt": "202608110300",
+  "originalUrlBase": "/th?id=OHR.ColorfulCop_IT-IT3126463813"
+}
