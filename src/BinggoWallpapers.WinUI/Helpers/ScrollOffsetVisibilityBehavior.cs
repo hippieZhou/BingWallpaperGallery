@@ -45,7 +45,7 @@ public partial class ScrollOffsetVisibilityBehavior : Behavior<FrameworkElement>
 
     private void OnTargetButton(object sender, RoutedEventArgs e)
     {
-        _scrollViewer?.ChangeView(null, 0, null, true);
+        _scrollViewer?.ChangeView(null, 0, null, false);
     }
 
     private void DetachScrollViewer()

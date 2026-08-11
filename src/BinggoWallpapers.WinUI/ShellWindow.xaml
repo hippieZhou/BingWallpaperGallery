@@ -54,12 +54,7 @@
             IsPaneToggleButtonVisible="False"
             IsSettingsVisible="True"
             SelectedItem="{x:Bind ViewModel.Selected, Mode=OneWay}"
-            Style="{StaticResource StoreNavigationViewStyle}">
-            <i:Interaction.Behaviors>
-                <i:EventTriggerBehavior EventName="ItemInvoked">
-                    <i:InvokeCommandAction Command="{x:Bind ViewModel.ItemInvokedCommand}" />
-                </i:EventTriggerBehavior>
-            </i:Interaction.Behaviors>
+            Style="{StaticResource RailNavigationViewStyle}">
             <NavigationView.MenuItems>
                 <NavigationViewItem
                     x:Uid="Shell_Home"
@@ -68,35 +63,6 @@
                     Icon="{ui:FontIcon Glyph=&#xE80F;}"
                     Tag="Gallery" />
             </NavigationView.MenuItems>
-            <NavigationView.FooterMenuItems>
-                <NavigationViewItem
-                    x:Uid="Shell_Refresh"
-                    d:Content="刷新"
-                    SelectsOnInvoked="False"
-                    Tag="Refresh">
-                    <NavigationViewItem.Icon>
-                        <FontIcon
-                            ui:VisualExtensions.NormalizedCenterPoint="0.5,0.5"
-                            FontSize="16"
-                            Glyph="&#xE895;">
-                            <i:Interaction.Behaviors>
-                                <i:DataTriggerBehavior
-                                    Binding="{x:Bind ViewModel.RefreshCommand.IsRunning, Mode=OneWay}"
-                                    ComparisonCondition="Equal"
-                                    Value="True">
-                                    <behaviors:StartAnimationAction Animation="{StaticResource RotationAnimation}" />
-                                </i:DataTriggerBehavior>
-                                <i:DataTriggerBehavior
-                                    Binding="{x:Bind ViewModel.RefreshCommand.IsRunning, Mode=OneWay}"
-                                    ComparisonCondition="Equal"
-                                    Value="False">
-                                    <behaviors:StopAnimationAction Animation="{StaticResource RotationAnimation}" />
-                                </i:DataTriggerBehavior>
-                            </i:Interaction.Behaviors>
-                        </FontIcon>
-                    </NavigationViewItem.Icon>
-                </NavigationViewItem>
-            </NavigationView.FooterMenuItems>
             <NavigationView.Content>
                 <Grid>
                     <Frame x:Name="NavFrame" />

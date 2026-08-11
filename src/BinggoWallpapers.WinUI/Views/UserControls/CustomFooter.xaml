@@ -6,10 +6,7 @@
     xmlns:animations="using:CommunityToolkit.WinUI.Animations"
     xmlns:controls="using:CommunityToolkit.WinUI.Controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-    xmlns:helpers="using:BinggoWallpapers.WinUI.Helpers"
-    xmlns:local="using:BinggoWallpapers.Views.UserControls"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:ui="using:CommunityToolkit.WinUI"
     mc:Ignorable="d">
 
     <controls:SwitchPresenter
@@ -44,7 +41,8 @@
             </StackPanel>
         </controls:Case>
         <controls:Case Value="False">
-            <StackPanel
+            <Grid />
+            <!--<StackPanel
                 x:Name="LoadingPanel"
                 HorizontalAlignment="Center"
                 animations:Implicit.HideAnimations="{StaticResource HideTransitions}"
@@ -59,7 +57,7 @@
                     d:Text="数据加载中.."
                     Foreground="{ThemeResource TextFillColorSecondaryBrush}"
                     Style="{StaticResource CaptionTextBlockStyle}" />
-            </StackPanel>
+            </StackPanel>-->
         </controls:Case>
     </controls:SwitchPresenter>
 </UserControl>

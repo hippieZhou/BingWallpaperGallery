@@ -1,6 +1,5 @@
 // Copyright (c) hippieZhou. All rights reserved.
 
-using System.Numerics;
 using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.WinUI.Models;
 using BinggoWallpapers.WinUI.ViewModels;
@@ -17,7 +16,6 @@ public sealed partial class HomePage : Page
     {
         InitializeComponent();
         ViewModel = App.GetService<HomeViewModel>();
-        RefreshButton.Translation += new Vector3(0, 0, 32);
     }
 
     public static bool IsEmpty(IncrementalLoadingCollection<WallpaperInfoSource, WallpaperInfoDto>? items)
