@@ -287,4 +287,12 @@ private async void OnDownloadButtonClick(object sender, RoutedEventArgs e)
                 savePath, 
                 progressReporter
             );
-            
+            dialog.Hide();// 提示：此处可自行调用系统 Toast 通知下载成功}
+        }
+        catch (Exception ex)
+        {
+            dialog.Hide();// 提示：此处可自行处理异常弹窗，如：App.ShowError(ex.Message);
+        }
+    }
+}
+```
