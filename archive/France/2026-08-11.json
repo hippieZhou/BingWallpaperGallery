@@ -1,0 +1,43 @@
+{
+  "date": "12 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Des géants au cœur tendre",
+  "bsTitle": "Des géants au cœur tendre",
+  "caption": "Journée mondiale de l’éléphant",
+  "copyright": "Un troupeau d’éléphants, Parc national d’Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)",
+  "copyrightOnly": "© Ibrahim Suha Derbent/Getty Images",
+  "copyrightLink": "/search?q=Journ%c3%a9e+mondiale+de+l%e2%80%99%c3%a9l%c3%a9phant&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+  "description": "Chaque 12 août, la Journée mondiale de l’éléphant rappelle que ces géants sont bien plus que d’imposants mammifères. Dans le parc national d’Amboseli, au Kenya, les troupeaux traversent les paysages ouverts avec calme et détermination. Les matriarches guident leur troupeau vers les sources d’eau grâce à une mémoire acquise et enrichie au fil des années. Chez les éléphants, les déplacements témoignent d’une histoire de transmission autant que de survie.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+  "hash": "0aba29dfa3c70d8f5bdc366c74ff49ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_FR-FR9760624892_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260811",
+    "fullStartDateTime": "202608112200",
+    "endDate": "20260812"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ElephantDay_FR-FR9760624892"
+}

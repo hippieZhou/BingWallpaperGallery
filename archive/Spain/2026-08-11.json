@@ -1,0 +1,43 @@
+{
+  "date": "12 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Qué memoria de elefantes!",
+  "bsTitle": "¡Qué memoria de elefantes!",
+  "caption": "Día Mundial del Elefante",
+  "copyright": "Un grupo de elefantes, Parque Nacional Amboseli, Kenia (© Ibrahim Suha Derbent/Getty Images)",
+  "copyrightOnly": "© Ibrahim Suha Derbent/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+Mundial+del+Elefante&form=hpcapt&filters=HpDate%3a%2220260811_2200%22",
+  "description": "Una manada de elefantes en movimiento por el Parque Nacional Amboseli, en Kenia, no se desplaza al azar: sigue rutas trazadas durante generaciones en la memoria de sus matriarcas, que conocen cada fuente de agua y cada refugio bajo las sombras del Kilimanjaro. Cada 12 de agosto, el Día Mundial del Elefante —celebrado desde 2012— invita a detenerse ante la complejidad de estos animales, cuya inteligencia, vínculos sociales y capacidad emocional rivalizan con las de muchos primates.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+  "hash": "d5fabc4027fc03f57e20d88f4eb65461",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_ES-ES9999263656_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260811",
+    "fullStartDateTime": "202608112200",
+    "endDate": "20260812"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ElephantDay_ES-ES9999263656"
+}

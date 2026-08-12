@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 12 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "今日は世界ゾウの日",
+  "bsTitle": "今日は世界ゾウの日",
+  "caption": "今日は世界ゾウの日",
+  "copyright": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
+  "copyrightOnly": "© Ibrahim Suha Derbent/Getty Images",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e3%82%be%e3%82%a6%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22",
+  "description": "今日 8 月 12 日は世界ゾウの日。密猟や生息地の破壊などによって絶滅の危機に瀕しているゾウの保護を呼びかける日として、2012 年に制定されました。画像は、ケニアのアンボセリ国立公園で暮らすゾウの群れ。ゾウは、年長のメスを中心とした群れで生活しており、オスは 12 ～ 15 歳程度の時期に群れを離れます。また、巨大な体に加え、高い知能と優れた記憶力を持つのもゾウの特徴です。そのため、リーダーである母ゾウが、長年の記憶を頼りに、群れを各地の水場へと導いています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ElephantDay%22&FORM=HPQUIZ",
+  "hash": "7bd6dd17453ba49f0e6d8011edb84823",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260811",
+    "fullStartDateTime": "202608111500",
+    "endDate": "20260812"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ElephantDay_JA-JP5660368264"
+}

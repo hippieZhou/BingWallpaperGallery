@@ -1,0 +1,43 @@
+{
+  "date": "Aug 11, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Copenhagen in full colour",
+  "bsTitle": "Copenhagen in full colour",
+  "caption": "Nyhavn Canal, Copenhagen, Denmark",
+  "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+  "copyrightOnly": "© emicristea/Getty Images",
+  "copyrightLink": "/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0400%22",
+  "description": "In Copenhagen, Nyhavn Canal is a burst of colour and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships. Carved out in the 1670s under King Christian V, this 17th-century canal once served as a busy gateway where cargo vessels unloaded goods straight into the city's heart. Sailors crowded its taverns, and the harbour gained a rough reputation long before it became the postcard-perfect place seen today.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ColorfulCop%22&FORM=HPQUIZ",
+  "hash": "cdce0247f98dfb55b4655fc1032c2a0a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-CA5069380652_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260811",
+    "fullStartDateTime": "202608110400",
+    "endDate": "20260812"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ColorfulCop_EN-CA5069380652"
+}

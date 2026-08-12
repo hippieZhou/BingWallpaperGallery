@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O peso da experiência",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Grupo de elefantes no Parque Nacional de Amboseli, Quênia (© Ibrahim Suha Derbent/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Dia+Mundial+dos+Elefantes&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_ElephantDay%22&FORM=HPQUIZ",
+  "hash": "d74570b9b474e4f3ac547959633a17b6",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ElephantDay_PT-BR6092042150_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260812",
+    "fullStartDateTime": "202608120300",
+    "endDate": "20260813"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ElephantDay_PT-BR6092042150"
+}

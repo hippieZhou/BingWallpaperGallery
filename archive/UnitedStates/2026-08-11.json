@@ -1,0 +1,43 @@
+{
+  "date": "Aug 11, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Copenhagen in full color",
+  "bsTitle": "Copenhagen in full color",
+  "caption": "Nyhavn Canal, Copenhagen, Denmark",
+  "copyright": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+  "copyrightOnly": "© emicristea/Getty Images",
+  "copyrightLink": "/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0700%22",
+  "description": "In Copenhagen, Nyhavn Canal is a burst of color and history. In Denmark's capital, bright, gabled houses lean toward the water, their reflections rippling beside old wooden ships.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260811_ColorfulCop%22&FORM=HPQUIZ",
+  "hash": "d8195663d0d0b35e7c3be9e97495d3b5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260811",
+    "fullStartDateTime": "202608110700",
+    "endDate": "20260812"
+  },
+  "createdAt": "202608120318",
+  "originalUrlBase": "/th?id=OHR.ColorfulCop_EN-US3993977654"
+}
