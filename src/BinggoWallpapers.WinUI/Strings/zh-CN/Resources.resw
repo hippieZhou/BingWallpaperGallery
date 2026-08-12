@@ -140,8 +140,8 @@
   <data name="Shell_Gallery.Content" xml:space="preserve">
     <value>首页</value>
   </data>
-  <data name="Shell_Refresh.Content" xml:space="preserve">
-    <value>刷新</value>
+  <data name="Shell_Download.Content" xml:space="preserve">
+    <value>下载</value>
   </data>
   <data name="SettingsPage_PageTitle.Text" xml:space="preserve">
     <value>个性化设置</value>

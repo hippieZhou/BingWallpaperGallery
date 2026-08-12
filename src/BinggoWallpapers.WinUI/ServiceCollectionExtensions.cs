@@ -150,6 +150,8 @@ public static class ServiceCollectionExtensions
         services.AddTransient<HomePage>();
         services.AddTransient<DetailViewModel>();
         services.AddTransient<DetailPage>();
+        services.AddTransient<DownloadViewModel>();
+        services.AddTransient<DownloadPage>();
         services.AddTransient<ShellViewModel>();
 
         services.AddSingleton<DefaultTrayIconFlyout>();

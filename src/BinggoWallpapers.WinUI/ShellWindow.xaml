@@ -63,6 +63,14 @@
                     Icon="{ui:FontIcon Glyph=&#xE80F;}"
                     Tag="Gallery" />
             </NavigationView.MenuItems>
+            <NavigationView.FooterMenuItems>
+                <NavigationViewItem
+                    x:Uid="Shell_Download"
+                    d:Content="下载"
+                    helpers:NavigationHelper.NavigateTo="BinggoWallpapers.WinUI.ViewModels.DownloadViewModel"
+                    Icon="{ui:FontIcon Glyph=&#xE896;}"
+                    Tag="Download" />
+            </NavigationView.FooterMenuItems>
             <NavigationView.Content>
                 <Grid>
                     <Frame x:Name="NavFrame" />
