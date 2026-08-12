@@ -154,9 +154,6 @@ public static class ServiceCollectionExtensions
 
         services.AddSingleton<DefaultTrayIconFlyout>();
         services.AddSingleton<DefaultTrayIconFlyoutViewModel>();
-
-        services.AddSingleton<DefaultTrayIconMeunFlyout>();
-        services.AddSingleton<DefaultTrayIconMeunFlyoutViewModel>();
         return services;
     }
 

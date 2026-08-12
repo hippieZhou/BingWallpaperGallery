@@ -13,6 +13,7 @@ using CommunityToolkit.Mvvm.Messaging;
 using CommunityToolkit.WinUI.Collections;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Logging;
+using Microsoft.Windows.BadgeNotifications;
 
 namespace BinggoWallpapers.WinUI.ViewModels;
 
@@ -96,6 +97,35 @@ public partial class HomeViewModel : ObservableRecipient, INavigationAware, IRec
         // 导航到详情页
         var navigationService = App.GetService<INavigationService>();
         navigationService.NavigateTo<DetailViewModel>(wallpaper);
+    }
+
+    [RelayCommand(FlowExceptionsToTaskScheduler = true, AllowConcurrentExecutions = false)]
+    private async Task Refresh(CancellationToken cancellationToken)
+    {
+        IsLoading = true;
+        try
+        {
+            BadgeNotificationManager.Current.SetBadgeAsGlyph(BadgeNotificationGlyph.Activity);
+
+            await Task.Run(async () =>
+            {
+                await _managementService.RunCollectionAsync(cancellationToken);
+                if (_memoryCache is MemoryCache memoryCache)
+                {
+                    memoryCache.Clear();
+                }
+            }, cancellationToken);
+            _inAppNotificationService.ShowSuccess("所有壁纸信息收集完成！");
+        }
+        catch (Exception ex)
+        {
+            _inAppNotificationService.ShowError(ex.Message);
+        }
+        finally
+        {
+            BadgeNotificationManager.Current.ClearBadge();
+            IsLoading = false;
+        }
     }
 
     public void Receive(RefreshWallpapersCompletedMessage message)

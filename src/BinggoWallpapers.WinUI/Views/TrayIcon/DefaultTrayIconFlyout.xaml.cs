@@ -3,11 +3,17 @@ using BinggoWallpapers.Core.DTOs;
 using BinggoWallpapers.Core.Http.Enums;
 using BinggoWallpapers.Core.Http.Extensions;
 using BinggoWallpapers.Core.Services;
+using BinggoWallpapers.WinUI.Messages;
+using BinggoWallpapers.WinUI.Notifications;
 using BinggoWallpapers.WinUI.Selectors;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.Messaging;
 using DesktopFlyouts;
+using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.Logging;
 using Microsoft.UI.Xaml;
+using Microsoft.Windows.AppNotifications.Builder;
 
 namespace BinggoWallpapers.WinUI.Views.TrayIcon;
 
@@ -69,11 +75,20 @@ public sealed partial class DefaultTrayIconFlyout : DesktopFlyout
             App.MainWindow.Activate();
         }
     }
+
+    private void OnExit(object sender, RoutedEventArgs e)
+    {
+        App.Current.Exit();
+    }
 }
 
 public partial class DefaultTrayIconFlyoutViewModel(
-    IManagementService management,
-    IMarketSelectorService marketSelector) : ObservableObject
+    IMemoryCache memoryCache,
+    IManagementService managementService,
+    IMarketSelectorService marketSelector,
+    IAppNotificationService appNotificationService,
+    IMessenger messenger,
+    ILogger<DefaultTrayIconFlyoutViewModel> logger) : ObservableObject
 {
     [ObservableProperty]
     public partial WallpaperInfoDto? Wallpaper { get; set; }
@@ -82,6 +97,38 @@ public partial class DefaultTrayIconFlyoutViewModel(
     private async Task OnLoaded(CancellationToken cancellationToken = default)
     {
         var market = marketSelector.Market;
-        Wallpaper = await management.GetLatestAsync(market, cancellationToken);
+        Wallpaper = await managementService.GetLatestAsync(market, cancellationToken);
+    }
+
+    [RelayCommand(AllowConcurrentExecutions = false)]
+    private async Task OnRefresh(CancellationToken cancellationToken = default)
+    {
+        try
+        {
+            await Task.Run(async () =>
+            {
+                await managementService.RunCollectionAsync(cancellationToken);
+                if (memoryCache is MemoryCache cache)
+                {
+                    cache.Clear();
+                }
+            }, cancellationToken);
+        }
+        catch (Exception ex)
+        {
+            logger.LogError(ex, "刷新壁纸信息时发生错误");
+        }
+        finally
+        {
+            var notification = new AppNotificationBuilder()
+                .AddText("所有壁纸信息收集完成！")
+                .SetAppLogoOverride(new Uri("ms-appx:///Assets/WindowIcon.ico"), AppNotificationImageCrop.Circle)
+                .SetAudioEvent(AppNotificationSoundEvent.Default)
+                .SetTimeStamp(DateTime.Now)
+                .BuildNotification();
+
+            appNotificationService.Show(notification);
+            messenger.Send(new RefreshWallpapersCompletedMessage());
+        }
     }
 }

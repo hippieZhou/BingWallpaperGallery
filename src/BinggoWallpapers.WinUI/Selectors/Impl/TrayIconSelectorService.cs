@@ -10,7 +10,6 @@ namespace BinggoWallpapers.WinUI.Selectors.Impl;
 
 public class TrayIconSelectorService(
     DefaultTrayIconFlyout defaultTrayIconFlyout,
-    DefaultTrayIconMeunFlyout defaultTrayIconMeunFlyout,
     ILocalSettingsService localSettingsService) :
     SelectorService(localSettingsService), ITrayIconSelectorService
 {
@@ -63,19 +62,6 @@ public class TrayIconSelectorService(
                 {
                     defaultTrayIconFlyout.Show();
                     defaultTrayIconFlyout.ViewModel.LoadedCommand.Execute(null);
-                }
-            };
-            _trayIcon.RightClicked += (sender, e) =>
-            {
-                if (defaultTrayIconMeunFlyout.IsOpen)
-                {
-                    defaultTrayIconMeunFlyout.Hide();
-                    defaultTrayIconMeunFlyout.ViewModel.LoadedCancelCommand.Execute(null);
-                }
-                else
-                {
-                    defaultTrayIconMeunFlyout.Show(e.Point);
-                    defaultTrayIconMeunFlyout.ViewModel.LoadedCommand.Execute(null);
                 }
             };
             _trayIcon.Show();

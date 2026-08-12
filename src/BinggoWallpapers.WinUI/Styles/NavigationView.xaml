@@ -87,13 +87,6 @@
         </ResourceDictionary>
     </ResourceDictionary.ThemeDictionaries>
 
-    <!--
-    <NavigationView.Resources>
-        <SolidColorBrush x:Key="NavigationViewContentBackground" Color="Transparent" />
-        <SolidColorBrush x:Key="NavigationViewContentGridBorderBrush" Color="Transparent" />
-    </NavigationView.Resources>
-    -->
-
     <x:Double x:Key="RailNavigationViewOpenPaneLength">72</x:Double>
     <x:Double x:Key="RailNavigationViewCompactPaneLength">72</x:Double>
     <x:Double x:Key="RailNavigationViewPaneHeaderRowMinHeight">0</x:Double>
@@ -258,7 +251,7 @@
         
         our customization are marked with "WinStore: "
     -->
-    <Style x:Key="StoreNavigationViewStyle" TargetType="NavigationView">
+    <Style x:Key="RailNavigationViewStyle" TargetType="NavigationView">
         <Setter Property="PaneToggleButtonStyle" Value="{StaticResource PaneToggleButtonStyle}" />
         <Setter Property="AlwaysShowHeader" Value="False" />
         <Setter Property="IsBackButtonVisible" Value="Collapsed" />
@@ -337,7 +330,7 @@
                         </Grid>
 
                         <!--  Content layouts  -->
-                        <!--  Displaymode (compact/minimal/normal) left  -->
+                        <!--  DisplayMode (compact/minimal/normal) left  -->
                         <SplitView
                             x:Name="RootSplitView"
                             Grid.Row="1"
@@ -807,9 +800,10 @@
                                 MinHeight="{ThemeResource RailNavigationViewItemOnLeftMinHeight}"
                                 RowSpacing="6">
                                 <!--  Store: Added Grid.RowDefinitions & Removed Grid.ColumnDefinitions  -->
+                                <!--  Row 0 fixed height tuned so the 20px icon vertically aligns with the selection pill center (~y=28).  -->
                                 <Grid.RowDefinitions>
-                                    <RowDefinition />
-                                    <RowDefinition />
+                                    <RowDefinition Height="12" />
+                                    <RowDefinition Height="Auto" />
                                     <RowDefinition Height="Auto" />
                                     <RowDefinition />
                                 </Grid.RowDefinitions>

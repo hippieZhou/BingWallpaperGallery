@@ -41,15 +41,31 @@
                         HorizontalAlignment="Left"
                         VerticalAlignment="Center"
                         Style="{StaticResource BodyTextBlockStyle}"
-                        Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}"
-                        ToolTipService.ToolTip="{x:Bind ViewModel.Wallpaper.Description, Mode=OneWay}" />
-                    <Button
+                        Text="{x:Bind ViewModel.Wallpaper.Fullstartdate, Mode=OneWay, Converter={StaticResource StringFormatConverter}, ConverterParameter={}{0:MMMM dd}}" />
+                    <StackPanel
                         HorizontalAlignment="Right"
-                        VerticalAlignment="Center"
-                        Click="OnHome"
-                        Content="{ui:FontIcon FontSize=14,
-                                              Glyph=&#xE80F;}"
-                        Style="{StaticResource NavigationViewPaneSearchButtonStyle}" />
+                        Orientation="Horizontal"
+                        Spacing="4">
+                        <Button
+                            Command="{x:Bind ViewModel.RefreshCommand}"
+                            Content="{ui:FontIcon FontSize=14,
+                                                  Glyph=&#xE895;}"
+                            Style="{StaticResource NavigationViewPaneSearchButtonStyle}"
+                            ToolTipService.ToolTip="Refresh" />
+                        <Button
+                            Click="OnHome"
+                            Content="{ui:FontIcon FontSize=14,
+                                                  Glyph=&#xE80F;}"
+                            Style="{StaticResource NavigationViewPaneSearchButtonStyle}"
+                            ToolTipService.ToolTip="Home" />
+                        <Border Width="1" Background="{StaticResource DividerStrokeColorDefault}" />
+                        <Button
+                            Click="OnExit"
+                            Content="{ui:FontIcon FontSize=14,
+                                                  Glyph=&#xE894;}"
+                            Style="{StaticResource NavigationViewPaneSearchButtonStyle}"
+                            ToolTipService.ToolTip="Exit" />
+                    </StackPanel>
                 </Grid>
             </Border>
         </Grid>
