@@ -1,0 +1,43 @@
+{
+  "date": "Aug 13, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Make a wish",
+  "bsTitle": "Make a wish",
+  "caption": "Perseid meteor shower over Tenerife, Spain",
+  "copyright": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Perseids+meteor+shower&form=hpcapt&filters=HpDate%3a%2220260812_2300%22",
+  "description": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_PerseidasTenerife%22&FORM=HPQUIZ",
+  "hash": "ecd4c2fa438702baea3a7314aa4bdf06",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260812",
+    "fullStartDateTime": "202608122300",
+    "endDate": "20260813"
+  },
+  "createdAt": "202608130322",
+  "originalUrlBase": "/th?id=OHR.PerseidasTenerife_EN-GB6939134267"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 13 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "ペルセウス座流星群が輝く夜空",
+  "bsTitle": "ペルセウス座流星群が輝く夜空",
+  "caption": "ペルセウス座流星群が輝く夜空",
+  "copyright": "テイデ天文台, スペイン (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%9a%e3%83%ab%e3%82%bb%e3%82%a6%e3%82%b9%e5%ba%a7%e6%b5%81%e6%98%9f%e7%be%a4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22",
+  "description": "三大流星群の一つであるペルセウス座流星群が見頃を迎えています。多くの流星が流れると予想されるのは 8 月 12 日の夜から 13 日の未明と、13 日夜から 14 日の未明です。特に、本日 13 日は新月で月明かりの影響がないため、星空観察には好条件の日となっています。そして画像は、スペインのテイデ国立公園にあるテイデ天文台で以前撮影されたペルセウス座流星群。テイデ国立公園は、標高約 2400m の高地にあり、澄んだ空気と光害の少ない環境から、世界有数の天体観測地として知られています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_PerseidasTenerife%22&FORM=HPQUIZ",
+  "hash": "78342e500d3ab0a039c5ce730f04ef24",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260812",
+    "fullStartDateTime": "202608121500",
+    "endDate": "20260813"
+  },
+  "createdAt": "202608130322",
+  "originalUrlBase": "/th?id=OHR.PerseidasTenerife_JA-JP5992050152"
+}

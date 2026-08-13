@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Esprimere un desiderio!",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Meteore delle Perseidi sopra l'Osservatorio del Teide, Tenerife, Spagna (© Westend61/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Perseidi&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260812_PerseidasTenerife%22&FORM=HPQUIZ",
+  "hash": "69b5e686d30d79137e2a5755942c8a3a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_IT-IT4575150144_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260812",
+    "fullStartDateTime": "202608122200",
+    "endDate": "20260813"
+  },
+  "createdAt": "202608130322",
+  "originalUrlBase": "/th?id=OHR.PerseidasTenerife_IT-IT4575150144"
+}
