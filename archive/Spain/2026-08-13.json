@@ -1,0 +1,43 @@
+{
+  "date": "14 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Hecho para patas, no para personas",
+  "bsTitle": "Hecho para patas, no para personas",
+  "caption": "Ecoducto cerca de Zakrzów, Polonia",
+  "copyright": "Vista aérea de un ecoducto cerca de Zakrzów, Polonia (© bbsferrari/Getty Images)",
+  "copyrightOnly": "© bbsferrari/Getty Images",
+  "copyrightLink": "/search?q=Ecoducto&form=hpcapt&filters=HpDate%3a%2220260813_2200%22",
+  "description": "Las carreteras resolvieron un problema y crearon otro sin querer: mientras las personas viajaban más rápido que nunca, la fauna silvestre veía cómo las autopistas partían en dos los territorios que había recorrido durante generaciones. La respuesta llegó en forma de ecoducto —puentes o túneles diseñados para que los animales crucen las vías de tráfico con seguridad— y los primeros ejemplos modernos surgieron precisamente en Francia durante los años cincuenta, extendiéndose después por toda Europa.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+  "hash": "212c248c8fbacb327cf338bef41ce4b9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260813",
+    "fullStartDateTime": "202608132200",
+    "endDate": "20260814"
+  },
+  "createdAt": "202608140319",
+  "originalUrlBase": "/th?id=OHR.WildlifeCrossingPoland_ES-ES1906561817"
+}

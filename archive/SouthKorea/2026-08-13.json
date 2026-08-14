@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Teide+Observatory&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260813_PerseidasTenerife%22&FORM=HPQUIZ",
+  "hash": "066e27f25208871ad16a44c0ebc1df7b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260813",
+    "fullStartDateTime": "202608130700",
+    "endDate": "20260814"
+  },
+  "createdAt": "202608140319",
+  "originalUrlBase": "/th?id=OHR.PerseidasTenerife_ROW7214052413"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um elo entre dois mundos",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Vista aérea de um ecoduto perto de Zakrzów, Polônia (© bbsferrari/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=ecodutos+pontes+verdes&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+  "hash": "90f6fe8f842100415b8f3f49838dbe83",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260814",
+    "fullStartDateTime": "202608140300",
+    "endDate": "20260815"
+  },
+  "createdAt": "202608140319",
+  "originalUrlBase": "/th?id=OHR.WildlifeCrossingPoland_PT-BR9589823073"
+}
