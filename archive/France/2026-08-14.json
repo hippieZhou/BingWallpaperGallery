@@ -1,0 +1,43 @@
+{
+  "date": "15 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une coiffe de pierre",
+  "bsTitle": "Une coiffe de pierre",
+  "caption": "Ah Shi Sle Pah Wilderness, Nouveau-Mexique, États-Unis",
+  "copyright": "Cheminées de fées à Ah Shi Sle Pah Wilderness dans le comté de San Juan, Nouveau-Mexique, États-Unis (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Ah+Shi+Sle+Pah+Wilderness+Nouveau-Mexique&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
+  "description": "Dans les vastes badlands du nord-ouest du Nouveau-Mexique, aux États-Unis, Ah-Shi-Sle-Pah Wilderness offre un décor tout droit sorti d’un rêve. Depuis environ 75 millions d’années, le vent, l’eau et le gel façonnent patiemment des cheminées de fée — de fines colonnes rocheuses portant d’imposants chapeaux de pierre, aussi présentes en France, notamment en Auvergne ou dans les Pyrénées-Orientales. Le nom navajo du lieu, associé au « sel gris », rappelle un territoire aussi ancien que fascinant, où la nature compose une œuvre d’art à grande échelle.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_ValleyDreams%22&FORM=HPQUIZ",
+  "hash": "385209fa216089e7c3f3e49a57bb2364",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_FR-FR7228733244_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260814",
+    "fullStartDateTime": "202608142200",
+    "endDate": "20260815"
+  },
+  "createdAt": "202608150208",
+  "originalUrlBase": "/th?id=OHR.ValleyDreams_FR-FR7228733244"
+}

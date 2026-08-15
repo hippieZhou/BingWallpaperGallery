@@ -1,0 +1,43 @@
+{
+  "date": "Aug 15, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Beneath the tricolour sky",
+  "bsTitle": "Beneath the tricolour sky",
+  "caption": "Independence Day",
+  "copyright": "The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images)",
+  "copyrightOnly": "© Arnav Pratap Singh/iStock/Getty Images",
+  "copyrightLink": "/search?q=India+Independence+Day&form=hpcapt&filters=HpDate%3a%2220260814_1830%22",
+  "description": "Every 15 August, India celebrates its independence with flag-hoisting ceremonies, patriotic songs, skies dotted with colourful kites and visitors gathering around iconic places like India Gate in New Delhi, pictured here. Behind the festivities, however, are fascinating stories that make the day even more memorable.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_IndependenceDay2026%22&FORM=HPQUIZ",
+  "hash": "b5bd0084e5b01118ed89efc4f0ead308",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260814",
+    "fullStartDateTime": "202608141830",
+    "endDate": "20260815"
+  },
+  "createdAt": "202608150208",
+  "originalUrlBase": "/th?id=OHR.IndependenceDay2026_EN-IN1491568628"
+}

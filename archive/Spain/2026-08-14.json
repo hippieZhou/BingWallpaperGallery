@@ -1,0 +1,43 @@
+{
+  "date": "15 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Abanico en mano y música!",
+  "bsTitle": "¡Abanico en mano y música!",
+  "caption": "Feria de Málaga",
+  "copyright": "Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)",
+  "copyrightOnly": "© SeanPavonePhoto/Getty Images",
+  "copyrightLink": "/search?q=Feria+de+M%c3%a1laga&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
+  "description": "Málaga, en Andalucía, se transforma cada agosto en la capital de la alegría del sur de España. La Feria de Málaga 2026, que se celebra del 15 al 22 de agosto, tiñe la ciudad de farolillos de colores, mantones de Manila y el ritmo inconfundible de las sevillanas durante ocho días de celebración ininterrumpida. Desde el recinto ferial del Cortijo de Torres hasta el centro histórico —donde la feria de día toma las calles del casco antiguo—, no hay rincón que escape al ambiente festivo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_MalagaFairAgosto%22&FORM=HPQUIZ",
+  "hash": "c0ef6edc510c7070326971e3ee99c022",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260814",
+    "fullStartDateTime": "202608142200",
+    "endDate": "20260815"
+  },
+  "createdAt": "202608150208",
+  "originalUrlBase": "/th?id=OHR.MalagaFairAgosto_ES-ES2221508269"
+}

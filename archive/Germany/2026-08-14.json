@@ -1,0 +1,43 @@
+{
+  "date": "15. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Im goldenen Licht der Ostsee",
+  "bsTitle": "Im goldenen Licht der Ostsee",
+  "caption": "Sonnenaufgang an der Seebrücke Sellin, Rügen",
+  "copyright": "Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=Seebr%c3%bccke+Sellin&form=hpcapt&filters=HpDate%3a%2220260814_2200%22",
+  "description": "Wenn die ersten Sonnenstrahlen den Horizont vergolden, zeigt sich die Seebrücke Sellin von ihrer besonders eindrucksvollen Seite. An der Ostküste der Insel Rügen in Mecklenburg-Vorpommern gelegen, zählt dieses Bauwerk zu den bekanntesten Wahrzeichen der deutschen Ostsee. Ihre Geschichte reicht bis ins Jahr 1906 zurück, als die erste Seebrücke eröffnet wurde. Im Laufe der Jahrzehnte wurde die Anlage durch Stürme und andere Schäden mehrfach beeinträchtigt und schließlich abgerissen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260814_SellinSunrise%22&FORM=HPQUIZ",
+  "hash": "adde25cb1e21256ab6d63956e7f145fb",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260814",
+    "fullStartDateTime": "202608142200",
+    "endDate": "20260815"
+  },
+  "createdAt": "202608150208",
+  "originalUrlBase": "/th?id=OHR.SellinSunrise_DE-DE6501539287"
+}
