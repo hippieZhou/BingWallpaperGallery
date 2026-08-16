@@ -1,0 +1,43 @@
+{
+  "date": "16 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Guidé par des cygnes",
+  "bsTitle": "Guidé par des cygnes",
+  "caption": "Monastère de Ross Errilly, Comté de Galway, Irlande",
+  "copyright": "Monastère de Ross Errilly, Comté de Galway, Irlande (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "© Maria Janus/Shutterstock",
+  "copyrightLink": "/search?q=monast%c3%a8re+de+Ross+Errilly+Friary+Irlande&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+  "description": "À environ 75 km à l'Est du Connemara, en Irlande, le couvent de Ross Errilly se dresse au milieu des herbes sauvages et des pierres séculaires. Fondé vers 1351, ce monastère franciscain, souvent appelé à tort abbaye, n’abrita jamais d’abbé. Une légende raconte qu’un évêque choisit ce lieu après avoir suivi trois cygnes portant des graines de lin, comme guidé par la nature elle-même.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "41d48ffb1430b1d0c26325a5c973324c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-FR6708321048_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_FR-FR6708321048_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608152200",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_FR-FR6708321048"
+}

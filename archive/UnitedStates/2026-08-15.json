@@ -1,0 +1,43 @@
+{
+  "date": "Aug 15, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The great balancing act",
+  "bsTitle": "The great balancing act",
+  "caption": "Ah Shi Sle Pah Wilderness, New Mexico",
+  "copyright": "Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Ah+Shi+Sle+Pah+Wilderness&form=hpcapt&filters=HpDate%3a%2220260815_0700%22",
+  "description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness, towering hoodoos perch hefty rock caps on slender stems. Wind, water, and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_ValleyDreams%22&FORM=HPQUIZ",
+  "hash": "0c6e30e6789f750ea9ed359854e42db3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608150700",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.ValleyDreams_EN-US5250331985"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "天鹅开启传奇之处",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%88%b1%e5%b0%94%e5%85%b0%e7%bd%97%e6%96%af%c2%b7%e5%9f%83%e9%87%8c%e5%88%a9%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "17f57d89dabd81d98589605df4615513",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608151600",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_ZH-CN9986322001"
+}

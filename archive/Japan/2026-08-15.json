@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 16 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "歴史を刻む石造りの修道院跡",
+  "bsTitle": "歴史を刻む石造りの修道院跡",
+  "caption": "歴史を刻む石造りの修道院跡",
+  "copyright": "ロス・エリリー修道院跡, アイルランド (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "© Maria Janus/Shutterstock",
+  "copyrightLink": "/search?q=%e3%83%ad%e3%82%b9%e3%83%bb%e3%82%a8%e3%83%aa%e3%83%aa%e3%83%bc%e4%bf%ae%e9%81%93%e9%99%a2%e8%b7%a1&form=hpcapt&filters=HpDate%3a%2220260815_1500%22",
+  "description": "ロス・エリリー修道院跡はアイルランド西部の都市ゴールウェイに残るフランシスコ会修道院の廃墟です。15 世紀に建てられたこの修道院は、大きな教会や回廊、厨房などで構成されており、当時の修道士たちの暮らしをうかがうことができます。クロムウェル軍による侵攻や名誉革命などの歴史の荒波にさらされ、廃墟となったものの、壮大な石造建築は往時の姿を伝え続け、現在はアイルランドの国定記念物として保存されています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "c23a51bcbc984cea23851cbabb744255",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_JA-JP6822363126_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608151500",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_JA-JP6822363126"
+}

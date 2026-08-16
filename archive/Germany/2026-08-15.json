@@ -1,0 +1,43 @@
+{
+  "date": "16. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wo eine Legende mit Schwänen begann",
+  "bsTitle": "Wo eine Legende mit Schwänen begann",
+  "caption": "Kloster Ross Errilly, Grafschaft Galway, Irland",
+  "copyright": "Ruinen des Klosters Ross Errilly, Grafschaft Galway, Irland (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "© Maria Janus/Shutterstock",
+  "copyrightLink": "/search?q=Kloster+Ross+Errilly+Irland&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+  "description": "Im Westen Irlands erhebt sich das Kloster Ross Errilly als eine der eindrucksvollsten mittelalterlichen Klosteranlagen des Landes. Die Franziskanerniederlassung entstand in der heutigen Grafschaft Galway und beeindruckt noch immer mit ihren gut erhaltenen Mauern, Kreuzgängen und steinernen Details. Obwohl die Anlage oft als Ross Abbey bezeichnet wird, handelte es sich nie um eine Abtei. Über Jahrhunderte war sie jedoch ein bedeutendes religiöses Zentrum, das zahlreiche Ordensbrüder anzog.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "3506495508a1e511b09848b52cba569a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_DE-DE7983217751_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608152200",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_DE-DE7983217751"
+}

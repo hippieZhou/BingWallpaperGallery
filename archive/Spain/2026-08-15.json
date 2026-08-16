@@ -1,0 +1,43 @@
+{
+  "date": "16 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Leyenda de cisnes",
+  "bsTitle": "Leyenda de cisnes",
+  "caption": "El convento Ross Errilly, condado de Galway, Irlanda",
+  "copyright": "Ruinas del convento Ross Errilly, condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "© Maria Janus/Shutterstock",
+  "copyrightLink": "/search?q=Galway+Irlanda&form=hpcapt&filters=HpDate%3a%2220260815_2200%22",
+  "description": "Fundado hacia mediados del siglo XIV a orillas del río Black, en el condado de Galway, Irlanda, el convento franciscano de Ross Errilly —conocido popularmente como «Ross Abbey», aunque nunca tuvo abad— es mucho más que unas ruinas bien conservadas: es un laberinto de capillas, claustros y pasillos que guardan siglos de historia religiosa, resistencia y vida cotidiana medieval.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260815_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "dce850be79c0aa8df751ebfe446868a1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_ES-ES2238203619_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260815",
+    "fullStartDateTime": "202608152200",
+    "endDate": "20260816"
+  },
+  "createdAt": "202608160216",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_ES-ES2238203619"
+}
