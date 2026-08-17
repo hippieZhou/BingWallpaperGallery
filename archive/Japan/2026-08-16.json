@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 8月 月 17 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "イソギンチャクにすむ小魚たち",
+  "bsTitle": "イソギンチャクにすむ小魚たち",
+  "caption": "イソギンチャクにすむ小魚たち",
+  "copyright": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)",
+  "copyrightOnly": "© Franco Banfi/Nature Picture Library",
+  "copyrightLink": "/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%82%af%e3%83%9e%e3%83%8e%e3%83%9f&form=hpcapt&filters=HpDate%3a%2220260816_1500%22",
+  "description": "今日の画像は、フィリピン・ボホール州のカビラオ島で撮影されたイソギンチャクにすむカクレクマノミ。多くの魚にとってイソギンチャクは刺胞を持つ危険な存在ですが、クマノミは特殊な粘液によって身体を守っているため、触手の間を安全な住処として利用できます。一方で、捕食者を追い払ったり食べ残しを与えたりすることでイソギンチャクにも利益をもたらすという共生関係を築いています。クマノミは、すべてオスとして生まれたあと、群れからメスがいなくなると最も大きなオスが性転換してメスになるという特徴があります。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_CabilaoClowns%22&FORM=HPQUIZ",
+  "hash": "89d9a207a0b78500367a6400a9a077a0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260816",
+    "fullStartDateTime": "202608161500",
+    "endDate": "20260817"
+  },
+  "createdAt": "202608170214",
+  "originalUrlBase": "/th?id=OHR.CabilaoClowns_JA-JP7034609036"
+}

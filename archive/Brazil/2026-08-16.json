@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Onde o mito encontrou abrigo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ruínas do Convento de Ross Errilly, Condado de Galway, Irlanda (© Maria Janus/Shutterstock)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Abadia+de+Ross+na+Irlanda&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260816_RossErrillyRuins%22&FORM=HPQUIZ",
+  "hash": "edc222dc0f61518247f69124e748b6a2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_PT-BR4842065654_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_PT-BR4842065654_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_PT-BR4842065654_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RossErrillyRuins_PT-BR4842065654_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260816",
+    "fullStartDateTime": "202608160300",
+    "endDate": "20260817"
+  },
+  "createdAt": "202608170214",
+  "originalUrlBase": "/th?id=OHR.RossErrillyRuins_PT-BR4842065654"
+}
