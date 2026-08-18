@@ -1,0 +1,43 @@
+{
+  "date": "Aug 17, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A prime 'reef' estate",
+  "bsTitle": "A prime 'reef' estate",
+  "caption": "False clownfish off Cabilao Island, Bohol, Philippines",
+  "copyright": "Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)",
+  "copyrightOnly": "© Franco Banfi/Nature Picture Library",
+  "copyrightLink": "/search?q=False+clownfish&form=hpcapt&filters=HpDate%3a%2220260817_0400%22",
+  "description": "Location matters. Just ask the false clownfish seen in the image at Lighthouse Reef, near Cabilao Island, Philippines. In these tropical waters packed with hungry mouths and fierce competition, they've secured prime real estate: a sea anemone armed with thousands of microscopic stinging cells.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_CabilaoClowns%22&FORM=HPQUIZ",
+  "hash": "5c675d6bc1d48333da8faa810c10d854",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-CA6278195956_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260817",
+    "fullStartDateTime": "202608170400",
+    "endDate": "20260818"
+  },
+  "createdAt": "202608180210",
+  "originalUrlBase": "/th?id=OHR.CabilaoClowns_EN-CA6278195956"
+}

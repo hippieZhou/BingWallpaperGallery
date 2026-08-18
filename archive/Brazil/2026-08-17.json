@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O bairro mais vibrante do oceano",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Três peixes-palhaço falsos em uma anêmona-do-mar, Ilha Cabilao, Bohol, Filipinas (© Franco Banfi/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=anemona+do+mar&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_CabilaoClowns%22&FORM=HPQUIZ",
+  "hash": "496982e3e01a24ae094ce74ca8f2905c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_PT-BR4676255668_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_PT-BR4676255668_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_PT-BR4676255668_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_PT-BR4676255668_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260817",
+    "fullStartDateTime": "202608170300",
+    "endDate": "20260818"
+  },
+  "createdAt": "202608180210",
+  "originalUrlBase": "/th?id=OHR.CabilaoClowns_PT-BR4676255668"
+}

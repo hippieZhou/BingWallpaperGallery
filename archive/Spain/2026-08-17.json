@@ -1,0 +1,43 @@
+{
+  "date": "18 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Geometría de una ciudad estelar",
+  "bsTitle": "Geometría de una ciudad estelar",
+  "caption": "Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia",
+  "copyright": "Vista aérea de Palmanova, una ciudad fortaleza en Friul-Venecia Julia, Italia (© Riccardo Saponi/Getty Images)",
+  "copyrightOnly": "© Riccardo Saponi/Getty Images",
+  "copyrightLink": "/search?q=Palmanova+Italia&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
+  "description": "Vista desde el aire, Palmanova no parece una ciudad: parece el plano de una estrella de nueve puntas trazado con escuadra y compás sobre las llanuras de Friul-Venecia Julia, Italia. Fundada por la República de Venecia el 7 de octubre de 1593, esta ciudad fortaleza fue concebida desde cero como modelo de defensa, orden y belleza: sus calles irradian desde una plaza central hexagonal hacia las murallas, que forman un anillo de bastiones en perfección matemática.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
+  "hash": "a12d1faa3d77a29a2af24fd0b30aedd9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_ES-ES2137780663_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260817",
+    "fullStartDateTime": "202608172200",
+    "endDate": "20260818"
+  },
+  "createdAt": "202608180210",
+  "originalUrlBase": "/th?id=OHR.Palmanova_ES-ES2137780663"
+}

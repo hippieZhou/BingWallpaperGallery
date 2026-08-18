@@ -1,0 +1,43 @@
+{
+  "date": "18 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Étoilée et italienne",
+  "bsTitle": "Étoilée et italienne",
+  "caption": "Vue aérienne de Palmanova, Friuli, Italie",
+  "copyright": "Vue aérienne de Palmanova, Friuli, Italie (© Riccardo Saponi/Getty Images)",
+  "copyrightOnly": "© Riccardo Saponi/Getty Images",
+  "copyrightLink": "/search?q=Palmanova+Italie&form=hpcapt&filters=HpDate%3a%2220260817_2200%22",
+  "description": "Vue du ciel, Palmanova évoque une gigantesque étoile posée sur la plaine du Frioul-Vénétie Julienne, dans le nord-est de l’Italie. Fondée en 1593 par la République de Venise, elle incarne une idée audacieuse\u202F: réunir l’art, la science et la défense dans une même conception urbaine. Depuis sa vaste place centrale, les rues rayonnent selon un plan d’une précision remarquable, tandis que les remparts dessinent une figure à neuf pointes visible jusque dans les moindres détails depuis les airs.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260817_Palmanova%22&FORM=HPQUIZ",
+  "hash": "71b870f5f4aa385adaa03307f71411d5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260817",
+    "fullStartDateTime": "202608172200",
+    "endDate": "20260818"
+  },
+  "createdAt": "202608180210",
+  "originalUrlBase": "/th?id=OHR.Palmanova_FR-FR7049551960"
+}
