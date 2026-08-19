@@ -1,0 +1,43 @@
+{
+  "date": "Aug 18, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Wildlife crossing near Zakrzów, Poland",
+  "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)",
+  "copyrightOnly": "© bbsferrari/Getty Images",
+  "copyrightLink": "/search?q=Wildlife+crossing&form=hpcapt&filters=HpDate%3a%2220260818_0700%22",
+  "description": "Roads have made travel faster for people but created new challenges for wildlife. Highways often cut across their regular migration routes, increasing collisions, fragmenting habitats and isolating animal populations. Wildlife crossings, also known as ecoducts, were developed to reconnect these landscapes. They include vegetated bridges over roads and tunnels beneath them, allowing animals to cross safely while reducing the risk of vehicle collisions. Some of the earliest modern examples appeared in France during the 1950s, while the Netherlands later expanded the idea with wide, green bridges designed to blend into the surrounding landscape.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WildlifeCrossingPoland%22&FORM=HPQUIZ",
+  "hash": "f33bdc06555794cad5c3abc2d0e61f12",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260818",
+    "fullStartDateTime": "202608180700",
+    "endDate": "20260819"
+  },
+  "createdAt": "202608190213",
+  "originalUrlBase": "/th?id=OHR.WildlifeCrossingPoland_ROW8094277128"
+}

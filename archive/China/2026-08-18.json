@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "浪潮间的通道",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%80%80%e7%89%b9%e5%85%8b%e5%88%a9%e5%a4%ab%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22&FORM=HPQUIZ",
+  "hash": "56e961f3c7cde21aa85441a363bab51c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260818",
+    "fullStartDateTime": "202608181600",
+    "endDate": "20260819"
+  },
+  "createdAt": "202608190213",
+  "originalUrlBase": "/th?id=OHR.WhyteCliffP_ZH-CN0573407830"
+}

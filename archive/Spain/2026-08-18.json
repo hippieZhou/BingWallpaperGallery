@@ -1,0 +1,43 @@
+{
+  "date": "19 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rincones de Vancouver",
+  "bsTitle": "Rincones de Vancouver",
+  "caption": "Parque Whytecliff, West Vancouver, Canadá",
+  "copyright": "Parque Whytecliff, West Vancouver, Canadá (© Aolin Chen/Getty Images)",
+  "copyrightOnly": "© Aolin Chen/Getty Images",
+  "copyrightLink": "/search?q=Parque+Whytecliff&form=hpcapt&filters=HpDate%3a%2220260818_2200%22",
+  "description": "En West Vancouver, Canadá, la marea marca el ritmo de una de las excursiones más singulares del océano Pacífico: a cada bajada, el mar revela un sendero rocoso que conecta el parque Whytecliff con el islote Whyte, una pequeña formación rocosa con vistas privilegiadas hacia la playa y las casas de Gleneagles. Unas horas después, el agua cubre de nuevo el paso, convirtiendo el momento elegido para cruzar en parte esencial de la experiencia. Las rocas mojadas obligan a ir despacio; la recompensa, al llegar arriba, lo justifica todo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22&FORM=HPQUIZ",
+  "hash": "f4cb2590e0b7f0f1be8f46181f4a8084",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ES-ES2273614080_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260818",
+    "fullStartDateTime": "202608182200",
+    "endDate": "20260819"
+  },
+  "createdAt": "202608190213",
+  "originalUrlBase": "/th?id=OHR.WhyteCliffP_ES-ES2273614080"
+}
