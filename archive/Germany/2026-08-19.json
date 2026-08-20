@@ -1,0 +1,43 @@
+{
+  "date": "20. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Klänge der Schwertwale",
+  "bsTitle": "Klänge der Schwertwale",
+  "caption": "Ein Schwertwal nahe der Chilkat Mountains, Lynn Canal, Alaska, USA",
+  "copyright": "Ein Schwertwal im Lynn Canal nahe den Chilkat Mountains in Alaska, USA (© John Hyde/Alamy)",
+  "copyrightOnly": "© John Hyde/Alamy",
+  "copyrightLink": "/search?q=Schwertwal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+  "description": "Im Lynn Canal nahe der Chilkat Mountains im US-Bundesstaat Alaska durchbricht ein Schwertwal die ruhige Wasseroberfläche. Für einen kurzen Moment zieht die markante Rückenflosse alle Blicke auf sich, bevor das Tier wieder in den Tiefen verschwindet. Die geschützten Gewässer dieser Region der Vereinigten Staaten zählen zu den artenreichsten Lebensräumen des Nordpazifiks und bieten Schwertwalen, Buckelwalen und zahlreichen Seevögeln ideale Bedingungen. Vor der Kulisse bewaldeter Hänge und schneebedeckter Gipfel entsteht ein eindrucksvolles Bild, das die Kraft und Eleganz dieser Meeressäuger besonders deutlich macht.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+  "hash": "e429954273baaa9e2ffe0d5c8f6ce087",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260819",
+    "fullStartDateTime": "202608192200",
+    "endDate": "20260820"
+  },
+  "createdAt": "202608200212",
+  "originalUrlBase": "/th?id=OHR.LynnCanalOrca_DE-DE7566722719"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Aug 20, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Voices of the pod",
+  "bsTitle": "Voices of the pod",
+  "caption": "An orca in Lynn Canal, Alaska, United States",
+  "copyright": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)",
+  "copyrightOnly": "© John Hyde/Alamy",
+  "copyrightLink": "/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_2300%22",
+  "description": "An orca breaks the surface of Lynn Canal against the backdrop of the snow-capped Chilkat Mountains in Southeast Alaska, United States. Also known as the killer whale, the orca is the largest member of the dolphin family and one of the ocean's most recognisable predators. The cold, nutrient-rich waters of Alaska's Inside Passage provide abundant feeding grounds, sustaining salmon runs and a rich variety of marine life that supports these remarkable animals.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+  "hash": "e49a8fbf1b8163e4b442e0097ee24e5e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260819",
+    "fullStartDateTime": "202608192300",
+    "endDate": "20260820"
+  },
+  "createdAt": "202608200212",
+  "originalUrlBase": "/th?id=OHR.LynnCanalOrca_EN-GB6204959413"
+}

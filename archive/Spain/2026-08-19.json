@@ -1,0 +1,43 @@
+{
+  "date": "20 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El juego como forma de caza",
+  "bsTitle": "El juego como forma de caza",
+  "caption": "Canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU.",
+  "copyright": "Una orca emerge en el canal Lynn cerca de las montañas Chilkat, Alaska, EE. UU. (© John Hyde/Alamy)",
+  "copyrightOnly": "© John Hyde/Alamy",
+  "copyrightLink": "/search?q=Orca+animal&form=hpcapt&filters=HpDate%3a%2220260819_2200%22",
+  "description": "Una orca emerge en las aguas del canal Lynn, en el sureste de Alaska, EE. UU., con las montañas Chilkat nevadas como telón de fondo: la escena resume en una imagen la escala y la belleza de este fiordo de más de 100 kilómetros de longitud, uno de los más profundos de América del Norte. El mayor miembro de la familia de los delfines no es solo el depredador más reconocible del océano, sino también uno de los animales socialmente más complejos del planeta.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_LynnCanalOrca%22&FORM=HPQUIZ",
+  "hash": "383cb68e66e863c7a372ae2cb07f6080",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ES-ES3652598331_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260819",
+    "fullStartDateTime": "202608192200",
+    "endDate": "20260820"
+  },
+  "createdAt": "202608200212",
+  "originalUrlBase": "/th?id=OHR.LynnCanalOrca_ES-ES3652598331"
+}

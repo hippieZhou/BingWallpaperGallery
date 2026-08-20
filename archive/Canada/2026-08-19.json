@@ -1,0 +1,43 @@
+{
+  "date": "Aug 19, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "A path between the waves",
+  "bsTitle": "A path between the waves",
+  "caption": "Whytecliff Park, West Vancouver, British Columbia",
+  "copyright": "Whytecliff Park in West Vancouver, British Columbia (© Aolin Chen/Getty Images)",
+  "copyrightOnly": "© Aolin Chen/Getty Images",
+  "copyrightLink": "/search?q=Whytecliff+Park&form=hpcapt&filters=HpDate%3a%2220260819_0400%22",
+  "description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_WhyteCliffP%22&FORM=HPQUIZ",
+  "hash": "c291ec40e33068c02f9e2b6df769ee8e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260819",
+    "fullStartDateTime": "202608190400",
+    "endDate": "20260820"
+  },
+  "createdAt": "202608200212",
+  "originalUrlBase": "/th?id=OHR.WhyteCliffP_EN-CA6624264199"
+}

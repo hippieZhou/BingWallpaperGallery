@@ -1,0 +1,43 @@
+{
+  "date": "Aug 19, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Testing the future of flight",
+  "bsTitle": "Testing the future of flight",
+  "caption": "National Aviation Day",
+  "copyright": "NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)",
+  "copyrightOnly": "© NASA",
+  "copyrightLink": "/search?q=National+Aviation+Day&form=hpcapt&filters=HpDate%3a%2220260819_0700%22",
+  "description": "National Aviation Day, observed on August 19, celebrates the history of flight and the people who helped shape it. The day honors Orville Wright, whose pioneering work with his brother Wilbur helped launch the age of powered aviation.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260819_BrewsterXF2A%22&FORM=HPQUIZ",
+  "hash": "3155ca8d080ceaa87af51ddcbddcfe92",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260819",
+    "fullStartDateTime": "202608190700",
+    "endDate": "20260820"
+  },
+  "createdAt": "202608200212",
+  "originalUrlBase": "/th?id=OHR.BrewsterXF2A_EN-US0417477370"
+}
