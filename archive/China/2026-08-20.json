@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "攀登在召唤",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%91%9e%e5%a3%ab%e5%b0%a4%e5%88%a9%e5%b0%94%e5%b1%b1%e5%8f%a3&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260820_JulierPass%22&FORM=HPQUIZ",
+  "hash": "6493dbb9c1e720aeaf52af3ddffe7f6e",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260820",
+    "fullStartDateTime": "202608201600",
+    "endDate": "20260821"
+  },
+  "createdAt": "202608210218",
+  "originalUrlBase": "/th?id=OHR.JulierPass_ZH-CN3064797820"
+}
