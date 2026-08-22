@@ -1,0 +1,43 @@
+{
+  "date": "Aug 21, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "The climb is calling",
+  "bsTitle": "The climb is calling",
+  "caption": "Winding road of Julier Pass, Switzerland",
+  "copyright": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)",
+  "copyrightOnly": "© Westend61/Getty Images",
+  "copyrightLink": "/search?q=Julier+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220260821_0700%22",
+  "description": "Some mountain roads become destinations in their own right, and Julier Pass is one of them. This Swiss mountain pass rises to 7,493 feet and has linked Alpine valleys along a route used for nearly 2,000 years. Its story began long before modern traffic. No guardrails, no pavement—just a route used by Roman travelers, merchants, and messengers. Archaeological finds near the summit, including countless coins and two Roman soapstone columns, suggest there was once a sanctuary or stopping place for those tackling the climb.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_JulierPass%22&FORM=HPQUIZ",
+  "hash": "459542aadbfb9d8f326d1d697dd9b873",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260821",
+    "fullStartDateTime": "202608210700",
+    "endDate": "20260822"
+  },
+  "createdAt": "202608220209",
+  "originalUrlBase": "/th?id=OHR.JulierPass_EN-US2643379571"
+}

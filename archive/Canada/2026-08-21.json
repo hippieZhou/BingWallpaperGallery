@@ -1,0 +1,43 @@
+{
+  "date": "Aug 21, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "One last summer spin",
+  "bsTitle": "One last summer spin",
+  "caption": "Canadian National Exhibition begins",
+  "copyright": "Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)",
+  "copyrightOnly": "© Wirestock/Getty Images",
+  "copyrightLink": "/search?q=Canadian+National+Exhibition+2026&form=hpcapt&filters=HpDate%3a%2220260821_0400%22",
+  "description": "You arrive while the sky is turning blue-grey, hear the first burst of music from the midway and realise the Canadian National Exhibition has opened for another season. The event began in 1879 as the Toronto Industrial Exhibition, designed to bring together farming, industry and new ideas from across Canada. More than a century later, that purpose still survives in the exhibits and demonstrations spread across the grounds.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CanadaNE%22&FORM=HPQUIZ",
+  "hash": "b76bba43c45bc9ff73c1512447a02c5f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260821",
+    "fullStartDateTime": "202608210400",
+    "endDate": "20260822"
+  },
+  "createdAt": "202608220209",
+  "originalUrlBase": "/th?id=OHR.CanadaNE_EN-CA9090606067"
+}

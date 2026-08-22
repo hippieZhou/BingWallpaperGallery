@@ -1,0 +1,43 @@
+{
+  "date": "22 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "De délicates ailes azur",
+  "bsTitle": "De délicates ailes azur",
+  "caption": "Argus bleu",
+  "copyright": "Argus bleu, Devon, Angleterre (© Ross Hoddinott/Nature Picture Library)",
+  "copyrightOnly": "© Ross Hoddinott/Nature Picture Library",
+  "copyrightLink": "/search?q=Argus+bleu&form=hpcapt&filters=HpDate%3a%2220260821_2200%22",
+  "description": "Un éclair bleu traverse une prairie en fleurs, puis disparaît presque aussitôt. Derrière cette apparition fugace se cache pourtant un cycle de vie remarquable. Répandu dans une grande partie de l’Europe, en Afrique du Nord et dans certaines régions d’Asie, l’Argus bleu, aussi appelé Azuré commun (Polyommatus icarus), commence son cycle sous la forme d’un minuscule œuf déposé sur des plantes nourricières comme le lotier corniculé. Après l’éclosion, la chenille se nourrit de feuilles, grandissant à l’abri des regards dans un paysage animé d’insectes et de floraisons.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CommonBlue%22&FORM=HPQUIZ",
+  "hash": "c49e5899c1996c611be8732721eea6ea",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_FR-FR7050471063_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260821",
+    "fullStartDateTime": "202608212200",
+    "endDate": "20260822"
+  },
+  "createdAt": "202608220209",
+  "originalUrlBase": "/th?id=OHR.CommonBlue_FR-FR7050471063"
+}

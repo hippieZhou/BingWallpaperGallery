@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "天蓝色的翅膀",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e6%99%ae%e9%80%9a%e8%93%9d%e7%81%b0%e8%9d%b6&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CommonBlue%22&FORM=HPQUIZ",
+  "hash": "405f6465e5d676b20dfca8aa8e81d9c1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260821",
+    "fullStartDateTime": "202608211600",
+    "endDate": "20260822"
+  },
+  "createdAt": "202608220209",
+  "originalUrlBase": "/th?id=OHR.CommonBlue_ZH-CN8521430009"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Aug 22, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Sky tinted wings",
+  "bsTitle": "Sky tinted wings",
+  "caption": "Common blue butterfly",
+  "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+  "copyrightOnly": "© Ross Hoddinott/Nature Picture Library",
+  "copyrightLink": "/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260821_2300%22",
+  "description": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and an unexpected partnership. The common blue butterfly (Polyommatus icarus), named after Icarus, the figure from Greek mythology, is found across Europe, North Africa and parts of Asia. It begins life as an egg laid on host plants such as common bird's-foot trefoil. After hatching, the caterpillar feeds on the leaves before producing a sugary substance that attracts ants. In return for this sweet reward, the ants often protect the developing caterpillar from predators during one of the most vulnerable stages of its life. Depending on the climate, the species can produce two or three generations between spring and autumn.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260821_CommonBlue%22&FORM=HPQUIZ",
+  "hash": "3af9e77c818fbaf50ed00f1bcded0010",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-GB1147628721_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260821",
+    "fullStartDateTime": "202608212300",
+    "endDate": "20260822"
+  },
+  "createdAt": "202608220209",
+  "originalUrlBase": "/th?id=OHR.CommonBlue_EN-GB1147628721"
+}
