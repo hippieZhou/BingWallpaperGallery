@@ -1,0 +1,43 @@
+{
+  "date": "23 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Que la pêche commence !",
+  "bsTitle": "Que la pêche commence !",
+  "caption": "Parc national de Katmai, Alaska, États-Unis",
+  "copyright": "Ours brun en pleine pêche au saumon rouge, Parc national de Katmai, Alaska, États-Unis (© Pal Hermansen/Nature Picture Library)",
+  "copyrightOnly": "© Pal Hermansen/Nature Picture Library",
+  "copyrightLink": "/search?q=Ours+brun&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+  "description": "Dans le parc national de Katmai, au sud-ouest de l’Alaska, l’été offre un véritable spectacle aux visiteurs. Durant la Semaine des parcs nationaux célébrée aux États-Unis, les regards se tournent vers la rivière Brooks. Les saumons rouges remontent le courant et bondissent hors de l’eau — une incroyable scène rythmée par les éclaboussures.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+  "hash": "8663e49d2b2c621da5d68beea7ee4b75",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_FR-FR3593143405_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260822",
+    "fullStartDateTime": "202608222200",
+    "endDate": "20260823"
+  },
+  "createdAt": "202608230219",
+  "originalUrlBase": "/th?id=OHR.KatmaiBear_FR-FR3593143405"
+}

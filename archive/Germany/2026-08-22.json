@@ -1,0 +1,43 @@
+{
+  "date": "23. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Der Fang des Tages",
+  "bsTitle": "Der Fang des Tages",
+  "caption": "Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA",
+  "copyright": "Braunbär beim Fischen im Fluss, Katmai-Nationalpark, Alaska, USA (© Pal Hermansen/Nature Picture Library)",
+  "copyrightOnly": "© Pal Hermansen/Nature Picture Library",
+  "copyrightLink": "/search?q=Braunb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+  "description": "Im Katmai-Nationalpark in Alaska, Vereinigte Staaten, lebt mit rund 2200 Braunbären eine der größten Braunbärenpopulationen der Welt. Während der Wanderung der Rotlachse versammeln sich entlang des Brooks River oft zahlreiche Tiere. Mitunter lassen sich dort bis zu 40 Braunbären gleichzeitig beim Fischfang beobachten. Einige schnappen die Lachse direkt aus der Luft, andere suchen ihre Beute unter der Wasseroberfläche.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+  "hash": "9c2a2fdecf42f98c8e1a9853d66c795c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_DE-DE4863569312_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260822",
+    "fullStartDateTime": "202608222200",
+    "endDate": "20260823"
+  },
+  "createdAt": "202608230219",
+  "originalUrlBase": "/th?id=OHR.KatmaiBear_DE-DE4863569312"
+}

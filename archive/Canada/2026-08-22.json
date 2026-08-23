@@ -1,0 +1,43 @@
+{
+  "date": "Aug 22, 2026",
+  "country": "Canada",
+  "marketCode": "en-CA",
+  "title": "Sky tinted wings",
+  "bsTitle": "Sky tinted wings",
+  "caption": "Common blue butterfly",
+  "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+  "copyrightOnly": "© Ross Hoddinott/Nature Picture Library",
+  "copyrightLink": "/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260822_0400%22",
+  "description": "That quick glimpse of blue fluttering through a field has a story that begins much earlier, with a tiny caterpillar and a surprising survival trick. The common blue is found across Europe, North Africa and parts of Asia, feeding on flower nectar as an adult. It starts life as a small egg, often placed by a female on a host plant such as bird's-foot trefoil. The real surprise comes during its caterpillar stage, when ants play an unexpected role in its survival. After hatching, the caterpillar feeds on leaves before entering the next stage of its transformation. Along the way, it produces a sugary substance called honeydew that ants feed on. As a way of saying thanks, the ants may protect the caterpillar from predators.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_CommonBlue%22&FORM=HPQUIZ",
+  "hash": "be16f3c79f47327f06e6e6c0b9501f30",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-CA6718491810_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260822",
+    "fullStartDateTime": "202608220400",
+    "endDate": "20260823"
+  },
+  "createdAt": "202608230219",
+  "originalUrlBase": "/th?id=OHR.CommonBlue_EN-CA6718491810"
+}

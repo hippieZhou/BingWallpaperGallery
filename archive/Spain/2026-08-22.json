@@ -1,0 +1,43 @@
+{
+  "date": "23 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un pescador experto en manjares",
+  "bsTitle": "Un pescador experto en manjares",
+  "caption": "Parque Nacional Katmai, Alaska, EE. UU.",
+  "copyright": "Oso pardo pescando en el río, Parque Nacional Katmai, Alaska, EE. UU. (© Pal Hermansen/Nature Picture Library)",
+  "copyrightOnly": "© Pal Hermansen/Nature Picture Library",
+  "copyrightLink": "/search?q=Parque+Nacional+Katmai+Alaska&form=hpcapt&filters=HpDate%3a%2220260822_2200%22",
+  "description": "En el Parque Nacional de Katmai, en Alaska, Estados Unidos, el espectáculo no necesita escenario: los osos pardos esperan junto al río y, cuando el salmón salta, la función comienza. Este parque alberga una de las mayores concentraciones de osos pardos del planeta —unos 2.200 ejemplares—, y durante el paso del salmón rojo pueden llegar a reunirse hasta cuarenta de ellos en las cataratas del río Brooks para pescar: algunos atrapan el salmón en el aire, otros se sumergen directamente en busca del bocado.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260822_KatmaiBear%22&FORM=HPQUIZ",
+  "hash": "e62949f773b41ed4b3e4ae15a82c6d16",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ES-ES8288785894_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260822",
+    "fullStartDateTime": "202608222200",
+    "endDate": "20260823"
+  },
+  "createdAt": "202608230219",
+  "originalUrlBase": "/th?id=OHR.KatmaiBear_ES-ES8288785894"
+}
