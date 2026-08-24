@@ -1,0 +1,43 @@
+{
+  "date": "24. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Brücke der Visionen",
+  "bsTitle": "Brücke der Visionen",
+  "caption": "Brooklyn Bridge, New York City, USA",
+  "copyright": "Brooklyn Bridge, New York, USA (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+  "description": "Die Brooklyn Bridge verbindet Manhattan und Brooklyn über den East River und zählt zu den bekanntesten Wahrzeichen von New York City in den Vereinigten Staaten. Nach einer Bauzeit von 14 Jahren wurde sie 1883 eröffnet und war eine der ersten großen Hängebrücken mit Stahlseilen. Ihr Bau stellte für die damalige Zeit eine technische Meisterleistung dar und veränderte den Verkehr zwischen den beiden Stadtteilen nachhaltig.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+  "hash": "786523a0da279f1bbed6ed948eb67055",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_DE-DE5037319514_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608232200",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.BKBridge_DE-DE5037319514"
+}

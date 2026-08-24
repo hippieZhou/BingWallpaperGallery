@@ -1,0 +1,43 @@
+{
+  "date": "Aug 24, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Crossing into history",
+  "bsTitle": "Crossing into history",
+  "caption": "Brooklyn Bridge, New York City, United States",
+  "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=Brooklyn+Bridge&form=hpcapt&filters=HpDate%3a%2220260823_2300%22",
+  "description": "The Brooklyn Bridge doesn't just connect Manhattan and Brooklyn in the United States—it bridges history, engineering and a few surprising stories too. Opened in 1883 after 14 years of construction, it became the world's first steel-wire suspension bridge, forever changing the way New Yorkers crossed the East River.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+  "hash": "884e0f27380bc2168b91923c7f6561f1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608232300",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.BKBridge_EN-GB1324235273"
+}

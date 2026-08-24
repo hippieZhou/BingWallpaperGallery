@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Katmai+National+Park&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_KatmaiBear%22&FORM=HPQUIZ",
+  "hash": "53a517839bd2bee06cb5f61dfa4db037",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608230700",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.KatmaiBear_ROW4890016899"
+}

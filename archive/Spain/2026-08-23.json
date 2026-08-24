@@ -1,0 +1,43 @@
+{
+  "date": "24 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rompiendo el techo de cristal",
+  "bsTitle": "Rompiendo el techo de cristal",
+  "caption": "Puente de Brooklyn, Nueva York, EE. UU.",
+  "copyright": "Puente de Brooklyn, Nueva York, EE. UU. (© shayes17/Getty Images)",
+  "copyrightOnly": "© shayes17/Getty Images",
+  "copyrightLink": "/search?q=Puente+de+Brooklyn&form=hpcapt&filters=HpDate%3a%2220260823_2200%22",
+  "description": "El puente de Brooklyn, en Nueva York, Estados Unidos, no es solo una conexión entre dos orillas: es un monumento a la ingeniería del siglo XIX y a la tenacidad humana. Inaugurado en 1883 tras catorce años de obras, fue el primer puente colgante de cables de acero del mundo. Su construcción tuvo un giro inesperado: cuando el diseñador John A. Roebling falleció y su hijo Washington quedó incapacitado, fue su esposa Emily Warren Roebling quien aprendió ingeniería para supervisar la finalización del proyecto.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+  "hash": "e43d13a23b0574a38fb7e1a6b7ff9a3d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ES-ES8423562789_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608232200",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.BKBridge_ES-ES8423562789"
+}

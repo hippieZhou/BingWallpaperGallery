@@ -1,0 +1,43 @@
+{
+  "date": "Aug 23, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Meet Katmai's fishing giants",
+  "bsTitle": "Meet Katmai's fishing giants",
+  "caption": "National Park Week",
+  "copyright": "Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)",
+  "copyrightOnly": "© Pal Hermansen/Nature Picture Library",
+  "copyrightLink": "/search?q=National+Park+Week+2026&form=hpcapt&filters=HpDate%3a%2220260823_0700%22",
+  "description": "At Katmai National Park, crowd-pleasers don't need a stage. Brown bears wait by the river, and when the salmon jump, the show begins. National Park Week—held in August this year—is the perfect time to celebrate these iconic bears and the wild home that helps them thrive.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_KatmaiBear%22&FORM=HPQUIZ",
+  "hash": "a097886cd9f27d3d492bcbed7ffff4db",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608230700",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.KatmaiBear_EN-US2844742219"
+}

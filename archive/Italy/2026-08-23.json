@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "Attraversare la storia",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Ponte di Brooklyn, New York City, USA (© shayes17/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Ponte+di+Brooklyn&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260823_BKBridge%22&FORM=HPQUIZ",
+  "hash": "1e0049a73543b36e9ecffa8e508112af",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_IT-IT1092253957_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260823",
+    "fullStartDateTime": "202608232200",
+    "endDate": "20260824"
+  },
+  "createdAt": "202608240217",
+  "originalUrlBase": "/th?id=OHR.BKBridge_IT-IT1092253957"
+}
