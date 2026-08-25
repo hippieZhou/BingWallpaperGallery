@@ -1,0 +1,43 @@
+{
+  "date": "25 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Secuoyas milenarias",
+  "bsTitle": "Secuoyas milenarias",
+  "caption": "Parques Nacionales y Estatales de Redwood, California, EE. UU.",
+  "copyright": "Parques Nacionales y Estatales de Redwood (RNSP), California, EE. UU. (© HadelProductions/Getty Images)",
+  "copyrightOnly": "© HadelProductions/Getty Images",
+  "copyrightLink": "/search?q=Parque+nacional+Redwood&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+  "description": "Caminar entre las secuoyas gigantes del Parque Nacional y Estatal de Redwood, en California, Estados Unidos, es una de esas experiencias que ponen en perspectiva la escala humana. Estos árboles, que llevan siglos creciendo, se elevan sobre una alfombra de helechos y musgos en uno de los ecosistemas más longevos del planeta. El 25 de agosto, el Servicio de Parques Nacionales de Estados Unidos celebra 110 años desde que el presidente Woodrow Wilson firmara en 1916 la ley que lo creó; hoy gestiona cientos de parques, monumentos y espacios históricos en todo el país.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_RedwoodPark%22&FORM=HPQUIZ",
+  "hash": "fa1d0191efe526ff70c1f9fd828e737c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ES-ES8525177894_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608242200",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.RedwoodPark_ES-ES8525177894"
+}

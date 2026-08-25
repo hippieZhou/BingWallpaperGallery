@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Brooklyn+Bridge&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_BKBridge%22&FORM=HPQUIZ",
+  "hash": "c956fa5fb55c2f14275d99535d11922d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608240700",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.BKBridge_ROW5406513289"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Aug 25, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "Reading between the waves",
+  "bsTitle": "Reading between the waves",
+  "caption": "Aerial view of surfers, Santa Catarina, Brazil",
+  "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
+  "copyrightOnly": "© Wonderful Nature/Shutterstock",
+  "copyrightLink": "/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260824_2300%22",
+  "description": "Off the coast of Santa Catarina in southern Brazil, the image captures a familiar ritual: surfers waiting beyond the breaking waves, their boards rising and falling with the Atlantic. From above, almost nothing seems to happen. But that's when the real work begins.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_SantaCatarina%22&FORM=HPQUIZ",
+  "hash": "a142984dc0e34e2061500ce0870ca695",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608242300",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.SantaCatarina_EN-GB1458336075"
+}

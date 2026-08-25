@@ -1,0 +1,43 @@
+{
+  "date": "25. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wellen, Wind, Weltklasse",
+  "bsTitle": "Wellen, Wind, Weltklasse",
+  "caption": "Kite-Surf World Cup auf Sylt",
+  "copyright": "Kitesurfer bei Sonnenuntergang in Deutschland (© Jens Breuer/Getty Images)",
+  "copyrightOnly": "© Jens Breuer/Getty Images",
+  "copyrightLink": "/search?q=Kite+Worldcup+Sylt+2026&form=hpcapt&filters=HpDate%3a%2220260824_2200%22",
+  "description": "Im goldenen Licht der untergehenden Sonne gleiten Kitesurfer über das Wasser. Die Sportart verbindet Elemente des Surfens, Segelns und Wakeboardens: Ein großer Lenkdrachen sorgt für den Antrieb, während die Fahrer über die Wellen rasen und spektakuläre Sprünge und Tricks ausführen. Kitesurfen entstand in den 1990er-Jahren und hat sich seitdem zu einer beliebten Wassersportart entwickelt. Ob auf dem Meer, an Seen oder in Lagunen – entscheidend sind ausreichend Wind, Geschicklichkeit und ein gutes Gespür für die Bedingungen auf dem Wasser.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_KitesurfersSunset%22&FORM=HPQUIZ",
+  "hash": "c1df0bcff9b2df91b4464f1d2cddb836",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608242200",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.KitesurfersSunset_DE-DE3980635203"
+}

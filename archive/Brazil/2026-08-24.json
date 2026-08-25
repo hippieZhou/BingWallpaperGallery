@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Nem toda miragem é uma ilusão",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Parque+Nacional+dos+Len%c3%a7%c3%b3is+Maranhenses&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_Lencois%22&FORM=HPQUIZ",
+  "hash": "4c9f9b5e479aa55b2e626724e67766c7",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608240300",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.Lencois_PT-BR9491147631"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "守护美国瑰宝",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e7%ba%a2%e6%9d%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad%e4%b8%8e%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260824_RedwoodPark%22&FORM=HPQUIZ",
+  "hash": "5695a0157a92fd7388c87fc97da7d3e1",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260824",
+    "fullStartDateTime": "202608241600",
+    "endDate": "20260825"
+  },
+  "createdAt": "202608250213",
+  "originalUrlBase": "/th?id=OHR.RedwoodPark_ZH-CN9513051062"
+}
