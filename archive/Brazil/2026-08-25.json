@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "O peso dos séculos na leveza das folhas",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Nascer do sol no Parque Nacional e Estadual de Redwood, Califórnia, Estados Unidos (© HadelProductions/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Redwood+Calif%c3%b3rnia+Estados+Unidos&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_RedwoodPark%22&FORM=HPQUIZ",
+  "hash": "3b7f0692af750cd619d9b084080bb099",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_PT-BR4867222756_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608250300",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.RedwoodPark_PT-BR4867222756"
+}

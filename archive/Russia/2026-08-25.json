@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Russia",
+  "marketCode": "ru-RU",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Redwood+National+and+State+Parks&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_RedwoodPark%22&FORM=HPQUIZ",
+  "hash": "2f5a39a355f318602663e0c9c8bc5e48",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608250700",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.RedwoodPark_ROW5740708229"
+}

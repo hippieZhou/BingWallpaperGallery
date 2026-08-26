@@ -1,0 +1,43 @@
+{
+  "date": "Aug 25, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Protecting America's treasures",
+  "bsTitle": "Protecting America's treasures",
+  "caption": "Anniversary of National Park Service",
+  "copyright": "Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)",
+  "copyrightOnly": "© HadelProductions/Getty Images",
+  "copyrightLink": "/search?q=National+Park+Service&form=hpcapt&filters=HpDate%3a%2220260825_0700%22",
+  "description": "For 110 years, America's greatest outdoor classroom has been open for exploration. On August 25, the National Park Service marks over a century of protecting the nation's natural and cultural treasures. Established in 1916 when President Woodrow Wilson signed the Organic Act into law, the agency now cares for hundreds of parks, monuments, seashores, and historic sites across the country. Ranger-led programs, family activities, and educational events invite visitors to connect with the landscapes and stories that define the national park system.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_RedwoodPark%22&FORM=HPQUIZ",
+  "hash": "20024898d303f86c2fdebb478a0c8456",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608250700",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.RedwoodPark_EN-US3199427613"
+}

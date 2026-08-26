@@ -1,0 +1,43 @@
+{
+  "date": "26 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "¡Huele a verano y gazpacho!",
+  "bsTitle": "¡Huele a verano y gazpacho!",
+  "caption": "La Tomatina de Buñol, Valencia",
+  "copyright": "Parroquia San Pedro Apóstol, Buñol, España (© Venemama/Getty Images)",
+  "copyrightOnly": "© Venemama/Getty Images",
+  "copyrightLink": "/search?q=La+tomatina&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+  "description": "El último miércoles de agosto, Buñol, un municipio valenciano de menos de 10.000 habitantes situado entre montañas a 38 kilómetros de Valencia, recibe a más de 20.000 personas para la Tomatina: una hora en la que los participantes se lanzan unos 115.000 kilos de tomates por las calles del casco histórico.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_TomatinaBunol%22&FORM=HPQUIZ",
+  "hash": "9dc57b418b904940dba2fad449df93b8",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608252200",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.TomatinaBunol_ES-ES8709376731"
+}

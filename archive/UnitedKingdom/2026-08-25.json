@@ -1,0 +1,43 @@
+{
+  "date": "Aug 26, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A sky alive with colour",
+  "bsTitle": "A sky alive with colour",
+  "caption": "Auroras over Kirkjufell, Iceland",
+  "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+  "copyrightOnly": "© Cavan Images/Alamy",
+  "copyrightLink": "/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260825_2300%22",
+  "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+  "hash": "d5a8e46e66bf7b6e90b3b5845fa0332a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608252300",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.AurorasIceland_EN-GB1541173608"
+}

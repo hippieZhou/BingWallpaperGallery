@@ -1,0 +1,43 @@
+{
+  "date": "26 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Comme un mirage céleste",
+  "bsTitle": "Comme un mirage céleste",
+  "caption": "Aurores boréales sur Kirkjufell, Islande",
+  "copyright": "Aurores boréales sur Kirkjufell, Islande (© Cavan Images/Alamy)",
+  "copyrightOnly": "© Cavan Images/Alamy",
+  "copyrightLink": "/search?q=aurore+bor%c3%a9ale&form=hpcapt&filters=HpDate%3a%2220260825_2200%22",
+  "description": "À mesure que les nuits s’allongent sur l’Islande, les regards se tournent vers le ciel dans l’espoir d’apercevoir l’aurore boréale. Ce ballet lumineux naît lorsque des particules venues du Soleil rencontrent les gaz de la haute atmosphère terrestre. Des voiles verts, roses, violets et parfois rouges ondulent alors au-dessus des paysages volcaniques. Grâce à sa situation à proximité du cercle polaire et à l’obscurité prolongée de l’automne et de l’hiver, l’île figure parmi les meilleurs endroits au monde pour contempler ce phénomène fascinant.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+  "hash": "95af4580757f0daab6cd05bfb0bec4cc",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608252200",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.AurorasIceland_FR-FR6287537082"
+}

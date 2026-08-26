@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "流光溢彩的天空",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e5%8c%97%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260825_AurorasIceland%22&FORM=HPQUIZ",
+  "hash": "3b620c7399820c5bdb0a11f6100d3ebe",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260825",
+    "fullStartDateTime": "202608251600",
+    "endDate": "20260826"
+  },
+  "createdAt": "202608260219",
+  "originalUrlBase": "/th?id=OHR.AurorasIceland_ZH-CN9781322454"
+}
