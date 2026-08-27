@@ -1,0 +1,43 @@
+{
+  "date": "27 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Agua, fauna y maravilla",
+  "bsTitle": "Agua, fauna y maravilla",
+  "caption": "Día Mundial de los Lagos",
+  "copyright": "Bandada de flamencos enanos al amanecer, Lago Magadi, Kenia (© Denis-Huot/Nature Picture Library)",
+  "copyrightOnly": "© Denis-Huot/Nature Picture Library",
+  "copyrightLink": "/search?q=Lago+Magadi&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+  "description": "En el lago Magadi, en el Gran Valle del Rift, Kenia, los flamencos enanos tiñen el horizonte de rosa al amanecer. Este lago somero y alcalino, rico en minerales, genera una proliferación de algas que atrae a miles de estas aves para alimentarse, transformando la orilla en un espectáculo de color extraordinario. Los lagos son mucho más que agua: almacenan alrededor del noventa por ciento del agua dulce superficial del planeta, regulan el clima y sostienen ecosistemas enteros. La ONU designó el 27 de agosto como Día Mundial de los Lagos, celebrado por primera vez en 2025, para visibilizar las amenazas que afrontan: contaminación, sobreexplotación y cambio climático.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+  "hash": "219feaf9b63a7486ab8718515d1ad413",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ES-ES9474511114_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260826",
+    "fullStartDateTime": "202608262200",
+    "endDate": "20260827"
+  },
+  "createdAt": "202608271047",
+  "originalUrlBase": "/th?id=OHR.LakeMagadi_ES-ES9474511114"
+}

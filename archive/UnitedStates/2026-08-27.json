@@ -1,0 +1,43 @@
+{
+  "date": "Aug 27, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Water, wildlife, and wonder",
+  "bsTitle": "Water, wildlife, and wonder",
+  "caption": "World Lake Day",
+  "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)",
+  "copyrightOnly": "© Denis-Huot/Nature Picture Library",
+  "copyrightLink": "/search?q=World+Lake+Day&form=hpcapt&filters=HpDate%3a%2220260827_0700%22",
+  "description": "Imagine a world without the natural wonders that hold about 90% of Earth's surface freshwater. Lakes are among our planet's most valuable resources. They provide clean water, support wildlife, help regulate climate, and sustain communities around the globe. In recognition of their vital role, the United Nations designated August 27 as World Lake Day, first observed in 2025. The need for action is greater than ever. More than 117 million lakes cover nearly 4% of Earth's land surface, yet many face growing pressure from pollution, overuse, and climate change.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_LakeMagadi%22&FORM=HPQUIZ",
+  "hash": "5da81fe9acc758a9beafb035dab00d8b",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260827",
+    "fullStartDateTime": "202608270700",
+    "endDate": "20260828"
+  },
+  "createdAt": "202608271047",
+  "originalUrlBase": "/th?id=OHR.LakeMagadi_EN-US3401664434"
+}

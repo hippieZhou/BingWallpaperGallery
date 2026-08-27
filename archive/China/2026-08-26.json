@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "湖水、野生动物与奇景",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e4%b8%96%e7%95%8c%e6%b9%96%e6%b3%8a%e6%97%a5&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+  "hash": "10d60cf76cca639372535997c3c54ddf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260826",
+    "fullStartDateTime": "202608261600",
+    "endDate": "20260827"
+  },
+  "createdAt": "202608271047",
+  "originalUrlBase": "/th?id=OHR.LakeMagadi_ZH-CN0601527009"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "27. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Wasser, Wildtiere und Wunder",
+  "bsTitle": "Wasser, Wildtiere und Wunder",
+  "caption": "Welttag der Seen",
+  "copyright": "Zwergflamingos bei Sonnenaufgang am Magadi-See, Kenia (© Denis-Huot/Nature Picture Library)",
+  "copyrightOnly": "© Denis-Huot/Nature Picture Library",
+  "copyrightLink": "/search?q=Welttag+der+Seen&form=hpcapt&filters=HpDate%3a%2220260826_2200%22",
+  "description": "Der Welttag der Seen am 27. August erinnert daran, wie wertvoll Seen für Natur, Klima und Menschen sind. Sie speichern Wasser, bieten Lebensraum für zahlreiche Tier- und Pflanzenarten und prägen Landschaften auf der ganzen Welt. Gleichzeitig sind viele Seen durch Verschmutzung, zunehmende Trockenheit und andere Umweltveränderungen bedroht. Der Aktionstag macht darauf aufmerksam, wie wichtig ihr Schutz für kommende Generationen ist.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260826_LakeMagadi%22&FORM=HPQUIZ",
+  "hash": "0aad9848eb2a8e179a854bde8c8e79c9",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeMagadi_DE-DE5321228958_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260826",
+    "fullStartDateTime": "202608262200",
+    "endDate": "20260827"
+  },
+  "createdAt": "202608271047",
+  "originalUrlBase": "/th?id=OHR.LakeMagadi_DE-DE5321228958"
+}
