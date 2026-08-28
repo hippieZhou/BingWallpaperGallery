@@ -1,0 +1,43 @@
+{
+  "date": "Aug 28, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Where tides shape a legend",
+  "bsTitle": "Where tides shape a legend",
+  "caption": "Mont-Saint Michel during high tide, Normandy, France",
+  "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)",
+  "copyrightOnly": "© Clement LEONARD/Getty Images",
+  "copyrightLink": "/search?q=Mont+Saint+Michel&form=hpcapt&filters=HpDate%3a%2220260828_0700%22",
+  "description": "At sunset, Mont-Saint Michel rises from the waters of Normandy, France, like a fortress shaped by the sea. Perched on a rocky tidal island, the abbey and village stand at the center of one of Europe's most dramatic coastal settings. Twice a day, the sea retreats to reveal vast stretches of sand before surging back to reclaim the landscape. At high tide, the mount becomes an island once again. For centuries, travelers timed their journeys to this rhythm, crossing the flats when conditions allowed and watching the sea return hours later.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_MichelSunset%22&FORM=HPQUIZ",
+  "hash": "a20e6451f44459682881cd59f0b198e0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260828",
+    "fullStartDateTime": "202608280700",
+    "endDate": "20260829"
+  },
+  "createdAt": "202608281223",
+  "originalUrlBase": "/th?id=OHR.MichelSunset_EN-US3527235033"
+}

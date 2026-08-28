@@ -1,0 +1,43 @@
+{
+  "date": "28. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Zwischen Himmel und Meer",
+  "bsTitle": "Zwischen Himmel und Meer",
+  "caption": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich",
+  "copyright": "Mont-Saint-Michel bei Flut, Manche, Normandie, Frankreich (© Clement LEONARD/Getty Images)",
+  "copyrightOnly": "© Clement LEONARD/Getty Images",
+  "copyrightLink": "/search?q=Mont-Saint-Michel&form=hpcapt&filters=HpDate%3a%2220260827_2200%22",
+  "description": "Der Mont-Saint-Michel bei Flut in der Manche in der Normandie zählt zu den bekanntesten Wahrzeichen Frankreichs. Sobald das Meer ansteigt, verwandelt sich der Granitfelsen in eine Insel und wirkt wie eine Erscheinung aus einer anderen Zeit. Seine Geschichte reicht bis ins Jahr 708 zurück, als der Überlieferung nach der Erzengel Michael dem Bischof Aubert von Avranches erschien und ihn zum Bau eines Heiligtums auf dem Felsen aufforderte. Aus dieser ersten Kultstätte entwickelte sich im Laufe der Jahrhunderte ein bedeutendes religiöses Zentrum und ein viel besuchter Wallfahrtsort.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+  "hash": "836c24f1637bbb86413a04e2045064a0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260827",
+    "fullStartDateTime": "202608272200",
+    "endDate": "20260828"
+  },
+  "createdAt": "202608281223",
+  "originalUrlBase": "/th?id=OHR.MichelSunset_DE-DE7463636835"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Italy",
+  "marketCode": "it-IT",
+  "title": "La marea trasforma il paesaggio",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Le Mont-Saint-Michel, Manica, Normandia, Francia (© Clement LEONARD/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Le+Mont-Saint-Michel&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260827_MichelSunset%22&FORM=HPQUIZ",
+  "hash": "7245e374f3b53573c2e132e8bf28308a",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_IT-IT1503723648_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260827",
+    "fullStartDateTime": "202608272200",
+    "endDate": "20260828"
+  },
+  "createdAt": "202608281223",
+  "originalUrlBase": "/th?id=OHR.MichelSunset_IT-IT1503723648"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Uma ilha de meio período",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Monte Saint-Michel durante a maré alta, Manche, Normandia, França (© Clement LEONARD/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Monte+Saint+Michel&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_MichelSunset%22&FORM=HPQUIZ",
+  "hash": "757b814e6487b536939b2a063d676804",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_PT-BR1793038232_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_PT-BR1793038232_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_PT-BR1793038232_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MichelSunset_PT-BR1793038232_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260828",
+    "fullStartDateTime": "202608280300",
+    "endDate": "20260829"
+  },
+  "createdAt": "202608281223",
+  "originalUrlBase": "/th?id=OHR.MichelSunset_PT-BR1793038232"
+}
