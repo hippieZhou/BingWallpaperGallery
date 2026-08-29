@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "SouthKorea",
+  "marketCode": "ko-KR",
+  "title": "Info",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=Cami+de+Ronda&form=hpcapt",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_LloretdeMar%22&FORM=HPQUIZ",
+  "hash": "b437d090e29b3546e13ae09d101524fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260829",
+    "fullStartDateTime": "202608290700",
+    "endDate": "20260830"
+  },
+  "createdAt": "202608290733",
+  "originalUrlBase": "/th?id=OHR.LloretdeMar_ROW9048268267"
+}

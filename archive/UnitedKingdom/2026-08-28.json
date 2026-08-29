@@ -1,0 +1,43 @@
+{
+  "date": "Aug 29, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A city painted in rhythm",
+  "bsTitle": "A city painted in rhythm",
+  "caption": "Notting Hill Carnival",
+  "copyright": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)",
+  "copyrightOnly": "© Sebastian Remme/Alamy Live News",
+  "copyrightLink": "/search?q=Notting+Hill+Carnival&form=hpcapt&filters=HpDate%3a%2220260828_2300%22",
+  "description": "Some weekends ask you to slow down. This one turns the volume up. Streets become dance floors, steel pans replace traffic noise, and the scent of Caribbean food follows every step. At Notting Hill Carnival, London's roads don't just close to traffic, they open to celebration.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260828_NottingHillCarnival2026%22&FORM=HPQUIZ",
+  "hash": "ee0d4734aa885e4f92a3a33a4d0292ba",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260828",
+    "fullStartDateTime": "202608282300",
+    "endDate": "20260829"
+  },
+  "createdAt": "202608290733",
+  "originalUrlBase": "/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135"
+}
