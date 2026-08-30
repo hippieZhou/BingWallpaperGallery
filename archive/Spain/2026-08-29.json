@@ -1,0 +1,43 @@
+{
+  "date": "30 de ago de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Un pez con el nombre de otro",
+  "bsTitle": "Un pez con el nombre de otro",
+  "caption": "Día Internacional del Tiburón Ballena",
+  "copyright": "Tiburón ballena y jurel real dorado, Bahía de Cenderawasih, Papúa Occidental, Indonesia (© Pete Oxford/Nature Picture Library)",
+  "copyrightOnly": "© Pete Oxford/Nature Picture Library",
+  "copyrightLink": "/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+  "description": "En la bahía de Cenderawasih, en Papúa Occidental (Indonesia), un tiburón ballena navega en compañía de un banco de jureles dorados. El 30 de agosto es el Día Internacional del Tiburón Ballena: con hasta 18 metros de longitud y cerca de 20 toneladas de peso, es el pez más grande del planeta, aunque se alimenta filtrando plancton y huevos de pez con su enorme boca abierta. Cada individuo lleva en su piel un mapa único de manchas blancas —como las huellas dactilares— que permite identificarlo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_YellowShark%22&FORM=HPQUIZ",
+  "hash": "bb92c4d4c8ee07cd3f55df21df734da3",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260829",
+    "fullStartDateTime": "202608292200",
+    "endDate": "20260830"
+  },
+  "createdAt": "202608300606",
+  "originalUrlBase": "/th?id=OHR.YellowShark_ES-ES9780213231"
+}

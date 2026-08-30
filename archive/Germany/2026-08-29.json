@@ -1,0 +1,43 @@
+{
+  "date": "30. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Majestät der Ozeane",
+  "bsTitle": "Majestät der Ozeane",
+  "caption": "Internationaler Tag des Walhais",
+  "copyright": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
+  "copyrightOnly": "© Pete Oxford/Nature Picture Library",
+  "copyrightLink": "/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+  "description": "Am 30. August macht der Internationale Tag des Walhais auf die Bedeutung des größten Fisches der Erde aufmerksam. Trotz seiner beeindruckenden Größe gilt der Walhai als friedlicher Filterer, der sich vor allem von Plankton und kleinen Meerestieren ernährt. Ausgewachsene Tiere können bis zu 18 Meter lang werden und etwa 20 Tonnen wiegen. Damit gehört diese Art zu den eindrucksvollsten Bewohnern der tropischen und subtropischen Meere und fasziniert Forschende ebenso wie Naturbegeisterte auf der ganzen Welt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_YellowShark%22&FORM=HPQUIZ",
+  "hash": "1bf7dbc24f41c84544d624683ad0ec53",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260829",
+    "fullStartDateTime": "202608292200",
+    "endDate": "20260830"
+  },
+  "createdAt": "202608300606",
+  "originalUrlBase": "/th?id=OHR.YellowShark_DE-DE7632036192"
+}

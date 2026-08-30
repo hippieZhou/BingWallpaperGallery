@@ -1,0 +1,43 @@
+{
+  "date": "30 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Un grand nom pour un gros poisson",
+  "bsTitle": "Un grand nom pour un gros poisson",
+  "caption": "Journée internationale du requin-baleine",
+  "copyright": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
+  "copyrightOnly": "© Pete Oxford/Nature Picture Library",
+  "copyrightLink": "/search?q=requin-baleine&form=hpcapt&filters=HpDate%3a%2220260829_2200%22",
+  "description": "Le 30 août, la Journée internationale du requin-baleine met à l’honneur un géant paisible des océans. Malgré son nom, il ne s’agit pas d’une baleine, mais du plus grand poisson vivant sur Terre. Pouvant atteindre près de 18 mètres de long et peser jusqu’à 18 tonnes, il fréquente les eaux tropicales et subtropicales chaudes. La bouche grande ouverte, il filtre l’eau pour capturer du plancton, des œufs de poissons et d’autres organismes minuscules. Chaque individu porte une constellation de taches blanches unique, comparable à une empreinte digitale.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260829_YellowShark%22&FORM=HPQUIZ",
+  "hash": "4473363d3f9063865954a6d13a6686fa",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260829",
+    "fullStartDateTime": "202608292200",
+    "endDate": "20260830"
+  },
+  "createdAt": "202608300606",
+  "originalUrlBase": "/th?id=OHR.YellowShark_FR-FR9208937852"
+}
