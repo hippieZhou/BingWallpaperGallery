@@ -1,0 +1,43 @@
+{
+  "date": "Aug 31, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "A master class in pattern",
+  "bsTitle": "A master class in pattern",
+  "caption": "Building detail of Registan Square, Samarkand, Uzbekistan",
+  "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+  "copyrightOnly": "© Piero M. Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_1830%22",
+  "description": "Stand in Registan Square and it's easy to see why it is considered the architectural heart of Samarkand—one of Central Asia's oldest cities. This plaza in Uzbekistan is framed by three magnificent madrasas—Islamic centres of learning—whose soaring portals draw the eye upwards. Yet some of the square's greatest treasures reveal themselves only when you look closer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+  "hash": "b7317fb43c1870e80e49982d35600b05",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260830",
+    "fullStartDateTime": "202608301830",
+    "endDate": "20260831"
+  },
+  "createdAt": "202608310627",
+  "originalUrlBase": "/th?id=OHR.SamarkandCeiling_EN-IN0367504407"
+}

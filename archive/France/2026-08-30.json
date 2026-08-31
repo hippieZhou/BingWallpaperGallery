@@ -1,0 +1,43 @@
+{
+  "date": "31 août 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Quand la beauté du détail opère",
+  "bsTitle": "Quand la beauté du détail opère",
+  "caption": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan",
+  "copyright": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+  "copyrightOnly": "© Piero M. Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+  "description": "Sur la place du Régistan, à Samarcande, il suffit de lever les yeux pour comprendre pourquoi ce lieu est considéré comme le cœur architectural de l’Asie centrale. Bordée par trois majestueuses médersas, anciennes écoles consacrées au savoir et à la spiritualité, cette vaste esplanade d’Ouzbékistan impressionne par ses façades monumentales et ses portails élancés.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+  "hash": "a9c8bcb93ac2eed90bafd2967d946ec2",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260830",
+    "fullStartDateTime": "202608302200",
+    "endDate": "20260831"
+  },
+  "createdAt": "202608310627",
+  "originalUrlBase": "/th?id=OHR.SamarkandCeiling_FR-FR3513297737"
+}

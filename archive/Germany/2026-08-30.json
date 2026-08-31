@@ -1,0 +1,43 @@
+{
+  "date": "31. Aug.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Meisterwerk der Musterkunst",
+  "bsTitle": "Ein Meisterwerk der Musterkunst",
+  "caption": "Registan-Platz, Samarkand, Usbekistan",
+  "copyright": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
+  "copyrightOnly": "© Piero M. Bianchi/Getty Images",
+  "copyrightLink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22",
+  "description": "Der Registan in Samarkand zählt zu den bekanntesten Wahrzeichen Usbekistans und gilt als ein Meisterwerk der islamischen Baukunst. Besonders faszinierend sind die architektonischen Details, die sich über Fassaden, Portale und Kuppeln erstrecken. Tausende sorgfältig angeordnete Keramikfliesen bilden geometrische Muster, die den Blick immer wieder auf neue Formen und Symmetrien lenken. Das Zusammenspiel von Blau, Türkis und Sandtönen verleiht den Bauwerken eine außergewöhnliche Ausstrahlung und unterstreicht ihre historische Bedeutung.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260830_SamarkandCeiling%22&FORM=HPQUIZ",
+  "hash": "4316e8e47155bd4b1e7f6a44e4d8974c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260830",
+    "fullStartDateTime": "202608302200",
+    "endDate": "20260831"
+  },
+  "createdAt": "202608310627",
+  "originalUrlBase": "/th?id=OHR.SamarkandCeiling_DE-DE7789243927"
+}
