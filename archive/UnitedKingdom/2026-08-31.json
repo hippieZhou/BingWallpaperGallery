@@ -1,0 +1,43 @@
+{
+  "date": "Sept 1, 2026",
+  "country": "UnitedKingdom",
+  "marketCode": "en-GB",
+  "title": "A world beneath your feet",
+  "bsTitle": "A world beneath your feet",
+  "caption": "Horsehair parachute fungus, Belarus",
+  "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+  "copyrightOnly": "© Máté/Nature Picture Library",
+  "copyrightLink": "/search?q=Horsehair+parachute+fungus&form=hpcapt&filters=HpDate%3a%2220260831_2300%22",
+  "description": "Tiny mushrooms often go unnoticed, but the horsehair parachute fungus deserves a closer look. With a stem as thin as a strand of horsehair and a pleated cap measuring just 0.5 to 1 centimetre across, this miniature mushroom proves that good things really do come in small packages.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+  "hash": "98d2e538f7e5e743d280439f1a0c4baf",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260831",
+    "fullStartDateTime": "202608312300",
+    "endDate": "20260901"
+  },
+  "createdAt": "202609010554",
+  "originalUrlBase": "/th?id=OHR.HorseHairShroom_EN-GB2103309829"
+}

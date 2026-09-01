@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "China",
+  "marketCode": "zh-CN",
+  "title": "脚下的世界",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=%e9%a9%ac%e9%ac%83%e5%b0%8f%e7%9a%ae%e4%bc%9e&form=hpcapt&mkt=zh-cn",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+  "hash": "80bd16afd680a7243bea59f86ad765c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260831",
+    "fullStartDateTime": "202608311600",
+    "endDate": "20260901"
+  },
+  "createdAt": "202609010554",
+  "originalUrlBase": "/th?id=OHR.HorseHairShroom_ZH-CN2241458451"
+}

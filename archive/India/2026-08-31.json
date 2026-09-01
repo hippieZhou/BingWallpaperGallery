@@ -1,0 +1,43 @@
+{
+  "date": "Sept 1, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "The tide that carries tales",
+  "bsTitle": "The tide that carries tales",
+  "caption": "Surathkal Beach, Karnataka",
+  "copyright": "The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+  "copyrightOnly": "© Amith Nag Photography/Moment/Getty Images",
+  "copyrightLink": "/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate%3a%2220260831_1830%22",
+  "description": "At Surathkal Beach, the waves aren't the only things making an impression. A lighthouse watches over the shore, a historic temple keeps centuries-old legends alive and, until recently, a stranded ship added an unexpected chapter to its story.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_SurathkalBeach2026%22&FORM=HPQUIZ",
+  "hash": "a1460d5a674ed560275afa70de681e53",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260831",
+    "fullStartDateTime": "202608311830",
+    "endDate": "20260901"
+  },
+  "createdAt": "202609010554",
+  "originalUrlBase": "/th?id=OHR.SurathkalBeach2026_EN-IN6160079394"
+}

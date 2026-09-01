@@ -1,0 +1,43 @@
+{
+  "date": "1. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Die verborgene Welt der Pilze",
+  "bsTitle": "Die verborgene Welt der Pilze",
+  "caption": "Rosshaar-Schwindling, Belarus",
+  "copyright": "Rosshaar-Schwindling, Belarus (© Máté/Nature Picture Library)",
+  "copyrightOnly": "© Máté/Nature Picture Library",
+  "copyrightLink": "/search?q=Rosshaar-Schwindling&form=hpcapt&filters=HpDate%3a%2220260831_2200%22",
+  "description": "Im September erreicht in vielen Regionen Europas die Pilzsaison ihren Höhepunkt. Auch der Rosshaar-Schwindling bildet dann häufig Fruchtkörper und lässt sich mit etwas Aufmerksamkeit in Wäldern entdecken. Der kleine Pilz wächst auf abgestorbenen Nadeln, Blättern und Zweigen und trägt als Zersetzer zum natürlichen Stoffkreislauf im Wald bei. In Belarus kommt er sowohl in Mischwäldern als auch in ausgedehnten Nadelwäldern vor, die einen wichtigen Teil der Landschaft prägen. Seine zarten Fruchtkörper sind jedoch leicht zu übersehen und werden oft erst auf den zweiten Blick sichtbar.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260831_HorseHairShroom%22&FORM=HPQUIZ",
+  "hash": "6bd15f3a1c1e2e792051f2898d313b05",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260831",
+    "fullStartDateTime": "202608312200",
+    "endDate": "20260901"
+  },
+  "createdAt": "202609010554",
+  "originalUrlBase": "/th?id=OHR.HorseHairShroom_DE-DE7910104416"
+}
