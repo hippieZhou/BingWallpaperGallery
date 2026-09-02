@@ -1,0 +1,43 @@
+{
+  "date": "2 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Une touche de couleur iodée",
+  "bsTitle": "Une touche de couleur iodée",
+  "caption": "Cabanes de plage, Suffolk Heritage Coast, Angleterre",
+  "copyright": "Cabanes de plage, Southwold, Suffolk Heritage Coast, Angleterre (© stevendocwra/Getty Images)",
+  "copyrightOnly": "© stevendocwra/Getty Images",
+  "copyrightLink": "/search?q=Southwold+Suffolk+Angleterre&form=hpcapt&filters=HpDate%3a%2220260901_2200%22",
+  "description": "À l’Est de l’Angleterre, la côte du Suffolk (« Suffolk Heritage Coast ») regorge de landes battues par le vent, de marais salés et de plages de galets donnant sur la mer du Nord. Au cœur de ce paysage se trouve Southwold, petite ville façonnée par l’eau. Presque ceinturée par la mer, la rivière Blyth et les zones humides voisines, elle occupe une étroite péninsule où la pêche, le commerce maritime et les marées ont modelé les vies humaines autant que le territoire.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_SuffolkHuts%22&FORM=HPQUIZ",
+  "hash": "459a98bdff0400c6bde39c634c64bc49",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260901",
+    "fullStartDateTime": "202609012200",
+    "endDate": "20260902"
+  },
+  "createdAt": "202609020517",
+  "originalUrlBase": "/th?id=OHR.SuffolkHuts_FR-FR9132067809"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 9月 月 2 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "海岸に並ぶカラフルな小屋",
+  "bsTitle": "海岸に並ぶカラフルな小屋",
+  "caption": "海岸に並ぶカラフルな小屋",
+  "copyright": "ビーチハット, イングランド (© stevendocwra/Getty Images)",
+  "copyrightOnly": "© stevendocwra/Getty Images",
+  "copyrightLink": "/search?q=%e3%82%b5%e3%82%a6%e3%82%b9%e3%82%a6%e3%82%a9%e3%83%ab%e3%83%89%e3%82%b5%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220260901_1500%22",
+  "description": "サウスウォルドは、イングランド東部サフォーク州の美しい海辺の町です。北海やブライス川、広大な湿地に囲まれた細長い半島に位置し、古くから漁業や交易で栄えてきました。海岸沿いには約 300 棟の色鮮やかな木造の小屋が並んでいます。この小屋はビーチハットと呼ばれ、もともとは海水浴客や漁師のための簡易的な休憩所として利用されていましたが、現在はレジャーや休暇を楽しむための施設として親しまれています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_SuffolkHuts%22&FORM=HPQUIZ",
+  "hash": "21453c4a4db4977e1c0f83cf77ecf442",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260901",
+    "fullStartDateTime": "202609011500",
+    "endDate": "20260902"
+  },
+  "createdAt": "202609020517",
+  "originalUrlBase": "/th?id=OHR.SuffolkHuts_JA-JP3115171778"
+}

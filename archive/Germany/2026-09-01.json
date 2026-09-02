@@ -1,0 +1,43 @@
+{
+  "date": "2. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Farbenfroh an der Küste",
+  "bsTitle": "Farbenfroh an der Küste",
+  "caption": "Strandhütten, Southwold, Suffolk Heritage Coast, England",
+  "copyright": "Traditionelle Strandhütten, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+  "copyrightOnly": "© stevendocwra/Getty Images",
+  "copyrightLink": "/search?q=Southwold+Informationen&form=hpcapt&filters=HpDate%3a%2220260901_2200%22",
+  "description": "An der Suffolk Heritage Coast in Ostengland gehört Southwold zu den Orten, die den Charme der britischen Küste besonders eindrucksvoll bewahrt haben. Entlang der Strandpromenade stehen zahlreiche traditionelle Strandhütten, deren leuchtende Farben schon von Weitem ins Auge fallen. Sie prägen das Bild des Küstenortes seit Generationen und sind für viele Besucher ebenso charakteristisch wie der breite Kiesstrand und die frische Meeresluft.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_SuffolkHuts%22&FORM=HPQUIZ",
+  "hash": "87ee4fc2eaedbc1af27a5824133a640d",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260901",
+    "fullStartDateTime": "202609012200",
+    "endDate": "20260902"
+  },
+  "createdAt": "202609020517",
+  "originalUrlBase": "/th?id=OHR.SuffolkHuts_DE-DE8043107896"
+}

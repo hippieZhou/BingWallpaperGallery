@@ -1,0 +1,43 @@
+{
+  "date": "Sep 1, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "A world beneath your feet",
+  "bsTitle": "A world beneath your feet",
+  "caption": "National Mushroom Month",
+  "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+  "copyrightOnly": "© Máté/Nature Picture Library",
+  "copyrightLink": "/search?q=National+Mushroom+Month&form=hpcapt&filters=HpDate%3a%2220260901_0700%22",
+  "description": "September's National Mushroom Month celebrates a world that often goes unnoticed. Beneath forest floors, lawns, and fallen leaves, fungal networks recycle nutrients, helping ecosystems thrive. The mushrooms we notice are only the fruiting bodies of these hidden organisms, emerging briefly to release spores before fading back from view. They are not plants; fungi form a kingdom of their own and play an essential role in nature's cycles.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+  "hash": "8b1d99a3414c36b988e4a7c66b5874b5",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260901",
+    "fullStartDateTime": "202609010700",
+    "endDate": "20260902"
+  },
+  "createdAt": "202609020517",
+  "originalUrlBase": "/th?id=OHR.HorseHairShroom_EN-US3885857486"
+}

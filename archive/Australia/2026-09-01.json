@@ -1,0 +1,43 @@
+{
+  "date": "Sept 1, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Horsehair parachute fungus, Belarus",
+  "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)",
+  "copyrightOnly": "© Máté/Nature Picture Library",
+  "copyrightLink": "/search?q=Fungus&form=hpcapt&filters=HpDate%3a%2220260901_0700%22",
+  "description": "Fungi often go unnoticed beneath forest floors, lawns and fallen leaves, yet their underground threads help recycle nutrients and support healthy ecosystems. The mushrooms we see are only the fruiting bodies of much larger organisms. They appear briefly, release spores, then disappear from sight. Unlike plants, fungi belong to a kingdom of their own. Some species even glow, while others form partnerships with trees.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260901_HorseHairShroom%22&FORM=HPQUIZ",
+  "hash": "e425bf589d2e9ccdcf0de2d48acdf26f",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ROW4884226471_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ROW4884226471_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ROW4884226471_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ROW4884226471_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260901",
+    "fullStartDateTime": "202609010700",
+    "endDate": "20260902"
+  },
+  "createdAt": "202609020517",
+  "originalUrlBase": "/th?id=OHR.HorseHairShroom_ROW4884226471"
+}
