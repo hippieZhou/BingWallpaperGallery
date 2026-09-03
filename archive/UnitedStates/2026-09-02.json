@@ -1,0 +1,43 @@
+{
+  "date": "Sep 2, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Painted along the shore",
+  "bsTitle": "Painted along the shore",
+  "caption": "Beach huts, Southwold, Suffolk Heritage Coast, England",
+  "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
+  "copyrightOnly": "© stevendocwra/Getty Images",
+  "copyrightLink": "/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22",
+  "description": "Along England's east shore, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches, and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth, and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade, and life at the edge of the water.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_SuffolkHuts%22&FORM=HPQUIZ",
+  "hash": "7a260c2728bf9356dba2e1678b6f4e1c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260902",
+    "fullStartDateTime": "202609020700",
+    "endDate": "20260903"
+  },
+  "createdAt": "202609030522",
+  "originalUrlBase": "/th?id=OHR.SuffolkHuts_EN-US3987062531"
+}

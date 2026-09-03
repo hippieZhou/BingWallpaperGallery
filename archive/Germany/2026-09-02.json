@@ -1,0 +1,43 @@
+{
+  "date": "3. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Frankfurts historische Mitte",
+  "bsTitle": "Frankfurts historische Mitte",
+  "caption": "Römerberg, Frankfurt am Main",
+  "copyright": "Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)",
+  "copyrightOnly": "© f11photo/Getty Images",
+  "copyrightLink": "/search?q=R%c3%b6merberg&form=hpcapt&filters=HpDate%3a%2220260902_2200%22",
+  "description": "Der Römerberg im Herzen von Frankfurt am Main zählt zu den bekanntesten Plätzen Deutschlands. Seit Jahrhunderten bildet er das historische Zentrum der Stadt und dient bis heute als Kulisse für Märkte, Feste und öffentliche Veranstaltungen. Trotz der modernen Skyline, für die Frankfurt heute berühmt ist, erinnert dieser Platz an eine Zeit, in der Handel, Handwerk und Bürgersinn das Leben prägten. Besonders die rekonstruierten Fachwerkhäuser entlang der Ostzeile verleihen dem Römerberg sein unverwechselbares Erscheinungsbild und schlagen eine Brücke zwischen Vergangenheit und Gegenwart.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260902_FrankfurtRomerberg%22&FORM=HPQUIZ",
+  "hash": "124ba9adf4cf43081f38439180427b72",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260902",
+    "fullStartDateTime": "202609022200",
+    "endDate": "20260903"
+  },
+  "createdAt": "202609030522",
+  "originalUrlBase": "/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183"
+}
