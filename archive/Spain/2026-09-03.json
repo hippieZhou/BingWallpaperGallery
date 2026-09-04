@@ -1,0 +1,43 @@
+{
+  "date": "4 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Rojo y blanco en el horizonte",
+  "bsTitle": "Rojo y blanco en el horizonte",
+  "caption": "Faro de Westerheversand, Schleswig-Holstein, Alemania",
+  "copyright": "Faro de Westerheversand, Westerhever, Schleswig-Holstein, Alemania (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=Westerhever+Alemania&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+  "description": "Entre las marismas saladas de Westerhever, en Schleswig-Holstein (Alemania), un gigante a franjas rojas y blancas vigila el mar del Norte desde 1908. El faro de Westerheversand es una torre de hierro fundido de 40 metros asentada sobre una loma artificial, rodeada de canales que la marea dibuja y borra dos veces al día.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+  "hash": "d23ead32b63fd78f0854a4a499e17b30",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_ES-ES7729851361_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_ES-ES7729851361_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_ES-ES7729851361_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_ES-ES7729851361_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609032200",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.Westerheversand_ES-ES7729851361"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "4 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Rouge et blanc à l’horizon",
+  "bsTitle": "Rouge et blanc à l’horizon",
+  "caption": "Phare de Westerheversand, Schleswig-Holstein, Allemagne",
+  "copyright": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+  "description": "Dressé au-dessus des marais salés de la côte allemande de la mer du Nord, le phare de Westerheversand attire immédiatement le regard avec ses bandes rouges et blanches. Érigé entre 1906 et 1908 sur la péninsule d’Eiderstedt, il guide depuis plus d’un siècle les navigateurs dans les eaux parfois capricieuses de la mer du Nord. Aujourd’hui encore, cette silhouette emblématique figure parmi les monuments côtiers les plus célèbres du nord de l’Allemagne. Après l’ascension de ses 157 marches, les visiteurs découvrent un vaste panorama où ciel, mer et terre semblent ne faire qu’un.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+  "hash": "b3c04a92127322cbc82dec521847e814",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609032200",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.Westerheversand_FR-FR6860967880"
+}

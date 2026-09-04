@@ -1,0 +1,43 @@
+{
+  "date": "Sep 3, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "An act of wilderness",
+  "bsTitle": "An act of wilderness",
+  "caption": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona",
+  "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
+  "copyrightOnly": "© James Hager/Getty Images",
+  "copyrightLink": "/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22",
+  "description": "Waves usually belong to the ocean. In northern Arizona, they rise from the desert instead. The swirling sandstone formations of Coyote Buttes, part of Vermilion Cliffs National Monument, were shaped by ancient dunes and millions of years of erosion, creating a landscape that seems to ripple even while standing still.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_AZWilderness%22&FORM=HPQUIZ",
+  "hash": "293dfaa334b21acfa31c774a85f79534",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609030700",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.AZWilderness_EN-US4070936347"
+}

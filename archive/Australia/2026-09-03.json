@@ -1,0 +1,43 @@
+{
+  "date": "Sept 3, 2026",
+  "country": "Australia",
+  "marketCode": "en-AU",
+  "title": "Info",
+  "bsTitle": "Info",
+  "caption": "Vermilion Cliffs National Monument, Arizona, United States",
+  "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona, United States (© James Hager/Getty Images)",
+  "copyrightOnly": "© James Hager/Getty Images",
+  "copyrightLink": "/search?q=Vermilion+Cliffs+National+Monument&form=hpcapt&filters=HpDate%3a%2220260903_0700%22",
+  "description": "Blink and you'll miss the turn, but you definitely won't miss the cliffs. Vermilion Cliffs National Monument stretches across northern Arizona and protects a landscape shaped over nearly 200 million years. The area became a national monument in 2000, helping safeguard fragile rock formations, prehistoric sites and habitats for rare wildlife. Coyote Buttes is the star attraction for many visitors. Its famous Wave is carved into Navajo Sandstone, which began as vast sand dunes during the Jurassic Period. Over millions of years, wind erosion, rainfall and temperature changes sculpted the flowing bands and curves seen today.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_AZWilderness%22&FORM=HPQUIZ",
+  "hash": "dcd265bb90ec3c19901b88b07667919c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_ROW6879233352_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_ROW6879233352_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_ROW6879233352_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.AZWilderness_ROW6879233352_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609030700",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.AZWilderness_ROW6879233352"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "Sept 4, 2026",
+  "country": "India",
+  "marketCode": "en-IN",
+  "title": "Red and white on the horizon",
+  "bsTitle": "Red and white on the horizon",
+  "caption": "Westerheversand Lighthouse, Schleswig-Holstein, Germany",
+  "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260903_1830%22",
+  "description": "Rising above the salt marshes along Germany's North Sea coast, Westerheversand Lighthouse is instantly recognisable for its distinctive red-and-white stripes. Built between 1906 and 1908 on 127 heavy wooden piles driven into the sand, the 40-metre cast-iron tower has stood on the Eiderstedt Peninsula for more than a century, guiding ships through the North Sea. Two identical white keeper's cottages flank the beacon, adding to its storybook appearance.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+  "hash": "c1520592942e5717f915921d1595100c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-IN6508979486_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609031830",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.Westerheversand_EN-IN6508979486"
+}

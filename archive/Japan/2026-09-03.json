@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 9月 月 4 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "草原の先にたたずむ灯台",
+  "bsTitle": "草原の先にたたずむ灯台",
+  "caption": "草原の先にたたずむ灯台",
+  "copyright": "ヴェスターヘーファーザント灯台, ドイツ (© bluejayphoto/Getty Images)",
+  "copyrightOnly": "© bluejayphoto/Getty Images",
+  "copyrightLink": "/search?q=%e3%83%b4%e3%82%a7%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%98%e3%83%bc%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b6%e3%83%b3%e3%83%88%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate%3a%2220260903_1500%22",
+  "description": "ドイツ北海沿岸に広がる塩性湿地帯の中にそびえ立つヴェスターヘーファーザント灯台。赤と白の縞模様が特徴的なこの鋳鉄製灯台は、ユネスコ世界自然遺産に登録されているワッデン海の一部であるワッデン海国立公園内にあります。1906 年から 1908 年にかけて建設され、1 世紀以上にわたり北海を航行する船舶の安全を見守ってきました。現在は、ドイツ北部沿岸のランドマークの一つとして親しまれています。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_Westerheversand%22&FORM=HPQUIZ",
+  "hash": "bb9b13dc556e990229e69d8a3b4c6b39",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609031500",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.Westerheversand_JA-JP0136915036"
+}

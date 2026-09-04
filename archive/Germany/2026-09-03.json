@@ -1,0 +1,43 @@
+{
+  "date": "4. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Bögen zum Horizont",
+  "bsTitle": "Bögen zum Horizont",
+  "caption": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen",
+  "copyright": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)",
+  "copyrightOnly": "© lilly3/Getty Images",
+  "copyrightLink": "/search?q=Horizontobservatorium+Halde+Hoheward&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+  "description": "Hoch über dem Ruhrgebiet erhebt sich auf der Halde Hoheward das Horizontobservatorium, eines der ungewöhnlichsten Wahrzeichen des Strukturwandels in Nordrhein-Westfalen. Die gewaltigen Stahlbögen, die das Gipfelplateau überspannen, wirken wie ein modernes Kunstwerk unter freiem Himmel. Tatsächlich dient die Anlage jedoch nicht nur als Blickfang: Sie wurde als astronomisches Bauwerk entworfen, das die Bewegungen der Sonne und die Wechsel der Jahreszeiten veranschaulicht und Besucher ins Staunen versetzt.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260903_HorizontHerten%22&FORM=HPQUIZ",
+  "hash": "494b70ed4cfb0c0d95e3712992dc48d0",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260903",
+    "fullStartDateTime": "202609032200",
+    "endDate": "20260904"
+  },
+  "createdAt": "202609040516",
+  "originalUrlBase": "/th?id=OHR.HorizontHerten_DE-DE6847367698"
+}
