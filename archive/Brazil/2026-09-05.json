@@ -1,0 +1,43 @@
+{
+  "date": "",
+  "country": "Brazil",
+  "marketCode": "pt-BR",
+  "title": "Um doce intervalo",
+  "bsTitle": "",
+  "caption": "",
+  "copyright": "Beija-flores-brilhantes-de-coroa-verde alimentando-se de flores de garra-de-lagosta, Costa Rica (© Paul Hobson/Nature Picture Library)",
+  "copyrightOnly": "",
+  "copyrightLink": "/search?q=beija+flor&form=hpcapt&mkt=pt-br",
+  "description": "",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_GreenCrowned%22&FORM=HPQUIZ",
+  "hash": "c42ab9fa3f80021f86667656aae90439",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_PT-BR1965351936_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_PT-BR1965351936_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_PT-BR1965351936_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_PT-BR1965351936_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260905",
+    "fullStartDateTime": "202609050300",
+    "endDate": "20260906"
+  },
+  "createdAt": "202609050505",
+  "originalUrlBase": "/th?id=OHR.GreenCrowned_PT-BR1965351936"
+}

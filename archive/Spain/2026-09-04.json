@@ -1,0 +1,43 @@
+{
+  "date": "5 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Pequeños pero veloces",
+  "bsTitle": "Pequeños pero veloces",
+  "caption": "Colibríes brillantes frentiverdes, Costa Rica",
+  "copyright": "Colibríes brillantes frentiverdes alimentándose de flores de platanillo, Costa Rica (© Paul Hobson/Nature Picture Library)",
+  "copyrightOnly": "© Paul Hobson/Nature Picture Library",
+  "copyrightLink": "/search?q=Colibr%c3%ad+brillante+frentiverde&form=hpcapt&filters=HpDate%3a%2220260904_2200%22",
+  "description": "El colibrí brillante frentiverde habita los bosques húmedos de Costa Rica, donde su plumaje verde esmeralda cambia de tono según cómo le dé la luz. Mide apenas doce o trece centímetros y frecuenta las laderas montañosas entre los 700 y los 2.000 metros, allí donde siempre hay flores abiertas, como las heliconias de la imagen.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260904_GreenCrowned%22&FORM=HPQUIZ",
+  "hash": "bacf6f4480011060a23954f651fbd035",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_ES-ES5206324734_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_ES-ES5206324734_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_ES-ES5206324734_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_ES-ES5206324734_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260904",
+    "fullStartDateTime": "202609042200",
+    "endDate": "20260905"
+  },
+  "createdAt": "202609050505",
+  "originalUrlBase": "/th?id=OHR.GreenCrowned_ES-ES5206324734"
+}
