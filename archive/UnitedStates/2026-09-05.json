@@ -1,0 +1,43 @@
+{
+  "date": "Sep 5, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Small birds, big impact",
+  "bsTitle": "Small birds, big impact",
+  "caption": "National Hummingbird Day",
+  "copyright": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)",
+  "copyrightOnly": "© Paul Hobson/Nature Picture Library",
+  "copyrightLink": "/search?q=National+Hummingbird+Day&form=hpcapt&filters=HpDate%3a%2220260905_0700%22",
+  "description": "National Hummingbird Day celebrates some of nature's most extraordinary aerial specialists. Found only in the Americas, these tiny birds can hover in place, fly backward, and beat their wings dozens of times per second. As they visit flowers in search of nectar, they also serve as important pollinators, helping sustain ecosystems from alpine meadows to tropical rainforests. Their shimmering plumage, remarkable agility, and high-energy lifestyles make them some of the world's most fascinating birds.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_GreenCrowned%22&FORM=HPQUIZ",
+  "hash": "a1638aea5f314a09431ef3aa61e7f00c",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260905",
+    "fullStartDateTime": "202609050700",
+    "endDate": "20260906"
+  },
+  "createdAt": "202609060520",
+  "originalUrlBase": "/th?id=OHR.GreenCrowned_EN-US3119017947"
+}

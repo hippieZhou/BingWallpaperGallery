@@ -1,0 +1,43 @@
+{
+  "date": "6 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "El reflejo de la naturaleza",
+  "bsTitle": "El reflejo de la naturaleza",
+  "caption": "Parque Nacional de los Montes Grampianos, Victoria, Australia",
+  "copyright": "Lago Fyans, Parque Nacional de los Montes Grampianos, Victoria, Australia (© tracielouise/Getty Images)",
+  "copyrightOnly": "© tracielouise/Getty Images",
+  "copyrightLink": "/search?q=Parque+Nacional+de+los+Montes+Grampianos&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
+  "description": "Los troncos secos que asoman del agua delatan que el lago Fyans, en Victoria (Australia), no es un lago cualquiera: es un embalse que anegó el terreno donde hoy se reflejan los montes Grampianos. El resultado es una estampa extraña y magnética, con la sierra recortada al fondo.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_LakeFyans%22&FORM=HPQUIZ",
+  "hash": "6507e57a1de132f7a5a44339a62eb238",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_ES-ES8019860279_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_ES-ES8019860279_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_ES-ES8019860279_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_ES-ES8019860279_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260905",
+    "fullStartDateTime": "202609052200",
+    "endDate": "20260906"
+  },
+  "createdAt": "202609060520",
+  "originalUrlBase": "/th?id=OHR.LakeFyans_ES-ES8019860279"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "6. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein See voller Spiegelungen",
+  "bsTitle": "Ein See voller Spiegelungen",
+  "caption": "Fyans-See, Grampians-Nationalpark, Victoria, Australien",
+  "copyright": "Fyans-See, Grampians-Nationalpark, Victoria, Australien (© tracielouise/Getty Images)",
+  "copyrightOnly": "© tracielouise/Getty Images",
+  "copyrightLink": "/search?q=Grampians-Nationalpark+Victoria+Australien&form=hpcapt&filters=HpDate%3a%2220260905_2200%22",
+  "description": "Der Fyans-See neben dem Grampians-Nationalpark im australischen Bundesstaat Victoria zählt zu den landschaftlich reizvollen Gewässern der Region. Ruhiges Wasser, markante Bergzüge und weite Uferbereiche prägen das Bild. An windstillen Tagen spiegeln sich die umliegenden Höhenzüge nahezu perfekt auf der Wasseroberfläche und schaffen eine Atmosphäre, die Besucherinnen und Besucher gleichermaßen fasziniert.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260905_LakeFyans%22&FORM=HPQUIZ",
+  "hash": "2236adc7dabf27f9449c3e8e0ced0ec4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260905",
+    "fullStartDateTime": "202609052200",
+    "endDate": "20260906"
+  },
+  "createdAt": "202609060520",
+  "originalUrlBase": "/th?id=OHR.LakeFyans_DE-DE9957934690"
+}
