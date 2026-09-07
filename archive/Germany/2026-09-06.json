@@ -1,0 +1,43 @@
+{
+  "date": "7. Sept.. 2026",
+  "country": "Germany",
+  "marketCode": "de-DE",
+  "title": "Ein Riff über den Wolken",
+  "bsTitle": "Ein Riff über den Wolken",
+  "caption": "Cadini di Misurina, Dolomiten, Venetien, Italien",
+  "copyright": "Cadini di Misurina, Dolomiten, Venetien, Italien (© Vithun Khamsong/Getty Images)",
+  "copyrightOnly": "© Vithun Khamsong/Getty Images",
+  "copyrightLink": "/search?q=Cadini+di+Misurina+Dolomiten&form=hpcapt&filters=HpDate%3a%2220260906_2200%22",
+  "description": "Im Herzen der Dolomiten erhebt sich die markante Berggruppe der Cadini di Misurina in Venetien, Italien, mit einer Silhouette, die besonders bei Sonnenaufgang beeindruckt. Viele Wanderer, die auf dem Weg zu den nahen Drei Zinnen unterwegs sind, entdecken hier eine Landschaft, die ihnen lange im Gedächtnis bleibt. Die schroffen Gipfel ragen bis auf mehr als 2.800 Meter Höhe auf und wirken, als seien sie eigens für ein alpines Schauspiel geschaffen worden. Tatsächlich begann ihre Geschichte jedoch nicht in den Bergen, sondern unter dem Meer.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260906_MisurinaPeak%22&FORM=HPQUIZ",
+  "hash": "d7991c50ccfde458d610746df1c90e29",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260906",
+    "fullStartDateTime": "202609062200",
+    "endDate": "20260907"
+  },
+  "createdAt": "202609070529",
+  "originalUrlBase": "/th?id=OHR.MisurinaPeak_DE-DE8821401263"
+}
