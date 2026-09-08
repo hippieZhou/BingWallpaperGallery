@@ -1,0 +1,43 @@
+{
+  "date": "Sep 7, 2026",
+  "country": "UnitedStates",
+  "marketCode": "en-US",
+  "title": "Labor's legacy",
+  "bsTitle": "Labor's legacy",
+  "caption": "Labor Day",
+  "copyright": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)",
+  "copyrightOnly": "© David R. Frazier Photolibrary, Inc./Alamy",
+  "copyrightLink": "/search?q=Labor+Day+US&form=hpcapt&filters=HpDate%3a%2220260907_0700%22",
+  "description": "Labor Day honors the contributions of American workers and the history of labor in the United States. Established as a federal holiday in 1894, it emerged during a period of rapid industrial growth and social change. Today, Labor Day recognizes the people whose efforts have helped build communities, industries, and infrastructure across the nation. From farms and factories to railroads and construction sites, generations of workers have played a vital role in shaping the country's history.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_RalphStackpole%22&FORM=HPQUIZ",
+  "hash": "db615818c0a897ea5378d8158e9bb394",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260907",
+    "fullStartDateTime": "202609070700",
+    "endDate": "20260908"
+  },
+  "createdAt": "202609080529",
+  "originalUrlBase": "/th?id=OHR.RalphStackpole_EN-US4463800234"
+}

@@ -1,0 +1,43 @@
+{
+  "date": "8 sept. 2026",
+  "country": "France",
+  "marketCode": "fr-FR",
+  "title": "Au cœur des champs dorés",
+  "bsTitle": "Au cœur des champs dorés",
+  "caption": "Hêtre au milieu de champs de céréales, Hampshire, Angleterre",
+  "copyright": "Hêtre au milieu de champs de céréales, East Meon, Parc national des South Downs, Hampshire, Angleterre (© Guy Edwardes/Minden Pictures)",
+  "copyrightOnly": "© Guy Edwardes/Minden Pictures",
+  "copyrightLink": "/search?q=Hampshire+Angleterre&form=hpcapt&filters=HpDate%3a%2220260907_2200%22",
+  "description": "Au cœur des ondulations crayeuses du parc national des South Downs, près du village d’East Meon dans le Hampshire (Angleterre), un hêtre solitaire se dresse au milieu d’un océan de champs dorés. Sa silhouette élégante attire le regard et raconte une histoire façonnée par des siècles d’agriculture. Les sols calcaires, secs et bien drainés, favorisent la culture des céréales, notamment le blé et l’orge, qui mûrissent lentement sous le soleil estival. Lorsque vient la fin de l’été, les moissons transforment le paysage en une mosaïque lumineuse de chaumes et de teintes ambrées.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+  "hash": "0698c171fc5cae2ecc0d9958cd22a0c4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260907",
+    "fullStartDateTime": "202609072200",
+    "endDate": "20260908"
+  },
+  "createdAt": "202609080529",
+  "originalUrlBase": "/th?id=OHR.BeechEngland_FR-FR3378648733"
+}

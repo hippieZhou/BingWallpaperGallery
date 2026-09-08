@@ -1,0 +1,43 @@
+{
+  "date": "8 de sept de 2026",
+  "country": "Spain",
+  "marketCode": "es-ES",
+  "title": "Una comunidad llena de riquezas",
+  "bsTitle": "Una comunidad llena de riquezas",
+  "caption": "Día de Extremadura",
+  "copyright": "Real Monasterio de Nuestra Señora de Guadalupe, Cáceres, Extremadura, España (© Armando Oliveira/Getty Images)",
+  "copyrightOnly": "© Armando Oliveira/Getty Images",
+  "copyrightLink": "/search?q=D%c3%ada+de+Extremadura&form=hpcapt&filters=HpDate%3a%2220260907_2200%22",
+  "description": "El Real Monasterio de Santa María de Guadalupe, en la provincia de Cáceres (España), es el corazón del Día de Extremadura, que se celebra cada 8 de septiembre desde 1985. La fecha coincide con la fiesta de la Virgen de Guadalupe, patrona de la región, y el edificio esconde un guiño extraordinario: su eje principal apunta al punto exacto por donde sale el sol precisamente ese día.",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_ExtremaduraCaceres%22&FORM=HPQUIZ",
+  "hash": "03bfa0c9e03bce69166bd17a47fd1f95",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260907",
+    "fullStartDateTime": "202609072200",
+    "endDate": "20260908"
+  },
+  "createdAt": "202609080529",
+  "originalUrlBase": "/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072"
+}

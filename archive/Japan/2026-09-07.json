@@ -1,0 +1,43 @@
+{
+  "date": "2026 年 9月 月 8 日",
+  "country": "Japan",
+  "marketCode": "ja-JP",
+  "title": "黄金色の麦畑に立つブナの木",
+  "bsTitle": "黄金色の麦畑に立つブナの木",
+  "caption": "黄金色の麦畑に立つブナの木",
+  "copyright": "イースト・ミーオン, イングランド (© Guy Edwardes/Minden Pictures)",
+  "copyrightOnly": "© Guy Edwardes/Minden Pictures",
+  "copyrightLink": "/search?q=%e3%83%8f%e3%83%b3%e3%83%97%e3%82%b7%e3%83%a3%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260907_1500%22",
+  "description": "ここはイングランドのハンプシャー州、サウス・ダウンズ国立公園にあるイースト・ミーオンという村です。水はけの良い白亜質の土壌が大規模な耕作に適していたため、この白亜の丘陵地帯では何世紀にもわたり農業が行われ、小麦や大麦といった作物が栽培されてきました。収穫期を迎えると、黄金色の畑が広がる美しい風景へと変わります。",
+  "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260907_BeechEngland%22&FORM=HPQUIZ",
+  "hash": "d3e080c299afb1655e649cc36df4aac4",
+  "imageResolutions": [
+    {
+      "resolution": "Standard",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_1366x768.jpg",
+      "size": "1366x768"
+    },
+    {
+      "resolution": "FullHD",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_1920x1080.jpg",
+      "size": "1920x1080"
+    },
+    {
+      "resolution": "HD",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_1920x1200.jpg",
+      "size": "1920x1200"
+    },
+    {
+      "resolution": "UHD4K",
+      "url": "https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_UHD.jpg",
+      "size": "3840x2160"
+    }
+  ],
+  "timeInfo": {
+    "startDate": "20260907",
+    "fullStartDateTime": "202609071500",
+    "endDate": "20260908"
+  },
+  "createdAt": "202609080529",
+  "originalUrlBase": "/th?id=OHR.BeechEngland_JA-JP4737159434"
+}
